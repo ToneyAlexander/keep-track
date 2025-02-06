@@ -55,7 +55,7 @@ function progressColor(progress: string): string {
   if (progress === "In Progress") {
     return "LemonChiffon"
   } else if (progress === "Completed") {
-    return "#d7ffd7"
+    return "rgb(255 215 215)"
   } else {
     return "White"
   }
