@@ -45,7 +45,7 @@ interface InfoBoxProps {
   agency: string,
   subject: string,
   link: string,
-  page: number,
+  pages: number[],
   progress: string
   notes: string,
   tags: string[]
@@ -77,8 +77,7 @@ function badgeColor(badge: string): string {
   }
 }
 
-export const InfoBox = ({ title, agency, subject, link, page, progress, notes, tags }: InfoBoxProps) => {
-  const adjustedPage = page + 33
+export const InfoBox = ({ title, agency, subject, link, pages, progress, notes, tags }: InfoBoxProps) => {
   return (<div style={{
     background: progressColor(progress),
     width: "90%",
@@ -95,7 +94,12 @@ export const InfoBox = ({ title, agency, subject, link, page, progress, notes, t
       return <span key={idx} className="badge" style={{ backgroundColor: badgeColor(tag) }}>{tag}</span>
     })}
     <p><a href={link}>{notes}</a></p>
-    <p style={{fontSize:"12px", marginBottom:"6px"}}>Project 2025 Page <a href={"https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=" + adjustedPage}>{page}</a></p>
+    <p style={{fontSize:"12px", marginBottom:"6px"}}>Project 2025 Page
+      <>{pages.map((page) => {
+        const adjustedPage = page+33
+        return <>&nbsp;<a href={"https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=" + adjustedPage}>{page}</a></>
+      })}</>
+    </p>
   </div>);
 }
 

@@ -20,7 +20,10 @@ with open('./data.csv', 'r') as file:
             "agency": row[0],
             "subject": row[1].capitalize(),
             "title": row[2][0].upper() + row[2][1:],
-            "page": int(row[3]) if row[3].isdigit() else 0,
+            "pages": [int(row[3])] if row[3].isdigit() else [
+                int(p)
+                for p in row[3].split(", ")
+            ],
             "progress": convertRow4(row[4]),
             "notes": row[5],
             "link": row[6],

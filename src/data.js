@@ -3,7 +3,9 @@ export const data = [
     "agency": "CDC",
     "subject": "Health",
     "title": "Limit the CDC's role to evaluating only health-related costs and benefits of interventions, without considering any social impacts",
-    "page": 453,
+    "pages": [
+      453
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -16,7 +18,9 @@ export const data = [
     "agency": "CDC",
     "subject": "Health",
     "title": "Prohibit stem cell research/use in developing vaccines",
-    "page": 455,
+    "pages": [
+      455
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -29,7 +33,9 @@ export const data = [
     "agency": "CDC",
     "subject": "Lgbtqia",
     "title": "End data collection on gender identity ",
-    "page": 456,
+    "pages": [
+      456
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -42,7 +48,9 @@ export const data = [
     "agency": "CDC",
     "subject": "Reorganization",
     "title": "Split CDC into two agencies, one for data collection and one for policy recommendations",
-    "page": 453,
+    "pages": [
+      453
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -55,7 +63,9 @@ export const data = [
     "agency": "CDC",
     "subject": "Reproductive health",
     "title": "Fund studies into the risks and complications of abortion ",
-    "page": 455,
+    "pages": [
+      455
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -68,7 +78,9 @@ export const data = [
     "agency": "CDC",
     "subject": "Reproductive health",
     "title": "Promote fertility awareness\u2013based methods (as opposed to contraception) for \"family planning\"",
-    "page": 455,
+    "pages": [
+      455
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -81,7 +93,9 @@ export const data = [
     "agency": "CDC",
     "subject": "Reproductive health",
     "title": "Cut funds to states that do not provide detailed abortion reports",
-    "page": 455,
+    "pages": [
+      455
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -94,7 +108,9 @@ export const data = [
     "agency": "CFPB",
     "subject": "Economy",
     "title": "Abolish the Consumer Protection Bureau",
-    "page": 839,
+    "pages": [
+      839
+    ],
     "progress": "In Progress",
     "notes": "Treasury Secretary ordered all CFPB staff to halt work and communications",
     "link": "https://www.npr.org/2025/02/03/nx-s1-5285356/treasury-secretary-bessent-acting-cfpb-director",
@@ -107,7 +123,9 @@ export const data = [
     "agency": "CFTC",
     "subject": "Economy",
     "title": "Reduce regulations on cryptocurrencies",
-    "page": 835,
+    "pages": [
+      835
+    ],
     "progress": "In Progress",
     "notes": "Trump ordered the creation of a crypto working group to draft new regulations",
     "link": "https://www.whitehouse.gov/presidential-actions/2025/01/strengthening-american-leadership-in-digital-financial-technology/",
@@ -120,7 +138,9 @@ export const data = [
     "agency": "CMS",
     "subject": "Medicaid",
     "title": "Allow states to control Medicaid by transforming the program into a block grant or imposing per capita caps",
-    "page": 466,
+    "pages": [
+      466
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -133,7 +153,9 @@ export const data = [
     "agency": "CMS",
     "subject": "Medicaid",
     "title": "Reduce federal incentives for states to expand Medicaid coverage",
-    "page": 467,
+    "pages": [
+      467
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -146,7 +168,9 @@ export const data = [
     "agency": "CMS",
     "subject": "Medicaid",
     "title": "Impose Medicaid work requirements",
-    "page": 467,
+    "pages": [
+      467
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -159,7 +183,9 @@ export const data = [
     "agency": "CMS",
     "subject": "Medicaid",
     "title": "Impose time-limits on how long low-income people can receive Medicaid in their lifetime",
-    "page": 468,
+    "pages": [
+      468
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -172,7 +198,9 @@ export const data = [
     "agency": "CMS",
     "subject": "Medicaid",
     "title": "Allow states to amend their Medicaid programs without waivers oversight",
-    "page": 468,
+    "pages": [
+      468
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -185,7 +213,9 @@ export const data = [
     "agency": "CMS",
     "subject": "Medicare",
     "title": "Make Medicare Advantage the default enrollment option ",
-    "page": 465,
+    "pages": [
+      465
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -198,7 +228,9 @@ export const data = [
     "agency": "CMS",
     "subject": "Medicare",
     "title": "Reinstate private-sector drug price negotiation program (repeal part of the Inflation Reduction Act's Medicare Part D reforms)",
-    "page": 465,
+    "pages": [
+      465
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -211,7 +243,9 @@ export const data = [
     "agency": "Commerce",
     "subject": "Census",
     "title": "Focus census outreach on \"conservative groups\"",
-    "page": 680,
+    "pages": [
+      680
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -224,7 +258,9 @@ export const data = [
     "agency": "Commerce",
     "subject": "Census",
     "title": "Add a citizenship question to the census",
-    "page": 680,
+    "pages": [
+      680
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -237,7 +273,9 @@ export const data = [
     "agency": "Commerce",
     "subject": "Census",
     "title": "Abolish the Census Bureau National Advisory Committee on Racial, Ethnic, and Other Populations",
-    "page": 682,
+    "pages": [
+      682
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -250,7 +288,9 @@ export const data = [
     "agency": "Commerce",
     "subject": "Environment",
     "title": "Lessen regulations that protect marine life",
-    "page": 676,
+    "pages": [
+      676
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -263,7 +303,9 @@ export const data = [
     "agency": "Commerce",
     "subject": "Reorganization",
     "title": "Break up the National Oceanic and Atmospheric Administration",
-    "page": 674,
+    "pages": [
+      674
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -276,7 +318,9 @@ export const data = [
     "agency": "Commerce",
     "subject": "Reorganization",
     "title": "\"fully commercialize\" the National Weather Service's forecasting operations",
-    "page": 675,
+    "pages": [
+      675
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -289,7 +333,9 @@ export const data = [
     "agency": "Commerce",
     "subject": "Reorganization",
     "title": "Elevate the Office of Space Commerce",
-    "page": 677,
+    "pages": [
+      677
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -302,7 +348,9 @@ export const data = [
     "agency": "Commerce",
     "subject": "Reorganization, environment",
     "title": "\"downsize\" the Office of Oceanic and Atmospheric Research, which focuses too much on \"climate alarmism\"",
-    "page": 676,
+    "pages": [
+      676
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -316,7 +364,9 @@ export const data = [
     "agency": "Commerce",
     "subject": "Trade",
     "title": "Tighten export control regulations",
-    "page": 671,
+    "pages": [
+      671
+    ],
     "progress": "Completed",
     "notes": "",
     "link": "https://www.whitehouse.gov/presidential-actions/2025/01/america-first-trade-policy/",
@@ -329,7 +379,9 @@ export const data = [
     "agency": "CPB",
     "subject": "Media",
     "title": "Stop funding for NPR and PBS",
-    "page": 246,
+    "pages": [
+      246
+    ],
     "progress": "In Progress",
     "notes": "in progress: Trump's FCC ordered an investigation into the funding of NPR and PBS",
     "link": "https://www.npr.org/2025/01/30/nx-s1-5281162/fcc-npr-pbs-investigation",
@@ -342,7 +394,9 @@ export const data = [
     "agency": "Defense",
     "subject": "Defense",
     "title": "Reinstate servicemembers who were fired due to their refusal to comply with COVID-19 vaccine mandate",
-    "page": 103,
+    "pages": [
+      103
+    ],
     "progress": "Completed",
     "notes": "",
     "link": "https://www.whitehouse.gov/presidential-actions/2025/01/reinstating-service-members-discharged-under-the-militarys-covid-19-vaccination-mandate/",
@@ -354,7 +408,9 @@ export const data = [
     "agency": "Defense",
     "subject": "Defense",
     "title": "Increase defense burden-sharing with allies",
-    "page": 94,
+    "pages": [
+      94
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -366,7 +422,9 @@ export const data = [
     "agency": "Defense",
     "subject": "Defense",
     "title": "Reduce U.S. force posture in Europe",
-    "page": 94,
+    "pages": [
+      94
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -378,7 +436,9 @@ export const data = [
     "agency": "Defense",
     "subject": "Defense",
     "title": "End congressional review of arms transfers to foreign countries",
-    "page": 101,
+    "pages": [
+      101
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -390,7 +450,9 @@ export const data = [
     "agency": "Defense",
     "subject": "Defense, education",
     "title": "Require all schools that receive federal funding to give students the miilitary entrance test",
-    "page": 102,
+    "pages": [
+      102
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -403,7 +465,9 @@ export const data = [
     "agency": "Defense",
     "subject": "Deia",
     "title": "Abolish DEI offices in the Defense Dept. and military",
-    "page": 103,
+    "pages": [
+      103
+    ],
     "progress": "Completed",
     "notes": "",
     "link": "https://www.npr.org/2025/01/28/nx-s1-5276839/trump-executive-order-dei-military",
@@ -416,7 +480,9 @@ export const data = [
     "agency": "Defense",
     "subject": "Elections, technology",
     "title": "End Cybercom's participation in federal efforts to \"fortify\" U.S. elections",
-    "page": 120,
+    "pages": [
+      120
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -430,7 +496,9 @@ export const data = [
     "agency": "Defense",
     "subject": "Immigration",
     "title": "Deploy active-duty personnel and National Guardsmen to the border",
-    "page": 555,
+    "pages": [
+      555
+    ],
     "progress": "Completed",
     "notes": "",
     "link": "https://www.whitehouse.gov/presidential-actions/2025/01/declaring-a-national-emergency-at-the-southern-border-of-the-united-states/",
@@ -443,7 +511,9 @@ export const data = [
     "agency": "Defense",
     "subject": "Immigration",
     "title": "Military should assist in building border wall",
-    "page": 166,
+    "pages": [
+      166
+    ],
     "progress": "Completed",
     "notes": "",
     "link": "https://www.whitehouse.gov/presidential-actions/2025/01/declaring-a-national-emergency-at-the-southern-border-of-the-united-states/",
@@ -456,7 +526,9 @@ export const data = [
     "agency": "Defense",
     "subject": "Intel",
     "title": "Remove Cybercom from the oversight of the National Security Agency",
-    "page": 119,
+    "pages": [
+      119
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -469,7 +541,9 @@ export const data = [
     "agency": "Defense",
     "subject": "Lgbtqia",
     "title": "Expel transgender people who are currently serving in the military",
-    "page": 103,
+    "pages": [
+      103
+    ],
     "progress": "Completed",
     "notes": "",
     "link": "https://www.whitehouse.gov/presidential-actions/2025/01/prioritizing-military-excellence-and-readiness/",
@@ -482,7 +556,9 @@ export const data = [
     "agency": "Defense",
     "subject": "Lgbtqia",
     "title": "Prohibit any funding for treatment for gender dysphoria for military members",
-    "page": 104,
+    "pages": [
+      104
+    ],
     "progress": "Completed",
     "notes": "",
     "link": "https://www.whitehouse.gov/presidential-actions/2025/01/prioritizing-military-excellence-and-readiness/",
@@ -495,7 +571,9 @@ export const data = [
     "agency": "Defense",
     "subject": "Reproductive health",
     "title": "Prohibit abortion travel funding",
-    "page": 471,
+    "pages": [
+      471
+    ],
     "progress": "Completed",
     "notes": "",
     "link": "https://www.nbcnews.com/politics/national-security/pentagon-ends-policy-funding-travel-abortions-care-rcna190198",
@@ -508,7 +586,9 @@ export const data = [
     "agency": "DHS",
     "subject": "Aid",
     "title": "Eliminate \"most\" of DHS's grant programs",
-    "page": 135,
+    "pages": [
+      135
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -521,7 +601,9 @@ export const data = [
     "agency": "DHS",
     "subject": "Cyber security",
     "title": "Dismiss \"the entirety\" of the CISA Cybersecurity Advisory Committee",
-    "page": 155,
+    "pages": [
+      155
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -534,7 +616,9 @@ export const data = [
     "agency": "DHS",
     "subject": "Cyber security, elections",
     "title": "Terminate CISA's counter-mis/disinformation efforts",
-    "page": 155,
+    "pages": [
+      155
+    ],
     "progress": "In Progress",
     "notes": "Trump has yet to name a head of CISA and \"for the first time since it was formed, there are no plans for anyone in its leadership to address the main annual gathering of the nation\u2019s secretaries of state\"",
     "link": "https://apnews.com/article/cisa-dhs-cybersecurity-election-security-trump-d17f40ad31f85a7538a7904efbea6b49",
@@ -548,7 +632,9 @@ export const data = [
     "agency": "DHS",
     "subject": "Fema",
     "title": "\"shift the majority\" of FEMA's preparednes and response costs to states and localities",
-    "page": 135,
+    "pages": [
+      135
+    ],
     "progress": "In Progress",
     "notes": "Trump created a council to review FEMA's structure, after telling the media \"FEMA should go away\"",
     "link": "https://www.governing.com/resilience/trump-moves-to-abolish-fema-shift-disaster-response-to-states",
@@ -561,7 +647,9 @@ export const data = [
     "agency": "DHS",
     "subject": "Fema",
     "title": "Privatize the FEMA National Flood Insurance Program",
-    "page": 135,
+    "pages": [
+      135
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -574,7 +662,9 @@ export const data = [
     "agency": "DHS",
     "subject": "Fema",
     "title": "Limit FEMA-issued grants to states that \"comply with all aspects of federal immigration laws, including the honoring of all immigration detainers\" and states/localities that give \"total information-sharing\" to federal law and immigration enforcement",
-    "page": 137,
+    "pages": [
+      137
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -587,7 +677,9 @@ export const data = [
     "agency": "DHS",
     "subject": "Immigration",
     "title": "Repeal TPS designations",
-    "page": 145,
+    "pages": [
+      145
+    ],
     "progress": "In Progress",
     "notes": "Trump ended TPS protections for Venezuelans",
     "link": "https://www.theguardian.com/us-news/2025/feb/02/trump-revokes-protections-venezuelans",
@@ -600,7 +692,9 @@ export const data = [
     "agency": "DHS",
     "subject": "Immigration",
     "title": "ICE should be required to \"take custody of all aliens with records for felonies...DUIs...and any other crime that is considered a national security or public safety threat\"",
-    "page": 141,
+    "pages": [
+      141
+    ],
     "progress": "Completed",
     "notes": "",
     "link": "https://www.whitehouse.gov/presidential-actions/2025/01/securing-our-borders/",
@@ -613,7 +707,9 @@ export const data = [
     "agency": "DHS",
     "subject": "Immigration",
     "title": "Increase use of civil search warrants for workplace raids",
-    "page": 142,
+    "pages": [
+      142
+    ],
     "progress": "Completed",
     "notes": "",
     "link": "https://www.ice.gov/news/releases/ice-executes-federal-criminal-search-warrants-fresh-mark-146-arrested-immigration",
@@ -626,7 +722,9 @@ export const data = [
     "agency": "DHS",
     "subject": "Immigration",
     "title": "Raise the standard for a credible fear of persecution for asylum",
-    "page": 148,
+    "pages": [
+      148
+    ],
     "progress": "Completed",
     "notes": "Trump went farther, shutting down asylum altogether",
     "link": "https://www.whitehouse.gov/presidential-actions/2025/01/guaranteeing-the-states-protection-against-invasion/",
@@ -639,7 +737,9 @@ export const data = [
     "agency": "DHS",
     "subject": "Immigration",
     "title": "Reinstate Remain in Mexico",
-    "page": 149,
+    "pages": [
+      149
+    ],
     "progress": "Completed",
     "notes": "",
     "link": "https://www.whitehouse.gov/presidential-actions/2025/01/securing-our-borders/",
@@ -652,7 +752,9 @@ export const data = [
     "agency": "DHS",
     "subject": "Immigration",
     "title": "Dismantle the Dept. of Homeland Security or, at least, combine ICE and CBP to form a \"Border Security and Immigration Agency\"",
-    "page": 133,
+    "pages": [
+      133
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -665,7 +767,9 @@ export const data = [
     "agency": "DHS",
     "subject": "Immigration",
     "title": "Do not increase the number of H-2B (seasonal non-agricultural) visas",
-    "page": 138,
+    "pages": [
+      138
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -678,7 +782,9 @@ export const data = [
     "agency": "DHS",
     "subject": "Immigration",
     "title": "CBP should restart and expand use of horseback-mounted Border Patrol",
-    "page": 139,
+    "pages": [
+      139
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -691,7 +797,9 @@ export const data = [
     "agency": "DHS",
     "subject": "Immigration",
     "title": "Create a \"single nationwide detention standard\" that includes the \"flexibility to use large numbers of temporary facilities such as tents\"",
-    "page": 140,
+    "pages": [
+      140
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -704,7 +812,9 @@ export const data = [
     "agency": "DHS",
     "subject": "Immigration",
     "title": "Eliminate T and U visas (given to noncitizen victims of trafficking and noncitizens who are victims of certain crimes and give helpful information to law enforcement)",
-    "page": 141,
+    "pages": [
+      141
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -717,7 +827,9 @@ export const data = [
     "agency": "DHS",
     "subject": "Immigration",
     "title": "Eliminate or significantly reduce the number of visas issued to foreign students from \"enemy nations\"",
-    "page": 141,
+    "pages": [
+      141
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -730,7 +842,9 @@ export const data = [
     "agency": "DHS",
     "subject": "Immigration",
     "title": "Increase ICE funding for 100,000 detention beds",
-    "page": 143,
+    "pages": [
+      143
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -743,7 +857,9 @@ export const data = [
     "agency": "DHS",
     "subject": "Immigration",
     "title": "Revive Trump's public charge rule",
-    "page": 145,
+    "pages": [
+      145
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -756,7 +872,9 @@ export const data = [
     "agency": "DHS",
     "subject": "Immigration",
     "title": "Repeal the diversity lottery",
-    "page": 145,
+    "pages": [
+      145
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -769,7 +887,9 @@ export const data = [
     "agency": "DHS",
     "subject": "Immigration",
     "title": "End chain migration",
-    "page": 145,
+    "pages": [
+      145
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -782,7 +902,9 @@ export const data = [
     "agency": "DHS",
     "subject": "Immigration",
     "title": "Create an \"authority akin to the Title 42 Public Health authority\" to expel illegal immigrants across the border immediately",
-    "page": 147,
+    "pages": [
+      147
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -795,7 +917,9 @@ export const data = [
     "agency": "DHS",
     "subject": "Immigration",
     "title": "Repeal Section 235 of the TVPRA (which protects unaccompanied minors encountered near the border)",
-    "page": 148,
+    "pages": [
+      148
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -808,7 +932,9 @@ export const data = [
     "agency": "DHS",
     "subject": "Immigration",
     "title": "End the Flores Settlement Agreement (which sets basic standards of care for immigrant children in custody)",
-    "page": 148,
+    "pages": [
+      148
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -821,7 +947,9 @@ export const data = [
     "agency": "DHS",
     "subject": "Immigration",
     "title": "Congress should require compliance with immigration detainers and authorize state and local law enforcement to participate in immigration actions",
-    "page": 150,
+    "pages": [
+      150
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -834,7 +962,9 @@ export const data = [
     "agency": "DHS",
     "subject": "Immigration",
     "title": "Eliminate the Office of Immigration Detention Ombudsman",
-    "page": 165,
+    "pages": [
+      165
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -847,7 +977,9 @@ export const data = [
     "agency": "DHS",
     "subject": "Immigration",
     "title": "Eliminate the Office of the Citizenship and Immigration Services Ombudsman",
-    "page": 166,
+    "pages": [
+      166
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -860,7 +992,9 @@ export const data = [
     "agency": "DHS",
     "subject": "Intel, reorganization",
     "title": "Eliminate the DHS Office of Intelligence and Analysis",
-    "page": 161,
+    "pages": [
+      161
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -874,7 +1008,9 @@ export const data = [
     "agency": "DHS",
     "subject": "Personnel",
     "title": "DHS Secretary should \"quickly remove all current members\" of the Homeland Security Advisory Committee and replace them",
-    "page": 138,
+    "pages": [
+      138
+    ],
     "progress": "Completed",
     "notes": "",
     "link": "https://www.cbsnews.com/news/dhs-terminates-all-advisory-committees-ends-investigation-chinese-linked-telecom-hack-salt-typhoon/",
@@ -887,7 +1023,9 @@ export const data = [
     "agency": "DHS",
     "subject": "Personnel, unions",
     "title": "Remove all unions in the Dept. of Homeland Security",
-    "page": 135,
+    "pages": [
+      135
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -901,7 +1039,9 @@ export const data = [
     "agency": "DHS",
     "subject": "Police",
     "title": "Allow Secret Service officers to serve as law enforcement in the District of Columbia",
-    "page": 158,
+    "pages": [
+      158
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -914,7 +1054,9 @@ export const data = [
     "agency": "DHS",
     "subject": "Tsa",
     "title": "Privatize TSA screening",
-    "page": 135,
+    "pages": [
+      135
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -927,7 +1069,9 @@ export const data = [
     "agency": "DOJ",
     "subject": "Civil rights, voting rights",
     "title": "Reassign enforcement of voting rights from the Civil Rights Division to the Criminal Division",
-    "page": 562,
+    "pages": [
+      562
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -941,7 +1085,9 @@ export const data = [
     "agency": "DOJ",
     "subject": "Criminal justice",
     "title": "Pursue the death penalty for all applicable crimes",
-    "page": 554,
+    "pages": [
+      554
+    ],
     "progress": "Completed",
     "notes": "",
     "link": "https://www.whitehouse.gov/presidential-actions/2025/01/restoring-the-death-penalty-and-protecting-public-safety/",
@@ -954,7 +1100,9 @@ export const data = [
     "agency": "DOJ",
     "subject": "Criminal justice",
     "title": "Prosecute local officials, including district attorneys, that use their discretion not to prosecute a criminal case",
-    "page": 553,
+    "pages": [
+      553
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -967,7 +1115,9 @@ export const data = [
     "agency": "DOJ",
     "subject": "Criminal justice",
     "title": "Rigorously prosecute drug activity including \"simple possession of distributable quantities\"",
-    "page": 555,
+    "pages": [
+      555
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -980,7 +1130,9 @@ export const data = [
     "agency": "DOJ",
     "subject": "Criminal justice, police",
     "title": "Eliminate all existing DOJ consent decrees",
-    "page": 558,
+    "pages": [
+      558
+    ],
     "progress": "In Progress",
     "notes": "DOJ has frozen all consent decrees finalized within the last 90 days; paused all civil rights litigation",
     "link": "https://www.yahoo.com/news/trumps-doj-reportedly-moves-halt-143659620.html",
@@ -994,7 +1146,9 @@ export const data = [
     "agency": "DOJ",
     "subject": "Criminal justice, reproductive health",
     "title": "Avoid \"politically motivated prosecutions\" like of people who violate the FACE Act",
-    "page": 558,
+    "pages": [
+      558
+    ],
     "progress": "Completed",
     "notes": "DOJ has directed federal prosecutors to limit enforcement of the FACE Act",
     "link": "https://www.cbsnews.com/news/trump-face-act-abortion-related-actions-justice-department/",
@@ -1008,7 +1162,9 @@ export const data = [
     "agency": "DOJ",
     "subject": "Deia",
     "title": "Use \"the full force of federal prosecutorial resources\" to investigate and prosecute state and local gov'ts, institutes of higher ed, corporations, and private employers who have diversity initiatives",
-    "page": 562,
+    "pages": [
+      562
+    ],
     "progress": "Completed",
     "notes": "",
     "link": "https://www.nbcnews.com/politics/justice-department/trump-reversing-justice-departments-civil-rights-policies-rcna189657",
@@ -1021,7 +1177,9 @@ export const data = [
     "agency": "DOJ",
     "subject": "Funding, immigration",
     "title": "Cut off DOJ grants to states/localities that do not cooperate with Trump's immigration plans",
-    "page": 566,
+    "pages": [
+      566
+    ],
     "progress": "In Progress",
     "notes": "",
     "link": "https://news.bloomberglaw.com/us-law-week/trump-doj-orders-probes-into-state-local-immigration-resistors",
@@ -1035,7 +1193,9 @@ export const data = [
     "agency": "DOJ",
     "subject": "Immigration",
     "title": "Issue guidance to all U.S. Attorneys \"emphasizing the importance of prosecuting immigration offenses\"",
-    "page": 567,
+    "pages": [
+      567
+    ],
     "progress": "Completed",
     "notes": "",
     "link": "https://immpolicytracking.org/policies/doj-memo-creates-new-prosecutorial-discretion-guidelines-and-directs-the-fbis-joint-terrorism-task-force-to-redeploy-doj-resources-and-personnel-for-immigration-enforcement/",
@@ -1048,7 +1208,9 @@ export const data = [
     "agency": "DOJ",
     "subject": "Immigration",
     "title": "Ensure \"appropriate steps\" are taken to obtain cooperation with sanctuary cities and states",
-    "page": 567,
+    "pages": [
+      567
+    ],
     "progress": "Completed",
     "notes": "",
     "link": "https://www.whitehouse.gov/presidential-actions/2025/01/protecting-the-american-people-against-invasion/",
@@ -1061,7 +1223,9 @@ export const data = [
     "agency": "DOJ",
     "subject": "Intel",
     "title": "Rescind AG Garland's policy that limited the Department's ability to subpoena journalists during leak investigations",
-    "page": 214,
+    "pages": [
+      214
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -1074,7 +1238,9 @@ export const data = [
     "agency": "DOJ",
     "subject": "Presidential power",
     "title": "Immediately end \"any policies, investigations, or cases that run contrary to...administration policies,\" including the \"brazenly partisan and ideologically driven prosecution of...perceived political enemies\"",
-    "page": 557,
+    "pages": [
+      557
+    ],
     "progress": "Completed",
     "notes": "",
     "link": "https://www.whitehouse.gov/presidential-actions/2025/01/ending-the-weaponization-of-the-federal-government/",
@@ -1087,7 +1253,9 @@ export const data = [
     "agency": "DOJ",
     "subject": "Presidential power",
     "title": "Take the position that Humphrey's Executor violates the separation of powers",
-    "page": 560,
+    "pages": [
+      560
+    ],
     "progress": "Completed",
     "notes": "Humphrey's Executor is a SCOTUS case that limited the president's ability to fire directors of independent agencies",
     "link": "",
@@ -1100,7 +1268,9 @@ export const data = [
     "agency": "DOJ",
     "subject": "Reproductive health",
     "title": "Enforce the Comstock Act",
-    "page": 562,
+    "pages": [
+      562
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -1113,7 +1283,9 @@ export const data = [
     "agency": "DOJ",
     "subject": "Technology",
     "title": "Prohibit the U.S. government from combating the spread of misinformation and disinformation",
-    "page": 550,
+    "pages": [
+      550
+    ],
     "progress": "Completed",
     "notes": "",
     "link": "https://www.whitehouse.gov/presidential-actions/2025/01/restoring-freedom-of-speech-and-ending-federal-censorship/",
@@ -1126,7 +1298,9 @@ export const data = [
     "agency": "Education",
     "subject": "Civil rights",
     "title": "Cease investigating Title VI disparate impact cases",
-    "page": 335,
+    "pages": [
+      335
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -1139,7 +1313,9 @@ export const data = [
     "agency": "Education",
     "subject": "Civil rights",
     "title": "Rescind the Equity in IDEA (Individuals with Disabilities Education Act) regulations",
-    "page": 336,
+    "pages": [
+      336
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -1152,7 +1328,9 @@ export const data = [
     "agency": "Education",
     "subject": "Civil rights, lgbtqia",
     "title": "Resind Biden-era Title IX rules that made strengthened the proseuction of sexual assault and discrimination claims",
-    "page": 333,
+    "pages": [
+      333
+    ],
     "progress": "Completed",
     "notes": "",
     "link": "https://thehill.com/homenews/education/5118925-trump-biden-title-ix-education-gender-lgbtq/",
@@ -1166,7 +1344,9 @@ export const data = [
     "agency": "Education",
     "subject": "Civil rights, lgbtqia",
     "title": "Rescind Biden-era guindance that added a \"non-binary\" option in civil rights data collected from schools",
-    "page": 332,
+    "pages": [
+      332
+    ],
     "progress": "Completed",
     "notes": "achieved by issuing an executive order declaring it is federal policy that there are only two genders: male and female",
     "link": "https://www.whitehouse.gov/presidential-actions/2025/01/defending-women-from-gender-ideology-extremism-and-restoring-biological-truth-to-the-federal-government/",
@@ -1180,7 +1360,9 @@ export const data = [
     "agency": "Education",
     "subject": "Civil rights, lgbtqia",
     "title": "Issue rules and guindance that that \u201csex\u201d is properly understood as a fixed biological fact",
-    "page": 334,
+    "pages": [
+      334
+    ],
     "progress": "Completed",
     "notes": "",
     "link": "https://www.whitehouse.gov/presidential-actions/2025/01/defending-women-from-gender-ideology-extremism-and-restoring-biological-truth-to-the-federal-government/",
@@ -1194,7 +1376,9 @@ export const data = [
     "agency": "Education",
     "subject": "Education",
     "title": "Cut off federal funds to states, cities, counties, schools board, principals, and teachers who disagree with parental rights",
-    "page": 5,
+    "pages": [
+      5
+    ],
     "progress": "Completed",
     "notes": "",
     "link": "https://www.sacbee.com/news/politics-government/capitol-alert/article299398074.html",
@@ -1206,7 +1390,9 @@ export const data = [
     "agency": "Education",
     "subject": "Education",
     "title": "Ban critical race theory in schools that receive federal funding",
-    "page": 343,
+    "pages": [
+      343
+    ],
     "progress": "Completed",
     "notes": "",
     "link": "https://www.whitehouse.gov/presidential-actions/2025/01/ending-radical-indoctrination-in-k-12-schooling/",
@@ -1218,7 +1404,9 @@ export const data = [
     "agency": "Education",
     "subject": "Education",
     "title": "Expand school choice (i.e. public funding for private schools)",
-    "page": 350,
+    "pages": [
+      350
+    ],
     "progress": "Completed",
     "notes": "",
     "link": "https://www.whitehouse.gov/presidential-actions/2025/01/expanding-educational-freedom-and-opportunity-for-families/",
@@ -1230,7 +1418,9 @@ export const data = [
     "agency": "Education",
     "subject": "Education",
     "title": "Transition Title 1 funding to \"no-strings\" block grants and eventually phase out the program entirely (Title 1 provides federal funding to schools serving low-income children)",
-    "page": 325,
+    "pages": [
+      325
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -1242,7 +1432,9 @@ export const data = [
     "agency": "Education",
     "subject": "Education",
     "title": "Convert Individuals with Disabilities Education Act funding to \"no-strings\" block grants",
-    "page": 326,
+    "pages": [
+      326
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -1254,7 +1446,9 @@ export const data = [
     "agency": "Education",
     "subject": "Education",
     "title": "Pass a federal \"Parents' Bill of Rights\"",
-    "page": 344,
+    "pages": [
+      344
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -1266,7 +1460,9 @@ export const data = [
     "agency": "Education",
     "subject": "Education",
     "title": "Amend the Family Educational Rights and Privacy Act and Protection of Pupil Rights Amendment to create a private right of action",
-    "page": 344,
+    "pages": [
+      344
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -1278,7 +1474,9 @@ export const data = [
     "agency": "Education",
     "subject": "Education",
     "title": "Allow states to opt out of federal programs and instead use the funding for \"any lawful education purpose\"",
-    "page": 351,
+    "pages": [
+      351
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -1290,7 +1488,9 @@ export const data = [
     "agency": "Education",
     "subject": "Education",
     "title": "Eliminate the PLUS loan program",
-    "page": 361,
+    "pages": [
+      361
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -1302,7 +1502,9 @@ export const data = [
     "agency": "Education",
     "subject": "Education",
     "title": "Eliminate the GEAR-UP program (provides low-income middle and high school students with academic assistance)",
-    "page": 361,
+    "pages": [
+      361
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -1314,7 +1516,9 @@ export const data = [
     "agency": "Education",
     "subject": "Labor",
     "title": "Rescind the National Education Association\u2019s congressional charter",
-    "page": 342,
+    "pages": [
+      342
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -1327,7 +1531,9 @@ export const data = [
     "agency": "Education",
     "subject": "Lgbtqia, civil rights",
     "title": "Abandon the redefinition of \"sex\" to \u201csexual orientation and gender identity\u201d in Title IX",
-    "page": 333,
+    "pages": [
+      333
+    ],
     "progress": "Completed",
     "notes": "",
     "link": "https://www.whitehouse.gov/presidential-actions/2025/01/defending-women-from-gender-ideology-extremism-and-restoring-biological-truth-to-the-federal-government/",
@@ -1341,7 +1547,9 @@ export const data = [
     "agency": "Education",
     "subject": "Lgbtqia, equality",
     "title": "Ban \"critical race theory\" and \"gender ideology\" from public school curriculum",
-    "page": 5,
+    "pages": [
+      5
+    ],
     "progress": "Completed",
     "notes": "",
     "link": "https://19thnews.org/2025/01/trump-transgender-education-curriculum/",
@@ -1355,7 +1563,9 @@ export const data = [
     "agency": "Education",
     "subject": "Reorganization",
     "title": "Break up the Department of Education",
-    "page": 330,
+    "pages": [
+      330
+    ],
     "progress": "In Progress",
     "notes": "reportedly in progress ",
     "link": "https://abcnews.go.com/Politics/trump-order-dismantle-education-department-works-sources/story?id=118418280",
@@ -1368,7 +1578,10 @@ export const data = [
     "agency": "Education",
     "subject": "Student loans",
     "title": "Roll back Biden-era student loan forgiveness and income-driven repayment regulations",
-    "page": 0,
+    "pages": [
+      332,
+      337
+    ],
     "progress": "In Progress",
     "notes": "in part achieved last year by right wing judges blocking Biden's student loan programs",
     "link": "https://ago.mo.gov/wp-content/uploads/2024-8-9-Eighth-Circuit-Student-Loan-Win.pdf",
@@ -1381,7 +1594,10 @@ export const data = [
     "agency": "Education",
     "subject": "Student loans",
     "title": "Privatize the federal student loan portfolio",
-    "page": 0,
+    "pages": [
+      340,
+      353
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -1394,7 +1610,9 @@ export const data = [
     "agency": "Energy",
     "subject": "Energy",
     "title": "Focus energy policy on critical minerals",
-    "page": 376,
+    "pages": [
+      376
+    ],
     "progress": "Completed",
     "notes": "",
     "link": "https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-american-energy/",
@@ -1406,7 +1624,9 @@ export const data = [
     "agency": "Energy",
     "subject": "Energy",
     "title": "Eliminate energy efficiency standards for appliances",
-    "page": 379,
+    "pages": [
+      379
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -1418,7 +1638,9 @@ export const data = [
     "agency": "Energy",
     "subject": "Energy, environment",
     "title": "Limit subsidized renewables",
-    "page": 401,
+    "pages": [
+      401
+    ],
     "progress": "In Progress",
     "notes": "in part achieved by stopping the disbursement of IRA and IIJA funding",
     "link": "",
@@ -1431,7 +1653,10 @@ export const data = [
     "agency": "Energy",
     "subject": "Environment",
     "title": "Expand energy exploration and extraction in Alaska, open Nat'l Petroleum Reserve to leasing and development",
-    "page": 0,
+    "pages": [
+      390,
+      524
+    ],
     "progress": "Completed",
     "notes": "",
     "link": "https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-alaskas-extraordinary-resource-potential/",
@@ -1444,7 +1669,9 @@ export const data = [
     "agency": "Energy",
     "subject": "Environment",
     "title": "Eliminate the Office of Fossil Energy and Carbon Management or redirect it to increasing fossil fuel use",
-    "page": 377,
+    "pages": [
+      377
+    ],
     "progress": "Completed",
     "notes": "",
     "link": "https://www.energy.gov/articles/us-department-energy-reverses-biden-lng-pause-restores-trump-energy-dominance-agenda",
@@ -1457,7 +1684,10 @@ export const data = [
     "agency": "Energy",
     "subject": "Environment",
     "title": "Ensure liquified natural gas export applications are \"approved expeditiously,\" without consideration of climate change",
-    "page": 0,
+    "pages": [
+      377,
+      408
+    ],
     "progress": "Completed",
     "notes": "",
     "link": "https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-american-energy/",
@@ -1470,7 +1700,9 @@ export const data = [
     "agency": "Energy",
     "subject": "Environment",
     "title": "Eliminate considerations of upstream and downstream greenhouse gas emissions",
-    "page": 406,
+    "pages": [
+      406
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -1483,7 +1715,9 @@ export const data = [
     "agency": "Energy",
     "subject": "Environment",
     "title": "Eliminate carbon capture utilization and stoarge programs",
-    "page": 376,
+    "pages": [
+      376
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -1496,7 +1730,9 @@ export const data = [
     "agency": "Energy",
     "subject": "Environment",
     "title": "Expand natural gas infrastructure",
-    "page": 402,
+    "pages": [
+      402
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -1509,7 +1745,9 @@ export const data = [
     "agency": "Energy",
     "subject": "Nuclear",
     "title": "Reverse Biden-era decisions to retire parts of nuclear arsenal, reject Comprehensive Test Ban Treaty",
-    "page": 399,
+    "pages": [
+      399
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -1522,7 +1760,9 @@ export const data = [
     "agency": "Energy",
     "subject": "Nuclear, environment",
     "title": "Restart the Yucca Mountain licensing process (to dispose of nuclear waste)",
-    "page": 397,
+    "pages": [
+      397
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -1536,7 +1776,9 @@ export const data = [
     "agency": "Energy",
     "subject": "Renewables",
     "title": "Repeal the Infrastructure Investment and Jobs Act (IIJA)",
-    "page": 365,
+    "pages": [
+      365
+    ],
     "progress": "Completed",
     "notes": "Trump signed an executive order indefinitely pausing the disbursement of funds",
     "link": "https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-american-energy/",
@@ -1549,7 +1791,9 @@ export const data = [
     "agency": "Energy",
     "subject": "Renewables",
     "title": "Repeal the Inflation Reduction Act",
-    "page": 365,
+    "pages": [
+      365
+    ],
     "progress": "Completed",
     "notes": "Trump signed an executive order indefinitely pausing the disbursement of funds",
     "link": "https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-american-energy/",
@@ -1562,7 +1806,9 @@ export const data = [
     "agency": "Energy",
     "subject": "Reorganization",
     "title": "Eliminate the Clean Energy Corps (funded by the IIJA)",
-    "page": 386,
+    "pages": [
+      386
+    ],
     "progress": "Completed",
     "notes": "Trump signed an executive order indefinitely pausing the disbursement of funds",
     "link": "https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-american-energy/",
@@ -1575,7 +1821,9 @@ export const data = [
     "agency": "Energy",
     "subject": "Reorganization",
     "title": "Eliminate the Office of Clean Energy Demonstrations",
-    "page": 369,
+    "pages": [
+      369
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -1588,7 +1836,9 @@ export const data = [
     "agency": "Energy",
     "subject": "Reorganization",
     "title": "Eliminate the Office of State and Community Energy Programs",
-    "page": 369,
+    "pages": [
+      369
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -1601,7 +1851,9 @@ export const data = [
     "agency": "Energy",
     "subject": "Reorganization",
     "title": "Eliminate the Advanced Research Projects Agency\u2013Energy agency",
-    "page": 369,
+    "pages": [
+      369
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -1614,7 +1866,9 @@ export const data = [
     "agency": "Energy",
     "subject": "Reorganization",
     "title": "Eliminate the Office of Grid Deployment",
-    "page": 369,
+    "pages": [
+      369
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -1627,7 +1881,9 @@ export const data = [
     "agency": "Energy",
     "subject": "Reorganization",
     "title": "Eliminate the DOE Loan Program",
-    "page": 369,
+    "pages": [
+      369
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -1640,7 +1896,9 @@ export const data = [
     "agency": "Energy",
     "subject": "Reorganization",
     "title": "Eliminate the Office of Energy Efficiency and Renewable Energy or reduce its funding",
-    "page": 379,
+    "pages": [
+      379
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -1653,7 +1911,9 @@ export const data = [
     "agency": "EPA",
     "subject": "Environment",
     "title": "Undermine California waiver re:reducing pollution from vehicles",
-    "page": 426,
+    "pages": [
+      426
+    ],
     "progress": "Completed",
     "notes": "Trump signed an executive order to terminatate emissions waivers that function to limit sales of gasoline-powered automobiles",
     "link": "https://www.eenews.net/articles/trump-executive-order-targets-california-electric-vehicle-waiver/ ",
@@ -1666,7 +1926,9 @@ export const data = [
     "agency": "EPA",
     "subject": "Environment",
     "title": "Eliminate the use of the social cost of carbon",
-    "page": 436,
+    "pages": [
+      436
+    ],
     "progress": "Completed",
     "notes": "",
     "link": "https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-american-energy/",
@@ -1679,7 +1941,9 @@ export const data = [
     "agency": "EPA",
     "subject": "Environment",
     "title": "Roll back goal of haze reduction (visible air pollution)",
-    "page": 424,
+    "pages": [
+      424
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -1692,7 +1956,9 @@ export const data = [
     "agency": "EPA",
     "subject": "Environment",
     "title": "Repeal the Global Change Research Act of 1990",
-    "page": 439,
+    "pages": [
+      439
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -1705,7 +1971,9 @@ export const data = [
     "agency": "EPA",
     "subject": "Funding",
     "title": "Institute a pause and review of all grants",
-    "page": 444,
+    "pages": [
+      444
+    ],
     "progress": "In Progress",
     "notes": "in part achieved by freezing IRA/IIJA disbursements and by the overall federal funding freeze",
     "link": "https://www.reuters.com/world/us/senate-democrats-question-epa-blockage-committed-federal-grants-2025-01-31/",
@@ -1718,7 +1986,9 @@ export const data = [
     "agency": "EPA",
     "subject": "Funding",
     "title": "Stop all grants to \"advocacy groups\"",
-    "page": 422,
+    "pages": [
+      422
+    ],
     "progress": "Completed",
     "notes": "grants to programs like Climate Pollution Reduction Grants and ecycling Education and Outreach frozen",
     "link": "https://www.wastedive.com/news/federal-funding-pause-confusion-hits-environmental-program-funding/738993/",
@@ -1731,7 +2001,9 @@ export const data = [
     "agency": "EPA",
     "subject": "Reorganization",
     "title": "Eliminate the Office of Environmental Justice and External Civil Rights",
-    "page": 421,
+    "pages": [
+      421
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -1744,7 +2016,9 @@ export const data = [
     "agency": "EPA",
     "subject": "Reorganization",
     "title": "Eliminate the Office of Enforcement and Compliance Assistance",
-    "page": 421,
+    "pages": [
+      421
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -1757,7 +2031,9 @@ export const data = [
     "agency": "EPA",
     "subject": "Reorganization",
     "title": "Eliminate the Office of Public Engagement and Environmental Education",
-    "page": 421,
+    "pages": [
+      421
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -1770,7 +2046,9 @@ export const data = [
     "agency": "EPA",
     "subject": "Reorganization",
     "title": "Eliminate the Office of Children\u2019s Health Protection",
-    "page": 421,
+    "pages": [
+      421
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -1783,7 +2061,9 @@ export const data = [
     "agency": "EPA",
     "subject": "Reorganization",
     "title": "Downsize the department by terminating newest hires and relocating career employees to other agencies",
-    "page": 422,
+    "pages": [
+      422
+    ],
     "progress": "In Progress",
     "notes": "\"More than 1,000 EPA employees are told they could be dismissed immediately\"",
     "link": "https://www.nbcnews.com/science/science-news/epa-employees-told-dismissed-immediately-rcna190474",
@@ -1796,7 +2076,9 @@ export const data = [
     "agency": "EPA",
     "subject": "Reorganization",
     "title": "Eliminate the use of Title 42 hiring authority",
-    "page": 437,
+    "pages": [
+      437
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -1809,7 +2091,9 @@ export const data = [
     "agency": "FBI",
     "subject": "Reorganization",
     "title": "Eliminate the Office of General Counsel, Office of Congressional Affairs, and Office of Public Affairs within the FBI",
-    "page": 551,
+    "pages": [
+      551
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -1822,7 +2106,9 @@ export const data = [
     "agency": "FCC",
     "subject": "Technology",
     "title": "Narrow scope of Section 230",
-    "page": 847,
+    "pages": [
+      847
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -1835,7 +2121,9 @@ export const data = [
     "agency": "FCC",
     "subject": "Technology",
     "title": "Stop U.S. companies from \"feeding, training, and improving\" AI datasets belonging to Chinese companies",
-    "page": 852,
+    "pages": [
+      852
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -1848,7 +2136,9 @@ export const data = [
     "agency": "FCC",
     "subject": "Technology",
     "title": "Expedite work to support low-earth orbit satellites like StarLink",
-    "page": 855,
+    "pages": [
+      855
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -1861,7 +2151,9 @@ export const data = [
     "agency": "FDA",
     "subject": "Reproductive health",
     "title": "Reverse FDA approval of mifepristone (abortion pill) OR ban telehealth prescriptions and mailing of mifepristone (enforce Comstock Act)",
-    "page": 458,
+    "pages": [
+      458
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -1874,7 +2166,9 @@ export const data = [
     "agency": "FEC",
     "subject": "Elections",
     "title": "Limit campaign finance enforcement",
-    "page": 863,
+    "pages": [
+      863
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -1887,7 +2181,9 @@ export const data = [
     "agency": "FEC",
     "subject": "Elections",
     "title": "Raise contribution limits",
-    "page": 866,
+    "pages": [
+      866
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -1900,7 +2196,9 @@ export const data = [
     "agency": "Federal Reserve",
     "subject": "Economy",
     "title": "Eliminate the Federal Reserve mission of full employment",
-    "page": 732,
+    "pages": [
+      732
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -1913,7 +2211,9 @@ export const data = [
     "agency": "Federal Reserve",
     "subject": "Economy",
     "title": "Abolish the Federal Reserve and move to a \"free banking\" system",
-    "page": 736,
+    "pages": [
+      736
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -1926,7 +2226,9 @@ export const data = [
     "agency": "FTC",
     "subject": "Economy, accountability",
     "title": "Consider if the FTC should enforce antitrust \"or even continue to exist\"",
-    "page": 872,
+    "pages": [
+      872
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -1940,7 +2242,9 @@ export const data = [
     "agency": "FTC",
     "subject": "Economy, accountability",
     "title": "Outsource some of FTC's authorities to state attorneys general",
-    "page": 876,
+    "pages": [
+      876
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -1954,7 +2258,9 @@ export const data = [
     "agency": "general",
     "subject": "Lgbtqia, deia",
     "title": "Remove the words \"sexual orientation and gender identity,\" \"diversity, equity, and inclusion,\" \"abortion,\" \"reproductive health,\" and \"gender equality\" from every federal rule, agency regularion, an piece of legislation that exists",
-    "page": 0,
+    "pages": [
+      405
+    ],
     "progress": "Completed",
     "notes": "",
     "link": "https://apnews.com/article/trump-gender-ideology-sex-pronouns-order-transgender-2d7e54837f5d0651ed0cefa5ea0d6301",
@@ -1968,7 +2274,9 @@ export const data = [
     "agency": "HHS",
     "subject": "Childcare",
     "title": "Fund in-home childcare instead of universal day care",
-    "page": 486,
+    "pages": [
+      486
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -1981,7 +2289,9 @@ export const data = [
     "agency": "HHS",
     "subject": "Education, childcare",
     "title": "Eliminate the Head Start program",
-    "page": 482,
+    "pages": [
+      482
+    ],
     "progress": "In Progress",
     "notes": "reportedly still experiencing shut downs after the OMB memo freezing all federal funding",
     "link": "https://www.wpr.org/news/half-wisconsin-head-start-programs-cant-access-funds-federal-freeze-trump",
@@ -1995,7 +2305,9 @@ export const data = [
     "agency": "HHS",
     "subject": "Equality, lgbtqia",
     "title": "Prioritize married father engagement in its messaging, health, and welfare policies",
-    "page": 451,
+    "pages": [
+      451
+    ],
     "progress": "In Progress",
     "notes": "while not at HHS, we are starting to see the beginnings of this policy in other agencies - the Transportation Dept. directed money to areas with high marriage and birth rates",
     "link": "https://www.huffpost.com/entry/dot-memo-funds-communities-marriage-birth-rates_n_679bf8d8e4b0e1faebeef9c8",
@@ -2009,7 +2321,9 @@ export const data = [
     "agency": "HHS",
     "subject": "Lgbtqia",
     "title": "Reverse prohibitions on healthcare discrimination based on gender identity",
-    "page": 475,
+    "pages": [
+      475
+    ],
     "progress": "Completed",
     "notes": "",
     "link": "https://www.whitehouse.gov/presidential-actions/2025/01/protecting-children-from-chemical-and-surgical-mutilation/",
@@ -2022,7 +2336,9 @@ export const data = [
     "agency": "HHS",
     "subject": "Lgbtqia, childcare",
     "title": "Revoke guidance that prohibited adoption/foster agencies from discriminating based on sexual orientation and gender identity",
-    "page": 477,
+    "pages": [
+      477
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -2036,7 +2352,9 @@ export const data = [
     "agency": "HHS",
     "subject": "Lgbtqia, medicare",
     "title": "Rescind Medicare coverage for gender reassignment surgery",
-    "page": 474,
+    "pages": [
+      474
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -2050,7 +2368,9 @@ export const data = [
     "agency": "HHS",
     "subject": "Reproductive health",
     "title": "Withdraw Biden-era guidance that retail pharmacies must dispense abortion medication and contraception",
-    "page": 496,
+    "pages": [
+      496
+    ],
     "progress": "In Progress",
     "notes": "the administration is deleting this information from HHS websites",
     "link": "https://jessica.substack.com/p/hipaa-hss-deleted-trump",
@@ -2063,7 +2383,9 @@ export const data = [
     "agency": "HHS",
     "subject": "Reproductive health",
     "title": "Withdraw Biden-era guidance that strengthened HIPPA protections for reproductive healthcare",
-    "page": 497,
+    "pages": [
+      497
+    ],
     "progress": "In Progress",
     "notes": "the administration is deleting this information from HHS websites",
     "link": "https://jessica.substack.com/p/hipaa-hss-deleted-trump",
@@ -2076,7 +2398,9 @@ export const data = [
     "agency": "HHS",
     "subject": "Reproductive health",
     "title": "Enforce the Hyde amendment (banning any federal funds from being used for abortions, abortion counseling, etc.)",
-    "page": 471,
+    "pages": [
+      471
+    ],
     "progress": "Completed",
     "notes": "",
     "link": "https://www.whitehouse.gov/presidential-actions/2025/01/enforcing-the-hyde-amendment/",
@@ -2089,7 +2413,9 @@ export const data = [
     "agency": "HHS",
     "subject": "Reproductive health",
     "title": "Reverse prohibitions on healthcare discrimination based on pregnancy (to cover abortion)",
-    "page": 475,
+    "pages": [
+      475
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -2102,7 +2428,9 @@ export const data = [
     "agency": "HHS",
     "subject": "Reproductive health",
     "title": "End taxpayer funding of Planned Parenthood",
-    "page": 471,
+    "pages": [
+      471
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -2115,7 +2443,9 @@ export const data = [
     "agency": "HHS",
     "subject": "Reproductive health",
     "title": "Withdraw funding, including 10% of Medicaid funds, from states that require private health insurance plans to cover abortion",
-    "page": 472,
+    "pages": [
+      472
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -2128,7 +2458,9 @@ export const data = [
     "agency": "HHS",
     "subject": "Reproductive health",
     "title": "Rescind guidance that requires hospitals to perform an abortion to save a woman's life under EMTALA; withdraw from EMTALA lawsuits",
-    "page": 473,
+    "pages": [
+      473
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -2141,7 +2473,9 @@ export const data = [
     "agency": "HHS",
     "subject": "Reproductive health",
     "title": "Restore Trump-era religious and moral exemptions to ACA's contraception requirement",
-    "page": 483,
+    "pages": [
+      483
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -2154,7 +2488,9 @@ export const data = [
     "agency": "HHS",
     "subject": "Reproductive health",
     "title": "Eliminate ACA's requirement to cover the morning after pill",
-    "page": 485,
+    "pages": [
+      485
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -2167,7 +2503,9 @@ export const data = [
     "agency": "HHS",
     "subject": "Reproductive health",
     "title": "Eliminate the HHS Reproductive Healthcare Access Task Force and install a pro-life task force ",
-    "page": 489,
+    "pages": [
+      489
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -2180,7 +2518,9 @@ export const data = [
     "agency": "HHS",
     "subject": "Reproductive health",
     "title": "Prohibit family planning grants from going to entities that perform abortions or provide funding to other entities that perform abortions",
-    "page": 491,
+    "pages": [
+      491
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -2193,7 +2533,9 @@ export const data = [
     "agency": "HHS",
     "subject": "Reproductive health",
     "title": "Restore the Office of the Deputy Director for the Conscience and Religious Freedom Division ",
-    "page": 494,
+    "pages": [
+      494
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -2206,7 +2548,9 @@ export const data = [
     "agency": "HHS",
     "subject": "Reproductive health, immigration",
     "title": "Rescind policy of Office of Refugee Resettlement to provide abortion access for pregnant unaccompanied immigrant youth",
-    "page": 478,
+    "pages": [
+      478
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -2220,7 +2564,9 @@ export const data = [
     "agency": "HHS",
     "subject": "Welfare",
     "title": "Increase breadth of Temporary Assistance for Needy Families work requirements",
-    "page": 476,
+    "pages": [
+      476
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -2233,7 +2579,9 @@ export const data = [
     "agency": "HUD",
     "subject": "Equality",
     "title": "End Property Appraisal and Valuation Equity (PAVE) programs, which are a set of guidelines for producing home appraisals that are free of racial, ethnic, or any other form of bias",
-    "page": 508,
+    "pages": [
+      508
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -2246,7 +2594,9 @@ export const data = [
     "agency": "HUD",
     "subject": "Equality",
     "title": "Repeal the Affirmatively Furthering Fair Housing (AFFH), which requires HUD to actively address historical patterns of segregation",
-    "page": 509,
+    "pages": [
+      509
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -2259,7 +2609,9 @@ export const data = [
     "agency": "HUD",
     "subject": "Housing",
     "title": "Eliminate Housing Supply Fund",
-    "page": 509,
+    "pages": [
+      509
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -2272,7 +2624,9 @@ export const data = [
     "agency": "HUD",
     "subject": "Housing",
     "title": "End Housing First policies",
-    "page": 509,
+    "pages": [
+      509
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -2285,7 +2639,9 @@ export const data = [
     "agency": "HUD",
     "subject": "Housing",
     "title": "Impose time limits for residents in tenant-based and project-based assistance programs",
-    "page": 509,
+    "pages": [
+      509
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -2298,7 +2654,9 @@ export const data = [
     "agency": "HUD",
     "subject": "Housing, immigration",
     "title": "Ban mixed-status families (U.S. citizens and noncitizens) from living in all federally assisted hosuing",
-    "page": 509,
+    "pages": [
+      509
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -2312,7 +2670,9 @@ export const data = [
     "agency": "IC",
     "subject": "Intel",
     "title": "\"prioritize security clearance reform\" by streamlining the clearance process",
-    "page": 207,
+    "pages": [
+      207
+    ],
     "progress": "Completed",
     "notes": "Trump ordered \"temporary\" clearances be given to chosen staffers",
     "link": "https://www.cnn.com/2025/01/21/politics/trump-temporary-security-clearances/index.html",
@@ -2325,7 +2685,9 @@ export const data = [
     "agency": "IC",
     "subject": "Intel",
     "title": "Revoke the security clearances of senior intelligence officials who leak information",
-    "page": 213,
+    "pages": [
+      213
+    ],
     "progress": "Completed",
     "notes": "Trump revoked the security clearances of 50 former officials",
     "link": "https://www.whitehouse.gov/presidential-actions/2025/01/holding-former-government-officials-accountablefor-election-interference-and-improper-disclosure-of-sensitive-governmental-information/",
@@ -2338,7 +2700,9 @@ export const data = [
     "agency": "IC",
     "subject": "Intel",
     "title": "Prohibit the IC from monitoring \"so-called domestic disinformation\"",
-    "page": 216,
+    "pages": [
+      216
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -2351,7 +2715,9 @@ export const data = [
     "agency": "IC",
     "subject": "Intel",
     "title": "Re-negotiate intelligence sharing protocols with the EU",
-    "page": 225,
+    "pages": [
+      225
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -2364,7 +2730,9 @@ export const data = [
     "agency": "IC",
     "subject": "Technology",
     "title": "Transition to using artificial intelligence to analyze information",
-    "page": 224,
+    "pages": [
+      224
+    ],
     "progress": "In Progress",
     "notes": "starting to be implemented in other departments: Musk's team wants an \"AI-first\" approach through all of government",
     "link": "https://www.wired.com/story/elon-musk-lieutenant-gsa-ai-agency/",
@@ -2377,7 +2745,9 @@ export const data = [
     "agency": "Interior",
     "subject": "Environment",
     "title": "Approve the Ambler Road Project (proposal for a 211-mile industrial access road and is intended to facilitate the development of at least four large-scale mines)",
-    "page": 530,
+    "pages": [
+      530
+    ],
     "progress": "In Progress",
     "notes": "Trump reinstated his first administration's impact reviews of the project, which were more favorable than Biden's",
     "link": "https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-alaskas-extraordinary-resource-potential/",
@@ -2390,7 +2760,9 @@ export const data = [
     "agency": "Interior",
     "subject": "Environment",
     "title": "Revoke rules regarding predator control and bear baiting",
-    "page": 531,
+    "pages": [
+      531
+    ],
     "progress": "Completed",
     "notes": "",
     "link": "https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-alaskas-extraordinary-resource-potential/",
@@ -2403,7 +2775,9 @@ export const data = [
     "agency": "Interior",
     "subject": "Environment",
     "title": "Vacate Biden-era order protecting 30 percent of U.S. land and water by 2030",
-    "page": 532,
+    "pages": [
+      532
+    ],
     "progress": "Completed",
     "notes": "Trump rescinded Executive order 14008",
     "link": "https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-american-energy/",
@@ -2416,7 +2790,9 @@ export const data = [
     "agency": "Interior",
     "subject": "Environment",
     "title": "Immediately rollback Biden's executive orders that prioritized addressing climate change",
-    "page": 521,
+    "pages": [
+      521
+    ],
     "progress": "Completed",
     "notes": "",
     "link": "https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-american-energy/",
@@ -2429,7 +2805,9 @@ export const data = [
     "agency": "Interior",
     "subject": "Environment",
     "title": "Reinstate Trump's Migratory Bird Treaty Act (companies will not be punished for killing migratory birds)",
-    "page": 542,
+    "pages": [
+      542
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -2442,7 +2820,9 @@ export const data = [
     "agency": "Interior",
     "subject": "Environment",
     "title": "Reinstate Trump's limitations on the Endangered Species Act's definition of \"critical habitat\"",
-    "page": 524,
+    "pages": [
+      524
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -2455,7 +2835,9 @@ export const data = [
     "agency": "Interior",
     "subject": "Environment",
     "title": "Repeal of the Antiquities Act of 1906",
-    "page": 532,
+    "pages": [
+      532
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -2468,7 +2850,9 @@ export const data = [
     "agency": "Interior",
     "subject": "Environment",
     "title": "Downsize national monuments",
-    "page": 532,
+    "pages": [
+      532
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -2481,7 +2865,9 @@ export const data = [
     "agency": "Interior",
     "subject": "Environment",
     "title": "Delist the grizzly bear and gray wolf from the Endangered Species Act",
-    "page": 534,
+    "pages": [
+      534
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -2494,7 +2880,9 @@ export const data = [
     "agency": "Interior",
     "subject": "Environment, fossil fuels",
     "title": "Abandon withdrawals of lands from leasing in the Thompson Divide of the White River National Forest, Colorado; the 10-mile buffer around Chaco Cultural Historic National Park in New Mexico; and the Boundary Waters area in northern Minnesota",
-    "page": 523,
+    "pages": [
+      523
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -2508,7 +2896,9 @@ export const data = [
     "agency": "Labor",
     "subject": "Civil rights",
     "title": "Rescind Executive Order 11246 - Equal Opportunity Employment",
-    "page": 584,
+    "pages": [
+      584
+    ],
     "progress": "Completed",
     "notes": "",
     "link": "https://www.dol.gov/newsroom/releases/osec/osec20250124",
@@ -2521,7 +2911,9 @@ export const data = [
     "agency": "Labor",
     "subject": "Civil rights",
     "title": "Eliminate the Office of Federal Contract Compliance Programs",
-    "page": 584,
+    "pages": [
+      584
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -2534,7 +2926,9 @@ export const data = [
     "agency": "Labor",
     "subject": "Civil rights, lgbtqia, reproductive health",
     "title": "Issue an executive order \"protecting religious employers and employees,\" clarify they may make employment decisions based on religion",
-    "page": 586,
+    "pages": [
+      586
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -2549,7 +2943,9 @@ export const data = [
     "agency": "Labor",
     "subject": "Deia",
     "title": "Eliminate DEIA programs in Labor policy",
-    "page": 582,
+    "pages": [
+      582
+    ],
     "progress": "Completed",
     "notes": "",
     "link": "",
@@ -2562,7 +2958,9 @@ export const data = [
     "agency": "Labor",
     "subject": "Environment, lgbtqia",
     "title": "Prohibit employee retirement plans from investing based on ESG (environmental, social, and governance) factors",
-    "page": 606,
+    "pages": [
+      606
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -2576,7 +2974,9 @@ export const data = [
     "agency": "Labor",
     "subject": "Labor",
     "title": "Return to Trump-era overtime exemption thresehold",
-    "page": 592,
+    "pages": [
+      592
+    ],
     "progress": "Completed",
     "notes": "courts already struck down Biden expansion",
     "link": "https://www.reuters.com/legal/litigation/another-judge-blocks-biden-rule-expanding-overtime-pay-2024-12-30/",
@@ -2588,7 +2988,10 @@ export const data = [
     "agency": "Labor",
     "subject": "Labor",
     "title": "Let companies stop paying overtime and allow states to opt out of federal overtime and minimum wage laws",
-    "page": 0,
+    "pages": [
+      592,
+      605
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -2600,7 +3003,9 @@ export const data = [
     "agency": "Labor",
     "subject": "Labor",
     "title": "Lessen child labor regulations to allow \"teenage workers\" to work \"inherently dangerous jobs\"",
-    "page": 595,
+    "pages": [
+      595
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -2612,7 +3017,9 @@ export const data = [
     "agency": "Labor",
     "subject": "Labor",
     "title": "Undermine union protections by allowing employer \"councils\" and favoring right-to-work laws",
-    "page": 599,
+    "pages": [
+      599
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -2624,7 +3031,9 @@ export const data = [
     "agency": "Labor",
     "subject": "Labor",
     "title": "Roll back definition of \u201cprotected concerted activity\u201d that protects employees from retaliation for union activity",
-    "page": 601,
+    "pages": [
+      601
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -2636,7 +3045,9 @@ export const data = [
     "agency": "Labor",
     "subject": "Labor",
     "title": "Rescind the \"persuader rule\" that required employers to disclose when they had hired union-busting consultants",
-    "page": 602,
+    "pages": [
+      602
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -2648,7 +3059,9 @@ export const data = [
     "agency": "Labor",
     "subject": "Labor",
     "title": "Prevent employers from voluntarily recognizing a labor union without a secret ballot",
-    "page": 603,
+    "pages": [
+      603
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -2660,7 +3073,9 @@ export const data = [
     "agency": "Labor",
     "subject": "Labor",
     "title": "Eliminate the \"contract bar rule\" that prevents employers from union-busting and decertifying a union mid-contract",
-    "page": 603,
+    "pages": [
+      603
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -2672,7 +3087,9 @@ export const data = [
     "agency": "Labor",
     "subject": "Labor",
     "title": "Outsource the administration of unemployment programs to \u201cnon-public organizations\u201d",
-    "page": 605,
+    "pages": [
+      605
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -2684,7 +3101,9 @@ export const data = [
     "agency": "Labor",
     "subject": "Reorganization, staffing",
     "title": "Appoint new EEOC and NLRB general counsels",
-    "page": 615,
+    "pages": [
+      615
+    ],
     "progress": "Completed",
     "notes": "Trump fired EEOC's Karla Gilbride and NLRB's Jennifer Abruzzo",
     "link": "https://www.nlrb.gov/news-outreach/news-story/statement-from-departing-nlrb-general-counsel-jennifer-abruzzo",
@@ -2698,7 +3117,9 @@ export const data = [
     "agency": "Labor",
     "subject": "Reproductive health",
     "title": "Clarify that no employer is required to provide accomodations for abortion (e.g. under the Pregnancy Discrimination Act)",
-    "page": 585,
+    "pages": [
+      585
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -2711,7 +3132,9 @@ export const data = [
     "agency": "NIH",
     "subject": "Health",
     "title": "Prohibit stem cell research/use",
-    "page": 461,
+    "pages": [
+      461
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -2724,7 +3147,9 @@ export const data = [
     "agency": "Personnel",
     "subject": "Personnel",
     "title": "Institute a hiring freeze",
-    "page": 78,
+    "pages": [
+      78
+    ],
     "progress": "Completed",
     "notes": "",
     "link": "https://www.whitehouse.gov/presidential-actions/2025/01/hiring-freeze/",
@@ -2736,7 +3161,9 @@ export const data = [
     "agency": "Personnel",
     "subject": "Personnel",
     "title": "Reschedule thousands of federal civil service workers, making it easier to fire career civil servants (Schedule F)",
-    "page": 80,
+    "pages": [
+      80
+    ],
     "progress": "Completed",
     "notes": "",
     "link": "https://www.whitehouse.gov/presidential-actions/2025/01/restoring-accountability-to-policy-influencing-positions-within-the-federal-workforce/",
@@ -2748,7 +3175,9 @@ export const data = [
     "agency": "Personnel",
     "subject": "Personnel",
     "title": "Rescind Biden's Executive Order 14003, which revoked Trump's Schedule F order and made it easier to discipline federal employees",
-    "page": 73,
+    "pages": [
+      73
+    ],
     "progress": "Completed",
     "notes": "",
     "link": "https://www.whitehouse.gov/presidential-actions/2025/01/initial-rescissions-of-harmful-executive-orders-and-actions/",
@@ -2760,7 +3189,9 @@ export const data = [
     "agency": "Personnel",
     "subject": "Personnel",
     "title": "Reinstate merit pay system for top tier federal government employees",
-    "page": 74,
+    "pages": [
+      74
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -2772,7 +3203,9 @@ export const data = [
     "agency": "Personnel",
     "subject": "Personnel",
     "title": "Reduce federal employees' pay and benefits",
-    "page": 76,
+    "pages": [
+      76
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -2784,7 +3217,9 @@ export const data = [
     "agency": "Personnel",
     "subject": "Personnel, unions",
     "title": "Weaken federal employee unions",
-    "page": 81,
+    "pages": [
+      81
+    ],
     "progress": "In Progress",
     "notes": "in part achieved by invalidating collective bargaining agreements made within 30 days of an incoming president's term",
     "link": "https://www.whitehouse.gov/presidential-actions/2025/01/limiting-lame-duck-collective-bargaining-agreements-that-improperly-attempt-to-constrain-the-new-president/",
@@ -2797,7 +3232,9 @@ export const data = [
     "agency": "SBA",
     "subject": "Economy",
     "title": "End cash grants to small businesses (includes disaster aid)",
-    "page": 750,
+    "pages": [
+      750
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -2810,7 +3247,9 @@ export const data = [
     "agency": "SBA",
     "subject": "Economy",
     "title": "Allow previously prohibited religious entities to receive SBA loans",
-    "page": 754,
+    "pages": [
+      754
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -2823,7 +3262,9 @@ export const data = [
     "agency": "State",
     "subject": "Aid",
     "title": "Freeze \"allocation of resources, foreign aid disbursements,\" and \"hiring and recruiting decisions\"",
-    "page": 174,
+    "pages": [
+      174
+    ],
     "progress": "Completed",
     "notes": "",
     "link": "https://www.cnn.com/2025/01/30/world/us-foreign-aid-freeze-intl-latam/index.html",
@@ -2836,7 +3277,9 @@ export const data = [
     "agency": "State",
     "subject": "Aid",
     "title": "Withdraw funding for the World Health Organization",
-    "page": 191,
+    "pages": [
+      191
+    ],
     "progress": "Completed",
     "notes": "",
     "link": "https://www.whitehouse.gov/presidential-actions/2025/01/withdrawing-the-united-states-from-the-worldhealth-organization/",
@@ -2849,7 +3292,9 @@ export const data = [
     "agency": "State",
     "subject": "Aid",
     "title": "Withdraw from the United Nations Human Rights Council",
-    "page": 191,
+    "pages": [
+      191
+    ],
     "progress": "Completed",
     "notes": "",
     "link": "https://www.politico.com/news/2025/02/03/us-withdraw-un-human-rights-council-trump-00202100",
@@ -2862,7 +3307,9 @@ export const data = [
     "agency": "State",
     "subject": "Aid",
     "title": "Reimpose prohibition on US foreign aid from being used to perform or promote abortions",
-    "page": 191,
+    "pages": [
+      191
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -2875,7 +3322,9 @@ export const data = [
     "agency": "State",
     "subject": "Aid",
     "title": "Withdraw from United Nations Educational, Scientific and Cultural Organization",
-    "page": 191,
+    "pages": [
+      191
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -2888,7 +3337,9 @@ export const data = [
     "agency": "State",
     "subject": "Aid",
     "title": "Withdraw funding for United Nations Relief and Works Agency",
-    "page": 191,
+    "pages": [
+      191
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -2901,7 +3352,9 @@ export const data = [
     "agency": "State",
     "subject": "Immigration",
     "title": "Suspend all visas to people from countries that do not accept the return of immigrants ordered deported",
-    "page": 177,
+    "pages": [
+      177
+    ],
     "progress": "Completed",
     "notes": "",
     "link": "https://www.whitehouse.gov/presidential-actions/2025/01/protecting-the-american-people-against-invasion/",
@@ -2914,7 +3367,9 @@ export const data = [
     "agency": "State",
     "subject": "Immigration",
     "title": "Indefinitely curtail USRAP refugee admissions",
-    "page": 178,
+    "pages": [
+      178
+    ],
     "progress": "Completed",
     "notes": "Trump went farther, suspending all refugee access",
     "link": "https://www.whitehouse.gov/presidential-actions/2025/01/realigning-the-united-states-refugee-admissions-program/",
@@ -2927,7 +3382,9 @@ export const data = [
     "agency": "State",
     "subject": "Reproductive rights, aid",
     "title": "Reinstate the Mexico City policy banning aid to groups that even communicate about abortion services",
-    "page": 261,
+    "pages": [
+      261
+    ],
     "progress": "Completed",
     "notes": "",
     "link": "https://www.whitehouse.gov/presidential-actions/2025/01/memorandum-for-the-secretary-of-state-the-secretary-of-defense-the-secretary-of-health-and-human-services-the-administrator-of-the-united-states-for-international-development/",
@@ -2941,7 +3398,9 @@ export const data = [
     "agency": "Transportation",
     "subject": "Environment",
     "title": "Reduce fuel economy requirements",
-    "page": 628,
+    "pages": [
+      628
+    ],
     "progress": "Completed",
     "notes": "Transportation Secretary ordered the department to reverse Biden-era fuel economy standards",
     "link": "https://apnews.com/article/climate-trump-mpg-fuel-economy-standards-automakers-0ef9147a0c3874a50a194e439f604261",
@@ -2954,7 +3413,9 @@ export const data = [
     "agency": "Transportation",
     "subject": "Faa",
     "title": "Require the FAA to \"operate more like a business\"",
-    "page": 633,
+    "pages": [
+      633
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -2967,7 +3428,9 @@ export const data = [
     "agency": "Transportation",
     "subject": "Faa",
     "title": "Separate the Air Traffic Organization from the FAA",
-    "page": 632,
+    "pages": [
+      632
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -2980,7 +3443,9 @@ export const data = [
     "agency": "Transportation",
     "subject": "Transportation",
     "title": "Shift DOT grants to the states to spend as they wish",
-    "page": 621,
+    "pages": [
+      621
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -2992,7 +3457,9 @@ export const data = [
     "agency": "Transportation",
     "subject": "Transportation",
     "title": "Eliminate funding for the FTA\u2019s Capital Investment Grants (CIG) program (helps transit authorities expand their systems and improve overall service)",
-    "page": 635,
+    "pages": [
+      635
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -3004,7 +3471,9 @@ export const data = [
     "agency": "Transportation",
     "subject": "Transportation",
     "title": "Eliminate the two-person train crew safety regulations",
-    "page": 637,
+    "pages": [
+      637
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -3016,7 +3485,9 @@ export const data = [
     "agency": "Treasury",
     "subject": "Aid",
     "title": "Cease funding to and withdraw from the World Bank and International Monetary Fund",
-    "page": 701,
+    "pages": [
+      701
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -3029,7 +3500,9 @@ export const data = [
     "agency": "Treasury",
     "subject": "Deia",
     "title": "Close the Office of Equity, Diversity, and Inclusion; treat the participation in any DEI intitiative as per se grounds for termination",
-    "page": 701,
+    "pages": [
+      701
+    ],
     "progress": "Completed",
     "notes": "",
     "link": "https://www.whitehouse.gov/presidential-actions/2025/01/the-organization-for-economic-co-operation-and-development-oecd-global-tax-deal-global-tax-deal/",
@@ -3042,7 +3515,9 @@ export const data = [
     "agency": "Treasury",
     "subject": "Economy",
     "title": "End financial suport and withdraw from the OECD",
-    "page": 698,
+    "pages": [
+      698
+    ],
     "progress": "In Progress",
     "notes": "Trump withdrew from the OECD's global tax deal",
     "link": "https://www.whitehouse.gov/presidential-actions/2025/01/the-organization-for-economic-co-operation-and-development-oecd-global-tax-deal-global-tax-deal/",
@@ -3055,7 +3530,9 @@ export const data = [
     "agency": "Treasury",
     "subject": "Economy",
     "title": "Repeal key sections of Dodd-Frank",
-    "page": 705,
+    "pages": [
+      705
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -3068,7 +3545,9 @@ export const data = [
     "agency": "Treasury",
     "subject": "Economy, accountability",
     "title": "Repeal the Corporate Transparency Act",
-    "page": 707,
+    "pages": [
+      707
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -3082,7 +3561,9 @@ export const data = [
     "agency": "Treasury",
     "subject": "Economy, housing",
     "title": "Privatize Fannie Mae and Freddie Mac",
-    "page": 706,
+    "pages": [
+      706
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -3096,7 +3577,9 @@ export const data = [
     "agency": "Treasury",
     "subject": "Environment",
     "title": "Withdraw from the Paris agreement and United Nations Framework Convention on Climate Change",
-    "page": 709,
+    "pages": [
+      709
+    ],
     "progress": "Completed",
     "notes": "",
     "link": "https://www.whitehouse.gov/presidential-actions/2025/01/putting-america-first-in-international-environmental-agreements/",
@@ -3109,7 +3592,9 @@ export const data = [
     "agency": "Treasury",
     "subject": "Environment",
     "title": "Reverse support for consideration of environmental, social, and governance principles",
-    "page": 709,
+    "pages": [
+      709
+    ],
     "progress": "Completed",
     "notes": "Trump rescinded a Biden order directing an evaluation of climate-related financial risk",
     "link": "https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-american-energy/",
@@ -3122,7 +3607,9 @@ export const data = [
     "agency": "Treasury",
     "subject": "Reorganization",
     "title": "Eliminate the U.S. Trade and Development Agency",
-    "page": 710,
+    "pages": [
+      710
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -3135,7 +3622,9 @@ export const data = [
     "agency": "Treasury",
     "subject": "Reorganization, environment",
     "title": "Eliminate the Climate Hub office",
-    "page": 709,
+    "pages": [
+      709
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -3149,7 +3638,9 @@ export const data = [
     "agency": "Treasury",
     "subject": "Taxes",
     "title": "Enact a two-income tax bracket system (would raise taxes by $3,000 for the median family of four)",
-    "page": 696,
+    "pages": [
+      696
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -3162,7 +3653,9 @@ export const data = [
     "agency": "Treasury",
     "subject": "Taxes",
     "title": "Reduce corporate income tax rate",
-    "page": 696,
+    "pages": [
+      696
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -3175,7 +3668,9 @@ export const data = [
     "agency": "Treasury",
     "subject": "Taxes",
     "title": "Reduce the estate and gift tax",
-    "page": 697,
+    "pages": [
+      697
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -3188,7 +3683,9 @@ export const data = [
     "agency": "Treasury",
     "subject": "Taxes, labor",
     "title": "Limit employee benefits by setting a cap on untaxed benefits that employers can claim as deductions",
-    "page": 697,
+    "pages": [
+      697
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -3202,7 +3699,9 @@ export const data = [
     "agency": "USAGM",
     "subject": "Media",
     "title": "Cut budget of USAGM",
-    "page": 242,
+    "pages": [
+      242
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -3215,7 +3714,9 @@ export const data = [
     "agency": "USAGM",
     "subject": "Media",
     "title": "Dismantle USAGM's journalism \"firewall\" to align its reporting with the aims of the president",
-    "page": 244,
+    "pages": [
+      244
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -3228,7 +3729,9 @@ export const data = [
     "agency": "USAGM",
     "subject": "Media, technology",
     "title": "Stop funding of the Open Technology Fund",
-    "page": 242,
+    "pages": [
+      242
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -3242,7 +3745,9 @@ export const data = [
     "agency": "USAID",
     "subject": "Aid",
     "title": "Cut budget of USAID",
-    "page": 254,
+    "pages": [
+      254
+    ],
     "progress": "Completed",
     "notes": "achieved by freezing all USAID funding and starting the process of shutting down the agency",
     "link": "https://www.npr.org/2025/02/03/nx-s1-5285409/usaid-trump-state-department-rubio",
@@ -3255,7 +3760,9 @@ export const data = [
     "agency": "USAID",
     "subject": "Aid",
     "title": "Rescind USAID policies that address climate change and help countries transition away from fossil fuels",
-    "page": 257,
+    "pages": [
+      257
+    ],
     "progress": "Completed",
     "notes": "achieved by freezing all USAID funding and starting the process of shutting down the agency",
     "link": "https://www.npr.org/2025/02/03/nx-s1-5285409/usaid-trump-state-department-rubio",
@@ -3268,7 +3775,9 @@ export const data = [
     "agency": "USAID",
     "subject": "Aid",
     "title": "Cut International Disaster Assistance funding for programs in Yemen, Syria, and Afghanistan",
-    "page": 268,
+    "pages": [
+      268
+    ],
     "progress": "Completed",
     "notes": "achieved by freezing all USAID funding and starting the process of shutting down the agency",
     "link": "https://www.npr.org/2025/02/03/nx-s1-5285409/usaid-trump-state-department-rubio",
@@ -3281,7 +3790,9 @@ export const data = [
     "agency": "USAID",
     "subject": "Aid",
     "title": "Increase funding for faith-based organizations",
-    "page": 265,
+    "pages": [
+      265
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -3294,7 +3805,9 @@ export const data = [
     "agency": "USAID",
     "subject": "Deia",
     "title": "Eliminate Chief Diversity Officer at USAID, remove DEI requirements, eliminate funding for partners that promote \"discriminatory DEI practices\"",
-    "page": 258,
+    "pages": [
+      258
+    ],
     "progress": "Completed",
     "notes": "",
     "link": "https://www.devex.com/news/scoop-usaid-issues-staff-guidance-on-deia-foreign-aid-pause-orders-109162?skip_optional_steps=true",
@@ -3307,7 +3820,9 @@ export const data = [
     "agency": "USAID",
     "subject": "Reproductive rights, aid",
     "title": "Prohibit USAID from funding \"sexual reproductive health and reproductive rights\" and \"gender equality\" programs",
-    "page": 259,
+    "pages": [
+      259
+    ],
     "progress": "Completed",
     "notes": "achieved by freezing all USAID funding and starting the process of shutting down the agency",
     "link": "https://www.npr.org/2025/02/03/nx-s1-5285409/usaid-trump-state-department-rubio",
@@ -3321,7 +3836,9 @@ export const data = [
     "agency": "USDA",
     "subject": "Environment",
     "title": "Limit the USDA's ability to create permanent easements",
-    "page": 305,
+    "pages": [
+      305
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -3334,7 +3851,9 @@ export const data = [
     "agency": "USDA",
     "subject": "Food",
     "title": "Weaken regulations on baby formula",
-    "page": 302,
+    "pages": [
+      302
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -3347,7 +3866,9 @@ export const data = [
     "agency": "USDA",
     "subject": "Food",
     "title": "Repeal the federal mandate to label genetically engineered food",
-    "page": 307,
+    "pages": [
+      307
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -3360,7 +3881,9 @@ export const data = [
     "agency": "USDA",
     "subject": "Food",
     "title": "Repeal, or, at minimum, reform the Dietary Guidelines ",
-    "page": 309,
+    "pages": [
+      309
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -3373,7 +3896,9 @@ export const data = [
     "agency": "USDA",
     "subject": "Food",
     "title": "Repeal the federal sugar program",
-    "page": 296,
+    "pages": [
+      296
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -3386,7 +3911,9 @@ export const data = [
     "agency": "USDA",
     "subject": "Food",
     "title": "Reduce the premium subsidy rate for crop insurance",
-    "page": 297,
+    "pages": [
+      297
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -3399,7 +3926,9 @@ export const data = [
     "agency": "USDA",
     "subject": "Food, environment",
     "title": "Remove the U.S. from any association with U.N. or other efforts to push sustainable food production",
-    "page": 293,
+    "pages": [
+      293
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -3413,7 +3942,9 @@ export const data = [
     "agency": "USDA",
     "subject": "Forest service",
     "title": "Reinstate Trump's executive order to manage wildfires by reducing vegetation and increasing logging",
-    "page": 308,
+    "pages": [
+      308
+    ],
     "progress": "In Progress",
     "notes": "Trump rescinded a Biden-era executive order that prioritized conservation strategies in wildfire prevention",
     "link": "https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-american-energy/",
@@ -3426,7 +3957,9 @@ export const data = [
     "agency": "USDA",
     "subject": "Reorganization",
     "title": "Eliminate the Community Eligibility Provision",
-    "page": 303,
+    "pages": [
+      303
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -3439,7 +3972,9 @@ export const data = [
     "agency": "USDA",
     "subject": "Reorganization",
     "title": "Eliminate the Conservation Reserve Program",
-    "page": 304,
+    "pages": [
+      304
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -3452,7 +3987,9 @@ export const data = [
     "agency": "USDA",
     "subject": "Trade",
     "title": "Repeal market development programs like the Market Access Program",
-    "page": 307,
+    "pages": [
+      307
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -3465,7 +4002,9 @@ export const data = [
     "agency": "USDA",
     "subject": "Welfare",
     "title": "Move the USDA food and nutrition programs (including SNAP) to HHS",
-    "page": 298,
+    "pages": [
+      298
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -3478,7 +4017,9 @@ export const data = [
     "agency": "USDA",
     "subject": "Welfare",
     "title": "Impose stricter work requirements on SNAP",
-    "page": 299,
+    "pages": [
+      299
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -3491,7 +4032,9 @@ export const data = [
     "agency": "USDA",
     "subject": "Welfare",
     "title": "End broad-based categorical eligibility for SNAP",
-    "page": 300,
+    "pages": [
+      300
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -3504,7 +4047,9 @@ export const data = [
     "agency": "USDA",
     "subject": "Welfare",
     "title": "Eliminate the Low-Income Heat and Energy Assistance Program",
-    "page": 301,
+    "pages": [
+      301
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -3517,7 +4062,9 @@ export const data = [
     "agency": "USDA",
     "subject": "Welfare",
     "title": "Prohibit schools from grouping together to utilize the Community Eligibility Provision",
-    "page": 303,
+    "pages": [
+      303
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -3530,7 +4077,9 @@ export const data = [
     "agency": "VA",
     "subject": "Accountability",
     "title": "Sunset the Office of Accountability and Whistleblower Protection",
-    "page": 653,
+    "pages": [
+      653
+    ],
     "progress": "In Progress",
     "notes": "According to a leaked memo, the VA deactivated coursework on \"Whistleblower Rights and Protections\"",
     "link": "https://x.com/kenklippenstein/status/1886483226564149676",
@@ -3543,7 +4092,9 @@ export const data = [
     "agency": "VA",
     "subject": "Reproductive health",
     "title": "Prevent the VA from covering abortion services",
-    "page": 644,
+    "pages": [
+      644
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -3556,7 +4107,9 @@ export const data = [
     "agency": "VA",
     "subject": "Veterans",
     "title": "Outsource more care into private facilities",
-    "page": 648,
+    "pages": [
+      648
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -3569,7 +4122,9 @@ export const data = [
     "agency": "VA",
     "subject": "Veterans",
     "title": "Increase automation in processing benefits claims",
-    "page": 649,
+    "pages": [
+      649
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -3582,7 +4137,9 @@ export const data = [
     "agency": "VA",
     "subject": "Veterans",
     "title": "Reduce disability ratings for future claims",
-    "page": 649,
+    "pages": [
+      649
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -3595,7 +4152,9 @@ export const data = [
     "agency": "WH office",
     "subject": "Environment",
     "title": "Instruct the CEQ to rewrite its regulations implementing NEPA",
-    "page": 60,
+    "pages": [
+      60
+    ],
     "progress": "Completed",
     "notes": "Trump rescinded the 1977 order giving CEQ authority to issue these regulations, and instructs the chair of CEQ to, within 30 days, \u201cpropose rescinding\u201d all regulations the Council has issued to date",
     "link": "https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-american-energy/",
@@ -3608,7 +4167,9 @@ export const data = [
     "agency": "WH office",
     "subject": "Environment",
     "title": "Eliminate the Interagency Working Group on the Social Cost of Carbon",
-    "page": 61,
+    "pages": [
+      61
+    ],
     "progress": "Completed",
     "notes": "Trump rescinded the executive order that  created the Working Group",
     "link": "https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-american-energy/",
@@ -3621,7 +4182,9 @@ export const data = [
     "agency": "WH office",
     "subject": "Environment",
     "title": "Issue an executive order to reshape the U.S. Global Change Research Program",
-    "page": 59,
+    "pages": [
+      59
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -3634,7 +4197,9 @@ export const data = [
     "agency": "WH office",
     "subject": "Environment",
     "title": "Issue an executive order abolishing the Office of Domestic Climate Policy",
-    "page": 61,
+    "pages": [
+      61
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -3647,7 +4212,9 @@ export const data = [
     "agency": "WH office",
     "subject": "Lgbtqia",
     "title": "Revoke EO 14020, which established the Gender Policy Council",
-    "page": 62,
+    "pages": [
+      62
+    ],
     "progress": "Completed",
     "notes": "",
     "link": "https://www.whitehouse.gov/presidential-actions/2025/01/initial-rescissions-of-harmful-executive-orders-and-actions/",
@@ -3660,7 +4227,9 @@ export const data = [
     "agency": "WH office",
     "subject": "Lgbtqia, deia",
     "title": "Cut off government contracts to entities that enforce a \"woke agenda\"",
-    "page": 48,
+    "pages": [
+      48
+    ],
     "progress": "Completed",
     "notes": "",
     "link": "https://www.whitehouse.gov/presidential-actions/2025/01/ending-radical-and-wasteful-government-dei-programs-and-preferencing/",
@@ -3674,7 +4243,9 @@ export const data = [
     "agency": "WH office",
     "subject": "Presidential power",
     "title": "Give political appointees the power to personally review and authorize appropriated funding",
-    "page": 45,
+    "pages": [
+      45
+    ],
     "progress": "Completed",
     "notes": "Elon Musk and his team are reportedly in control of a significant portion of federal funding",
     "link": "https://www.msnbc.com/opinion/msnbc-opinion/musk-doge-treasury-payment-system-rcna190222",
@@ -3687,7 +4258,9 @@ export const data = [
     "agency": "WH office",
     "subject": "Presidential power",
     "title": "Clear out the NSC, replace \"all essential detailees with staff aligned to the new President's priorities\"",
-    "page": 52,
+    "pages": [
+      52
+    ],
     "progress": "Completed",
     "notes": "",
     "link": "https://www.washingtonpost.com/national-security/2025/01/22/trump-waltz-national-security-council-officials/",
@@ -3700,7 +4273,9 @@ export const data = [
     "agency": "WH office",
     "subject": "Presidential power",
     "title": "Use the Congressional Review Act to undo Biden-era final rulemakings",
-    "page": 50,
+    "pages": [
+      50
+    ],
     "progress": "",
     "notes": "",
     "link": "",
@@ -3713,7 +4288,9 @@ export const data = [
     "agency": "White House",
     "subject": "Intel",
     "title": "Give the Office of Personnel Management (White House) the responsibility to conduct security clearance investigations",
-    "page": 107,
+    "pages": [
+      107
+    ],
     "progress": "Completed",
     "notes": "",
     "link": "https://www.cnn.com/2025/01/21/politics/trump-temporary-security-clearances/index.html",
