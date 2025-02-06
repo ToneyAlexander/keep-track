@@ -4,7 +4,7 @@ import { data } from './data'
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/keep-track">
       <Routes>
         <Route path="/" element={<Home />} />
       </Routes>
