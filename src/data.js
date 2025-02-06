@@ -6,7 +6,11 @@ export const data = [
     "page": 453,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Health",
+      "CDC"
+    ]
   },
   {
     "agency": "CDC",
@@ -15,7 +19,11 @@ export const data = [
     "page": 455,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Health",
+      "CDC"
+    ]
   },
   {
     "agency": "CDC",
@@ -24,7 +32,11 @@ export const data = [
     "page": 456,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "LGBTQIA",
+      "CDC"
+    ]
   },
   {
     "agency": "CDC",
@@ -33,7 +45,11 @@ export const data = [
     "page": 453,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "CDC",
+      "Reorganization"
+    ]
   },
   {
     "agency": "CDC",
@@ -42,7 +58,11 @@ export const data = [
     "page": 455,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Reproductive health",
+      "CDC"
+    ]
   },
   {
     "agency": "CDC",
@@ -51,7 +71,11 @@ export const data = [
     "page": 455,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Reproductive health",
+      "CDC"
+    ]
   },
   {
     "agency": "CDC",
@@ -60,7 +84,11 @@ export const data = [
     "page": 455,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Reproductive health",
+      "CDC"
+    ]
   },
   {
     "agency": "CFPB",
@@ -69,7 +97,11 @@ export const data = [
     "page": 839,
     "progress": "In Progress",
     "notes": "Treasury Secretary ordered all CFPB staff to halt work and communications",
-    "link": "https://www.npr.org/2025/02/03/nx-s1-5285356/treasury-secretary-bessent-acting-cfpb-director"
+    "link": "https://www.npr.org/2025/02/03/nx-s1-5285356/treasury-secretary-bessent-acting-cfpb-director",
+    "tags": [
+      "CFPB",
+      "Economy"
+    ]
   },
   {
     "agency": "CFTC",
@@ -78,7 +110,11 @@ export const data = [
     "page": 835,
     "progress": "In Progress",
     "notes": "Trump ordered the creation of a crypto working group to draft new regulations",
-    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/strengthening-american-leadership-in-digital-financial-technology/"
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/strengthening-american-leadership-in-digital-financial-technology/",
+    "tags": [
+      "CFTC",
+      "Economy"
+    ]
   },
   {
     "agency": "CMS",
@@ -87,7 +123,11 @@ export const data = [
     "page": 466,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Medicaid",
+      "CMS"
+    ]
   },
   {
     "agency": "CMS",
@@ -96,7 +136,11 @@ export const data = [
     "page": 467,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Medicaid",
+      "CMS"
+    ]
   },
   {
     "agency": "CMS",
@@ -105,7 +149,11 @@ export const data = [
     "page": 467,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Medicaid",
+      "CMS"
+    ]
   },
   {
     "agency": "CMS",
@@ -114,7 +162,11 @@ export const data = [
     "page": 468,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Medicaid",
+      "CMS"
+    ]
   },
   {
     "agency": "CMS",
@@ -123,7 +175,11 @@ export const data = [
     "page": 468,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Medicaid",
+      "CMS"
+    ]
   },
   {
     "agency": "CMS",
@@ -132,7 +188,11 @@ export const data = [
     "page": 465,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "CMS",
+      "Medicare"
+    ]
   },
   {
     "agency": "CMS",
@@ -141,7 +201,11 @@ export const data = [
     "page": 465,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "CMS",
+      "Medicare"
+    ]
   },
   {
     "agency": "Commerce",
@@ -150,7 +214,11 @@ export const data = [
     "page": 680,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Commerce",
+      "Census"
+    ]
   },
   {
     "agency": "Commerce",
@@ -159,7 +227,11 @@ export const data = [
     "page": 680,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Commerce",
+      "Census"
+    ]
   },
   {
     "agency": "Commerce",
@@ -168,7 +240,11 @@ export const data = [
     "page": 682,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Commerce",
+      "Census"
+    ]
   },
   {
     "agency": "Commerce",
@@ -177,7 +253,11 @@ export const data = [
     "page": 676,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Commerce",
+      "Environment"
+    ]
   },
   {
     "agency": "Commerce",
@@ -186,7 +266,11 @@ export const data = [
     "page": 674,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Commerce",
+      "Reorganization"
+    ]
   },
   {
     "agency": "Commerce",
@@ -195,7 +279,11 @@ export const data = [
     "page": 675,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Commerce",
+      "Reorganization"
+    ]
   },
   {
     "agency": "Commerce",
@@ -204,7 +292,11 @@ export const data = [
     "page": 677,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Commerce",
+      "Reorganization"
+    ]
   },
   {
     "agency": "Commerce",
@@ -213,7 +305,12 @@ export const data = [
     "page": 676,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Commerce",
+      "Environment",
+      "Reorganization"
+    ]
   },
   {
     "agency": "Commerce",
@@ -222,7 +319,11 @@ export const data = [
     "page": 671,
     "progress": "Completed",
     "notes": "",
-    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/america-first-trade-policy/"
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/america-first-trade-policy/",
+    "tags": [
+      "Commerce",
+      "Trade"
+    ]
   },
   {
     "agency": "CPB",
@@ -231,7 +332,11 @@ export const data = [
     "page": 246,
     "progress": "In Progress",
     "notes": "in progress: Trump's FCC ordered an investigation into the funding of NPR and PBS",
-    "link": "https://www.npr.org/2025/01/30/nx-s1-5281162/fcc-npr-pbs-investigation"
+    "link": "https://www.npr.org/2025/01/30/nx-s1-5281162/fcc-npr-pbs-investigation",
+    "tags": [
+      "Media",
+      "CPB"
+    ]
   },
   {
     "agency": "Defense",
@@ -240,7 +345,10 @@ export const data = [
     "page": 103,
     "progress": "Completed",
     "notes": "",
-    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/reinstating-service-members-discharged-under-the-militarys-covid-19-vaccination-mandate/"
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/reinstating-service-members-discharged-under-the-militarys-covid-19-vaccination-mandate/",
+    "tags": [
+      "Defense"
+    ]
   },
   {
     "agency": "Defense",
@@ -249,7 +357,10 @@ export const data = [
     "page": 94,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Defense"
+    ]
   },
   {
     "agency": "Defense",
@@ -258,7 +369,10 @@ export const data = [
     "page": 94,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Defense"
+    ]
   },
   {
     "agency": "Defense",
@@ -267,7 +381,10 @@ export const data = [
     "page": 101,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Defense"
+    ]
   },
   {
     "agency": "Defense",
@@ -276,7 +393,11 @@ export const data = [
     "page": 102,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Defense",
+      "Education"
+    ]
   },
   {
     "agency": "Defense",
@@ -285,7 +406,11 @@ export const data = [
     "page": 103,
     "progress": "Completed",
     "notes": "",
-    "link": "https://www.npr.org/2025/01/28/nx-s1-5276839/trump-executive-order-dei-military"
+    "link": "https://www.npr.org/2025/01/28/nx-s1-5276839/trump-executive-order-dei-military",
+    "tags": [
+      "Defense",
+      "DEIA"
+    ]
   },
   {
     "agency": "Defense",
@@ -294,7 +419,12 @@ export const data = [
     "page": 120,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Defense",
+      "Technology",
+      "Elections"
+    ]
   },
   {
     "agency": "Defense",
@@ -303,7 +433,11 @@ export const data = [
     "page": 555,
     "progress": "Completed",
     "notes": "",
-    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/declaring-a-national-emergency-at-the-southern-border-of-the-united-states/"
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/declaring-a-national-emergency-at-the-southern-border-of-the-united-states/",
+    "tags": [
+      "Defense",
+      "Immigration"
+    ]
   },
   {
     "agency": "Defense",
@@ -312,7 +446,11 @@ export const data = [
     "page": 166,
     "progress": "Completed",
     "notes": "",
-    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/declaring-a-national-emergency-at-the-southern-border-of-the-united-states/"
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/declaring-a-national-emergency-at-the-southern-border-of-the-united-states/",
+    "tags": [
+      "Defense",
+      "Immigration"
+    ]
   },
   {
     "agency": "Defense",
@@ -321,7 +459,11 @@ export const data = [
     "page": 119,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Defense",
+      "Intel"
+    ]
   },
   {
     "agency": "Defense",
@@ -330,7 +472,11 @@ export const data = [
     "page": 103,
     "progress": "Completed",
     "notes": "",
-    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/prioritizing-military-excellence-and-readiness/"
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/prioritizing-military-excellence-and-readiness/",
+    "tags": [
+      "Defense",
+      "LGBTQIA"
+    ]
   },
   {
     "agency": "Defense",
@@ -339,7 +485,11 @@ export const data = [
     "page": 104,
     "progress": "Completed",
     "notes": "",
-    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/prioritizing-military-excellence-and-readiness/"
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/prioritizing-military-excellence-and-readiness/",
+    "tags": [
+      "Defense",
+      "LGBTQIA"
+    ]
   },
   {
     "agency": "Defense",
@@ -348,7 +498,11 @@ export const data = [
     "page": 471,
     "progress": "Completed",
     "notes": "",
-    "link": "https://www.nbcnews.com/politics/national-security/pentagon-ends-policy-funding-travel-abortions-care-rcna190198"
+    "link": "https://www.nbcnews.com/politics/national-security/pentagon-ends-policy-funding-travel-abortions-care-rcna190198",
+    "tags": [
+      "Defense",
+      "Reproductive health"
+    ]
   },
   {
     "agency": "DHS",
@@ -357,7 +511,11 @@ export const data = [
     "page": 135,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "DHS",
+      "Aid"
+    ]
   },
   {
     "agency": "DHS",
@@ -366,7 +524,11 @@ export const data = [
     "page": 155,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "DHS",
+      "Cyber security"
+    ]
   },
   {
     "agency": "DHS",
@@ -375,7 +537,12 @@ export const data = [
     "page": 155,
     "progress": "In Progress",
     "notes": "Trump has yet to name a head of CISA and \"for the first time since it was formed, there are no plans for anyone in its leadership to address the main annual gathering of the nation\u2019s secretaries of state\"",
-    "link": "https://apnews.com/article/cisa-dhs-cybersecurity-election-security-trump-d17f40ad31f85a7538a7904efbea6b49"
+    "link": "https://apnews.com/article/cisa-dhs-cybersecurity-election-security-trump-d17f40ad31f85a7538a7904efbea6b49",
+    "tags": [
+      "DHS",
+      "Cyber security",
+      "Elections"
+    ]
   },
   {
     "agency": "DHS",
@@ -384,7 +551,11 @@ export const data = [
     "page": 135,
     "progress": "In Progress",
     "notes": "Trump created a council to review FEMA's structure, after telling the media \"FEMA should go away\"",
-    "link": "https://www.governing.com/resilience/trump-moves-to-abolish-fema-shift-disaster-response-to-states"
+    "link": "https://www.governing.com/resilience/trump-moves-to-abolish-fema-shift-disaster-response-to-states",
+    "tags": [
+      "DHS",
+      "FEMA"
+    ]
   },
   {
     "agency": "DHS",
@@ -393,7 +564,11 @@ export const data = [
     "page": 135,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "DHS",
+      "FEMA"
+    ]
   },
   {
     "agency": "DHS",
@@ -402,7 +577,11 @@ export const data = [
     "page": 137,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "DHS",
+      "FEMA"
+    ]
   },
   {
     "agency": "DHS",
@@ -411,7 +590,11 @@ export const data = [
     "page": 145,
     "progress": "In Progress",
     "notes": "Trump ended TPS protections for Venezuelans",
-    "link": "https://www.theguardian.com/us-news/2025/feb/02/trump-revokes-protections-venezuelans"
+    "link": "https://www.theguardian.com/us-news/2025/feb/02/trump-revokes-protections-venezuelans",
+    "tags": [
+      "DHS",
+      "Immigration"
+    ]
   },
   {
     "agency": "DHS",
@@ -420,7 +603,11 @@ export const data = [
     "page": 141,
     "progress": "Completed",
     "notes": "",
-    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/securing-our-borders/"
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/securing-our-borders/",
+    "tags": [
+      "DHS",
+      "Immigration"
+    ]
   },
   {
     "agency": "DHS",
@@ -429,7 +616,11 @@ export const data = [
     "page": 142,
     "progress": "Completed",
     "notes": "",
-    "link": "https://www.ice.gov/news/releases/ice-executes-federal-criminal-search-warrants-fresh-mark-146-arrested-immigration"
+    "link": "https://www.ice.gov/news/releases/ice-executes-federal-criminal-search-warrants-fresh-mark-146-arrested-immigration",
+    "tags": [
+      "DHS",
+      "Immigration"
+    ]
   },
   {
     "agency": "DHS",
@@ -438,7 +629,11 @@ export const data = [
     "page": 148,
     "progress": "Completed",
     "notes": "Trump went farther, shutting down asylum altogether",
-    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/guaranteeing-the-states-protection-against-invasion/"
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/guaranteeing-the-states-protection-against-invasion/",
+    "tags": [
+      "DHS",
+      "Immigration"
+    ]
   },
   {
     "agency": "DHS",
@@ -447,7 +642,11 @@ export const data = [
     "page": 149,
     "progress": "Completed",
     "notes": "",
-    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/securing-our-borders/"
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/securing-our-borders/",
+    "tags": [
+      "DHS",
+      "Immigration"
+    ]
   },
   {
     "agency": "DHS",
@@ -456,7 +655,11 @@ export const data = [
     "page": 133,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "DHS",
+      "Immigration"
+    ]
   },
   {
     "agency": "DHS",
@@ -465,7 +668,11 @@ export const data = [
     "page": 138,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "DHS",
+      "Immigration"
+    ]
   },
   {
     "agency": "DHS",
@@ -474,7 +681,11 @@ export const data = [
     "page": 139,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "DHS",
+      "Immigration"
+    ]
   },
   {
     "agency": "DHS",
@@ -483,7 +694,11 @@ export const data = [
     "page": 140,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "DHS",
+      "Immigration"
+    ]
   },
   {
     "agency": "DHS",
@@ -492,7 +707,11 @@ export const data = [
     "page": 141,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "DHS",
+      "Immigration"
+    ]
   },
   {
     "agency": "DHS",
@@ -501,7 +720,11 @@ export const data = [
     "page": 141,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "DHS",
+      "Immigration"
+    ]
   },
   {
     "agency": "DHS",
@@ -510,7 +733,11 @@ export const data = [
     "page": 143,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "DHS",
+      "Immigration"
+    ]
   },
   {
     "agency": "DHS",
@@ -519,7 +746,11 @@ export const data = [
     "page": 145,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "DHS",
+      "Immigration"
+    ]
   },
   {
     "agency": "DHS",
@@ -528,7 +759,11 @@ export const data = [
     "page": 145,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "DHS",
+      "Immigration"
+    ]
   },
   {
     "agency": "DHS",
@@ -537,7 +772,11 @@ export const data = [
     "page": 145,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "DHS",
+      "Immigration"
+    ]
   },
   {
     "agency": "DHS",
@@ -546,7 +785,11 @@ export const data = [
     "page": 147,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "DHS",
+      "Immigration"
+    ]
   },
   {
     "agency": "DHS",
@@ -555,7 +798,11 @@ export const data = [
     "page": 148,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "DHS",
+      "Immigration"
+    ]
   },
   {
     "agency": "DHS",
@@ -564,7 +811,11 @@ export const data = [
     "page": 148,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "DHS",
+      "Immigration"
+    ]
   },
   {
     "agency": "DHS",
@@ -573,7 +824,11 @@ export const data = [
     "page": 150,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "DHS",
+      "Immigration"
+    ]
   },
   {
     "agency": "DHS",
@@ -582,7 +837,11 @@ export const data = [
     "page": 165,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "DHS",
+      "Immigration"
+    ]
   },
   {
     "agency": "DHS",
@@ -591,7 +850,11 @@ export const data = [
     "page": 166,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "DHS",
+      "Immigration"
+    ]
   },
   {
     "agency": "DHS",
@@ -600,7 +863,12 @@ export const data = [
     "page": 161,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "DHS",
+      "Reorganization",
+      "Intel"
+    ]
   },
   {
     "agency": "DHS",
@@ -609,7 +877,11 @@ export const data = [
     "page": 138,
     "progress": "Completed",
     "notes": "",
-    "link": "https://www.cbsnews.com/news/dhs-terminates-all-advisory-committees-ends-investigation-chinese-linked-telecom-hack-salt-typhoon/"
+    "link": "https://www.cbsnews.com/news/dhs-terminates-all-advisory-committees-ends-investigation-chinese-linked-telecom-hack-salt-typhoon/",
+    "tags": [
+      "DHS",
+      "Personnel"
+    ]
   },
   {
     "agency": "DHS",
@@ -618,7 +890,12 @@ export const data = [
     "page": 135,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "DHS",
+      "Personnel",
+      "Unions"
+    ]
   },
   {
     "agency": "DHS",
@@ -627,7 +904,11 @@ export const data = [
     "page": 158,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "DHS",
+      "Police"
+    ]
   },
   {
     "agency": "DHS",
@@ -636,7 +917,11 @@ export const data = [
     "page": 135,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "DHS",
+      "TSA"
+    ]
   },
   {
     "agency": "DOJ",
@@ -645,7 +930,12 @@ export const data = [
     "page": 562,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Voting rights",
+      "DOJ",
+      "Civil rights"
+    ]
   },
   {
     "agency": "DOJ",
@@ -654,7 +944,11 @@ export const data = [
     "page": 554,
     "progress": "Completed",
     "notes": "",
-    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/restoring-the-death-penalty-and-protecting-public-safety/"
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/restoring-the-death-penalty-and-protecting-public-safety/",
+    "tags": [
+      "Criminal justice",
+      "DOJ"
+    ]
   },
   {
     "agency": "DOJ",
@@ -663,7 +957,11 @@ export const data = [
     "page": 553,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Criminal justice",
+      "DOJ"
+    ]
   },
   {
     "agency": "DOJ",
@@ -672,7 +970,11 @@ export const data = [
     "page": 555,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Criminal justice",
+      "DOJ"
+    ]
   },
   {
     "agency": "DOJ",
@@ -681,7 +983,12 @@ export const data = [
     "page": 558,
     "progress": "In Progress",
     "notes": "DOJ has frozen all consent decrees finalized within the last 90 days; paused all civil rights litigation",
-    "link": "https://www.yahoo.com/news/trumps-doj-reportedly-moves-halt-143659620.html"
+    "link": "https://www.yahoo.com/news/trumps-doj-reportedly-moves-halt-143659620.html",
+    "tags": [
+      "Criminal justice",
+      "DOJ",
+      "Police"
+    ]
   },
   {
     "agency": "DOJ",
@@ -690,7 +997,12 @@ export const data = [
     "page": 558,
     "progress": "Completed",
     "notes": "DOJ has directed federal prosecutors to limit enforcement of the FACE Act",
-    "link": "https://www.cbsnews.com/news/trump-face-act-abortion-related-actions-justice-department/"
+    "link": "https://www.cbsnews.com/news/trump-face-act-abortion-related-actions-justice-department/",
+    "tags": [
+      "Reproductive health",
+      "Criminal justice",
+      "DOJ"
+    ]
   },
   {
     "agency": "DOJ",
@@ -699,7 +1011,11 @@ export const data = [
     "page": 562,
     "progress": "Completed",
     "notes": "",
-    "link": "https://www.nbcnews.com/politics/justice-department/trump-reversing-justice-departments-civil-rights-policies-rcna189657"
+    "link": "https://www.nbcnews.com/politics/justice-department/trump-reversing-justice-departments-civil-rights-policies-rcna189657",
+    "tags": [
+      "DEIA",
+      "DOJ"
+    ]
   },
   {
     "agency": "DOJ",
@@ -708,7 +1024,12 @@ export const data = [
     "page": 566,
     "progress": "In Progress",
     "notes": "",
-    "link": "https://news.bloomberglaw.com/us-law-week/trump-doj-orders-probes-into-state-local-immigration-resistors"
+    "link": "https://news.bloomberglaw.com/us-law-week/trump-doj-orders-probes-into-state-local-immigration-resistors",
+    "tags": [
+      "Funding",
+      "DOJ",
+      "Immigration"
+    ]
   },
   {
     "agency": "DOJ",
@@ -717,7 +1038,11 @@ export const data = [
     "page": 567,
     "progress": "Completed",
     "notes": "",
-    "link": "https://immpolicytracking.org/policies/doj-memo-creates-new-prosecutorial-discretion-guidelines-and-directs-the-fbis-joint-terrorism-task-force-to-redeploy-doj-resources-and-personnel-for-immigration-enforcement/"
+    "link": "https://immpolicytracking.org/policies/doj-memo-creates-new-prosecutorial-discretion-guidelines-and-directs-the-fbis-joint-terrorism-task-force-to-redeploy-doj-resources-and-personnel-for-immigration-enforcement/",
+    "tags": [
+      "DOJ",
+      "Immigration"
+    ]
   },
   {
     "agency": "DOJ",
@@ -726,7 +1051,11 @@ export const data = [
     "page": 567,
     "progress": "Completed",
     "notes": "",
-    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/protecting-the-american-people-against-invasion/"
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/protecting-the-american-people-against-invasion/",
+    "tags": [
+      "DOJ",
+      "Immigration"
+    ]
   },
   {
     "agency": "DOJ",
@@ -735,7 +1064,11 @@ export const data = [
     "page": 214,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "DOJ",
+      "Intel"
+    ]
   },
   {
     "agency": "DOJ",
@@ -744,7 +1077,11 @@ export const data = [
     "page": 557,
     "progress": "Completed",
     "notes": "",
-    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/ending-the-weaponization-of-the-federal-government/"
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/ending-the-weaponization-of-the-federal-government/",
+    "tags": [
+      "DOJ",
+      "Presidential power"
+    ]
   },
   {
     "agency": "DOJ",
@@ -753,7 +1090,11 @@ export const data = [
     "page": 560,
     "progress": "Completed",
     "notes": "Humphrey's Executor is a SCOTUS case that limited the president's ability to fire directors of independent agencies",
-    "link": ""
+    "link": "",
+    "tags": [
+      "DOJ",
+      "Presidential power"
+    ]
   },
   {
     "agency": "DOJ",
@@ -762,7 +1103,11 @@ export const data = [
     "page": 562,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Reproductive health",
+      "DOJ"
+    ]
   },
   {
     "agency": "DOJ",
@@ -771,7 +1116,11 @@ export const data = [
     "page": 550,
     "progress": "Completed",
     "notes": "",
-    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/restoring-freedom-of-speech-and-ending-federal-censorship/"
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/restoring-freedom-of-speech-and-ending-federal-censorship/",
+    "tags": [
+      "Technology",
+      "DOJ"
+    ]
   },
   {
     "agency": "Education",
@@ -780,7 +1129,11 @@ export const data = [
     "page": 335,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Education",
+      "Civil rights"
+    ]
   },
   {
     "agency": "Education",
@@ -789,7 +1142,11 @@ export const data = [
     "page": 336,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Education",
+      "Civil rights"
+    ]
   },
   {
     "agency": "Education",
@@ -798,7 +1155,12 @@ export const data = [
     "page": 333,
     "progress": "Completed",
     "notes": "",
-    "link": "https://thehill.com/homenews/education/5118925-trump-biden-title-ix-education-gender-lgbtq/"
+    "link": "https://thehill.com/homenews/education/5118925-trump-biden-title-ix-education-gender-lgbtq/",
+    "tags": [
+      "LGBTQIA",
+      "Education",
+      "Civil rights"
+    ]
   },
   {
     "agency": "Education",
@@ -807,7 +1169,12 @@ export const data = [
     "page": 332,
     "progress": "Completed",
     "notes": "achieved by issuing an executive order declaring it is federal policy that there are only two genders: male and female",
-    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/defending-women-from-gender-ideology-extremism-and-restoring-biological-truth-to-the-federal-government/"
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/defending-women-from-gender-ideology-extremism-and-restoring-biological-truth-to-the-federal-government/",
+    "tags": [
+      "LGBTQIA",
+      "Education",
+      "Civil rights"
+    ]
   },
   {
     "agency": "Education",
@@ -816,7 +1183,12 @@ export const data = [
     "page": 334,
     "progress": "Completed",
     "notes": "",
-    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/defending-women-from-gender-ideology-extremism-and-restoring-biological-truth-to-the-federal-government/"
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/defending-women-from-gender-ideology-extremism-and-restoring-biological-truth-to-the-federal-government/",
+    "tags": [
+      "LGBTQIA",
+      "Education",
+      "Civil rights"
+    ]
   },
   {
     "agency": "Education",
@@ -825,7 +1197,10 @@ export const data = [
     "page": 5,
     "progress": "Completed",
     "notes": "",
-    "link": "https://www.sacbee.com/news/politics-government/capitol-alert/article299398074.html"
+    "link": "https://www.sacbee.com/news/politics-government/capitol-alert/article299398074.html",
+    "tags": [
+      "Education"
+    ]
   },
   {
     "agency": "Education",
@@ -834,7 +1209,10 @@ export const data = [
     "page": 343,
     "progress": "Completed",
     "notes": "",
-    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/ending-radical-indoctrination-in-k-12-schooling/"
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/ending-radical-indoctrination-in-k-12-schooling/",
+    "tags": [
+      "Education"
+    ]
   },
   {
     "agency": "Education",
@@ -843,7 +1221,10 @@ export const data = [
     "page": 350,
     "progress": "Completed",
     "notes": "",
-    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/expanding-educational-freedom-and-opportunity-for-families/"
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/expanding-educational-freedom-and-opportunity-for-families/",
+    "tags": [
+      "Education"
+    ]
   },
   {
     "agency": "Education",
@@ -852,7 +1233,10 @@ export const data = [
     "page": 325,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Education"
+    ]
   },
   {
     "agency": "Education",
@@ -861,7 +1245,10 @@ export const data = [
     "page": 326,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Education"
+    ]
   },
   {
     "agency": "Education",
@@ -870,7 +1257,10 @@ export const data = [
     "page": 344,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Education"
+    ]
   },
   {
     "agency": "Education",
@@ -879,7 +1269,10 @@ export const data = [
     "page": 344,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Education"
+    ]
   },
   {
     "agency": "Education",
@@ -888,7 +1281,10 @@ export const data = [
     "page": 351,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Education"
+    ]
   },
   {
     "agency": "Education",
@@ -897,7 +1293,10 @@ export const data = [
     "page": 361,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Education"
+    ]
   },
   {
     "agency": "Education",
@@ -906,7 +1305,10 @@ export const data = [
     "page": 361,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Education"
+    ]
   },
   {
     "agency": "Education",
@@ -915,7 +1317,11 @@ export const data = [
     "page": 342,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Education",
+      "Labor"
+    ]
   },
   {
     "agency": "Education",
@@ -924,7 +1330,12 @@ export const data = [
     "page": 333,
     "progress": "Completed",
     "notes": "",
-    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/defending-women-from-gender-ideology-extremism-and-restoring-biological-truth-to-the-federal-government/"
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/defending-women-from-gender-ideology-extremism-and-restoring-biological-truth-to-the-federal-government/",
+    "tags": [
+      "LGBTQIA",
+      "Education",
+      "Civil rights"
+    ]
   },
   {
     "agency": "Education",
@@ -933,7 +1344,12 @@ export const data = [
     "page": 5,
     "progress": "Completed",
     "notes": "",
-    "link": "https://19thnews.org/2025/01/trump-transgender-education-curriculum/"
+    "link": "https://19thnews.org/2025/01/trump-transgender-education-curriculum/",
+    "tags": [
+      "LGBTQIA",
+      "Education",
+      "Equality"
+    ]
   },
   {
     "agency": "Education",
@@ -942,7 +1358,11 @@ export const data = [
     "page": 330,
     "progress": "In Progress",
     "notes": "reportedly in progress ",
-    "link": "https://abcnews.go.com/Politics/trump-order-dismantle-education-department-works-sources/story?id=118418280"
+    "link": "https://abcnews.go.com/Politics/trump-order-dismantle-education-department-works-sources/story?id=118418280",
+    "tags": [
+      "Education",
+      "Reorganization"
+    ]
   },
   {
     "agency": "Education",
@@ -951,7 +1371,11 @@ export const data = [
     "page": 0,
     "progress": "In Progress",
     "notes": "in part achieved last year by right wing judges blocking Biden's student loan programs",
-    "link": "https://ago.mo.gov/wp-content/uploads/2024-8-9-Eighth-Circuit-Student-Loan-Win.pdf"
+    "link": "https://ago.mo.gov/wp-content/uploads/2024-8-9-Eighth-Circuit-Student-Loan-Win.pdf",
+    "tags": [
+      "Education",
+      "Student loans"
+    ]
   },
   {
     "agency": "Education",
@@ -960,7 +1384,11 @@ export const data = [
     "page": 0,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Education",
+      "Student loans"
+    ]
   },
   {
     "agency": "Energy",
@@ -969,7 +1397,10 @@ export const data = [
     "page": 376,
     "progress": "Completed",
     "notes": "",
-    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-american-energy/"
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-american-energy/",
+    "tags": [
+      "Energy"
+    ]
   },
   {
     "agency": "Energy",
@@ -978,7 +1409,10 @@ export const data = [
     "page": 379,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Energy"
+    ]
   },
   {
     "agency": "Energy",
@@ -987,7 +1421,11 @@ export const data = [
     "page": 401,
     "progress": "In Progress",
     "notes": "in part achieved by stopping the disbursement of IRA and IIJA funding",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Energy",
+      "Environment"
+    ]
   },
   {
     "agency": "Energy",
@@ -996,7 +1434,11 @@ export const data = [
     "page": 0,
     "progress": "Completed",
     "notes": "",
-    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-alaskas-extraordinary-resource-potential/"
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-alaskas-extraordinary-resource-potential/",
+    "tags": [
+      "Energy",
+      "Environment"
+    ]
   },
   {
     "agency": "Energy",
@@ -1005,7 +1447,11 @@ export const data = [
     "page": 377,
     "progress": "Completed",
     "notes": "",
-    "link": "https://www.energy.gov/articles/us-department-energy-reverses-biden-lng-pause-restores-trump-energy-dominance-agenda"
+    "link": "https://www.energy.gov/articles/us-department-energy-reverses-biden-lng-pause-restores-trump-energy-dominance-agenda",
+    "tags": [
+      "Energy",
+      "Environment"
+    ]
   },
   {
     "agency": "Energy",
@@ -1014,7 +1460,11 @@ export const data = [
     "page": 0,
     "progress": "Completed",
     "notes": "",
-    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-american-energy/"
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-american-energy/",
+    "tags": [
+      "Energy",
+      "Environment"
+    ]
   },
   {
     "agency": "Energy",
@@ -1023,7 +1473,11 @@ export const data = [
     "page": 406,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Energy",
+      "Environment"
+    ]
   },
   {
     "agency": "Energy",
@@ -1032,7 +1486,11 @@ export const data = [
     "page": 376,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Energy",
+      "Environment"
+    ]
   },
   {
     "agency": "Energy",
@@ -1041,7 +1499,11 @@ export const data = [
     "page": 402,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Energy",
+      "Environment"
+    ]
   },
   {
     "agency": "Energy",
@@ -1050,7 +1512,11 @@ export const data = [
     "page": 399,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Energy",
+      "Nuclear"
+    ]
   },
   {
     "agency": "Energy",
@@ -1059,7 +1525,12 @@ export const data = [
     "page": 397,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Energy",
+      "Environment",
+      "Nuclear"
+    ]
   },
   {
     "agency": "Energy",
@@ -1068,7 +1539,11 @@ export const data = [
     "page": 365,
     "progress": "Completed",
     "notes": "Trump signed an executive order indefinitely pausing the disbursement of funds",
-    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-american-energy/"
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-american-energy/",
+    "tags": [
+      "Renewables",
+      "Energy"
+    ]
   },
   {
     "agency": "Energy",
@@ -1077,7 +1552,11 @@ export const data = [
     "page": 365,
     "progress": "Completed",
     "notes": "Trump signed an executive order indefinitely pausing the disbursement of funds",
-    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-american-energy/"
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-american-energy/",
+    "tags": [
+      "Renewables",
+      "Energy"
+    ]
   },
   {
     "agency": "Energy",
@@ -1086,7 +1565,11 @@ export const data = [
     "page": 386,
     "progress": "Completed",
     "notes": "Trump signed an executive order indefinitely pausing the disbursement of funds",
-    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-american-energy/"
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-american-energy/",
+    "tags": [
+      "Energy",
+      "Reorganization"
+    ]
   },
   {
     "agency": "Energy",
@@ -1095,7 +1578,11 @@ export const data = [
     "page": 369,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Energy",
+      "Reorganization"
+    ]
   },
   {
     "agency": "Energy",
@@ -1104,7 +1591,11 @@ export const data = [
     "page": 369,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Energy",
+      "Reorganization"
+    ]
   },
   {
     "agency": "Energy",
@@ -1113,7 +1604,11 @@ export const data = [
     "page": 369,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Energy",
+      "Reorganization"
+    ]
   },
   {
     "agency": "Energy",
@@ -1122,7 +1617,11 @@ export const data = [
     "page": 369,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Energy",
+      "Reorganization"
+    ]
   },
   {
     "agency": "Energy",
@@ -1131,7 +1630,11 @@ export const data = [
     "page": 369,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Energy",
+      "Reorganization"
+    ]
   },
   {
     "agency": "Energy",
@@ -1140,7 +1643,11 @@ export const data = [
     "page": 379,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Energy",
+      "Reorganization"
+    ]
   },
   {
     "agency": "EPA",
@@ -1149,7 +1656,11 @@ export const data = [
     "page": 426,
     "progress": "Completed",
     "notes": "Trump signed an executive order to terminatate emissions waivers that function to limit sales of gasoline-powered automobiles",
-    "link": "https://www.eenews.net/articles/trump-executive-order-targets-california-electric-vehicle-waiver/ "
+    "link": "https://www.eenews.net/articles/trump-executive-order-targets-california-electric-vehicle-waiver/ ",
+    "tags": [
+      "Environment",
+      "EPA"
+    ]
   },
   {
     "agency": "EPA",
@@ -1158,7 +1669,11 @@ export const data = [
     "page": 436,
     "progress": "Completed",
     "notes": "",
-    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-american-energy/"
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-american-energy/",
+    "tags": [
+      "Environment",
+      "EPA"
+    ]
   },
   {
     "agency": "EPA",
@@ -1167,7 +1682,11 @@ export const data = [
     "page": 424,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Environment",
+      "EPA"
+    ]
   },
   {
     "agency": "EPA",
@@ -1176,7 +1695,11 @@ export const data = [
     "page": 439,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Environment",
+      "EPA"
+    ]
   },
   {
     "agency": "EPA",
@@ -1185,7 +1708,11 @@ export const data = [
     "page": 444,
     "progress": "In Progress",
     "notes": "in part achieved by freezing IRA/IIJA disbursements and by the overall federal funding freeze",
-    "link": "https://www.reuters.com/world/us/senate-democrats-question-epa-blockage-committed-federal-grants-2025-01-31/"
+    "link": "https://www.reuters.com/world/us/senate-democrats-question-epa-blockage-committed-federal-grants-2025-01-31/",
+    "tags": [
+      "Funding",
+      "EPA"
+    ]
   },
   {
     "agency": "EPA",
@@ -1194,7 +1721,11 @@ export const data = [
     "page": 422,
     "progress": "Completed",
     "notes": "grants to programs like Climate Pollution Reduction Grants and ecycling Education and Outreach frozen",
-    "link": "https://www.wastedive.com/news/federal-funding-pause-confusion-hits-environmental-program-funding/738993/"
+    "link": "https://www.wastedive.com/news/federal-funding-pause-confusion-hits-environmental-program-funding/738993/",
+    "tags": [
+      "Funding",
+      "EPA"
+    ]
   },
   {
     "agency": "EPA",
@@ -1203,7 +1734,11 @@ export const data = [
     "page": 421,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Reorganization",
+      "EPA"
+    ]
   },
   {
     "agency": "EPA",
@@ -1212,7 +1747,11 @@ export const data = [
     "page": 421,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Reorganization",
+      "EPA"
+    ]
   },
   {
     "agency": "EPA",
@@ -1221,7 +1760,11 @@ export const data = [
     "page": 421,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Reorganization",
+      "EPA"
+    ]
   },
   {
     "agency": "EPA",
@@ -1230,7 +1773,11 @@ export const data = [
     "page": 421,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Reorganization",
+      "EPA"
+    ]
   },
   {
     "agency": "EPA",
@@ -1239,7 +1786,11 @@ export const data = [
     "page": 422,
     "progress": "In Progress",
     "notes": "\"More than 1,000 EPA employees are told they could be dismissed immediately\"",
-    "link": "https://www.nbcnews.com/science/science-news/epa-employees-told-dismissed-immediately-rcna190474"
+    "link": "https://www.nbcnews.com/science/science-news/epa-employees-told-dismissed-immediately-rcna190474",
+    "tags": [
+      "Reorganization",
+      "EPA"
+    ]
   },
   {
     "agency": "EPA",
@@ -1248,7 +1799,11 @@ export const data = [
     "page": 437,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Reorganization",
+      "EPA"
+    ]
   },
   {
     "agency": "FBI",
@@ -1257,7 +1812,11 @@ export const data = [
     "page": 551,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "FBI",
+      "Reorganization"
+    ]
   },
   {
     "agency": "FCC",
@@ -1266,7 +1825,11 @@ export const data = [
     "page": 847,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Technology",
+      "FCC"
+    ]
   },
   {
     "agency": "FCC",
@@ -1275,7 +1838,11 @@ export const data = [
     "page": 852,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Technology",
+      "FCC"
+    ]
   },
   {
     "agency": "FCC",
@@ -1284,7 +1851,11 @@ export const data = [
     "page": 855,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Technology",
+      "FCC"
+    ]
   },
   {
     "agency": "FDA",
@@ -1293,7 +1864,11 @@ export const data = [
     "page": 458,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Reproductive health",
+      "FDA"
+    ]
   },
   {
     "agency": "FEC",
@@ -1302,7 +1877,11 @@ export const data = [
     "page": 863,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "FEC",
+      "Elections"
+    ]
   },
   {
     "agency": "FEC",
@@ -1311,7 +1890,11 @@ export const data = [
     "page": 866,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "FEC",
+      "Elections"
+    ]
   },
   {
     "agency": "Federal Reserve",
@@ -1320,7 +1903,11 @@ export const data = [
     "page": 732,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Economy",
+      "Federal Reserve"
+    ]
   },
   {
     "agency": "Federal Reserve",
@@ -1329,7 +1916,11 @@ export const data = [
     "page": 736,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Economy",
+      "Federal Reserve"
+    ]
   },
   {
     "agency": "FTC",
@@ -1338,7 +1929,12 @@ export const data = [
     "page": 872,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Accountability",
+      "Economy",
+      "FTC"
+    ]
   },
   {
     "agency": "FTC",
@@ -1347,7 +1943,12 @@ export const data = [
     "page": 876,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Accountability",
+      "Economy",
+      "FTC"
+    ]
   },
   {
     "agency": "general",
@@ -1356,7 +1957,12 @@ export const data = [
     "page": 0,
     "progress": "Completed",
     "notes": "",
-    "link": "https://apnews.com/article/trump-gender-ideology-sex-pronouns-order-transgender-2d7e54837f5d0651ed0cefa5ea0d6301"
+    "link": "https://apnews.com/article/trump-gender-ideology-sex-pronouns-order-transgender-2d7e54837f5d0651ed0cefa5ea0d6301",
+    "tags": [
+      "LGBTQIA",
+      "DEIA",
+      "General"
+    ]
   },
   {
     "agency": "HHS",
@@ -1365,7 +1971,11 @@ export const data = [
     "page": 486,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "HHS",
+      "Childcare"
+    ]
   },
   {
     "agency": "HHS",
@@ -1374,7 +1984,12 @@ export const data = [
     "page": 482,
     "progress": "In Progress",
     "notes": "reportedly still experiencing shut downs after the OMB memo freezing all federal funding",
-    "link": "https://www.wpr.org/news/half-wisconsin-head-start-programs-cant-access-funds-federal-freeze-trump"
+    "link": "https://www.wpr.org/news/half-wisconsin-head-start-programs-cant-access-funds-federal-freeze-trump",
+    "tags": [
+      "HHS",
+      "Education",
+      "Childcare"
+    ]
   },
   {
     "agency": "HHS",
@@ -1383,7 +1998,12 @@ export const data = [
     "page": 451,
     "progress": "In Progress",
     "notes": "while not at HHS, we are starting to see the beginnings of this policy in other agencies - the Transportation Dept. directed money to areas with high marriage and birth rates",
-    "link": "https://www.huffpost.com/entry/dot-memo-funds-communities-marriage-birth-rates_n_679bf8d8e4b0e1faebeef9c8"
+    "link": "https://www.huffpost.com/entry/dot-memo-funds-communities-marriage-birth-rates_n_679bf8d8e4b0e1faebeef9c8",
+    "tags": [
+      "HHS",
+      "Equality",
+      "LGBTQIA"
+    ]
   },
   {
     "agency": "HHS",
@@ -1392,7 +2012,11 @@ export const data = [
     "page": 475,
     "progress": "Completed",
     "notes": "",
-    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/protecting-children-from-chemical-and-surgical-mutilation/"
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/protecting-children-from-chemical-and-surgical-mutilation/",
+    "tags": [
+      "HHS",
+      "LGBTQIA"
+    ]
   },
   {
     "agency": "HHS",
@@ -1401,7 +2025,12 @@ export const data = [
     "page": 477,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "HHS",
+      "Childcare",
+      "LGBTQIA"
+    ]
   },
   {
     "agency": "HHS",
@@ -1410,7 +2039,12 @@ export const data = [
     "page": 474,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "HHS",
+      "Medicare",
+      "LGBTQIA"
+    ]
   },
   {
     "agency": "HHS",
@@ -1419,7 +2053,11 @@ export const data = [
     "page": 496,
     "progress": "In Progress",
     "notes": "the administration is deleting this information from HHS websites",
-    "link": "https://jessica.substack.com/p/hipaa-hss-deleted-trump"
+    "link": "https://jessica.substack.com/p/hipaa-hss-deleted-trump",
+    "tags": [
+      "HHS",
+      "Reproductive health"
+    ]
   },
   {
     "agency": "HHS",
@@ -1428,7 +2066,11 @@ export const data = [
     "page": 497,
     "progress": "In Progress",
     "notes": "the administration is deleting this information from HHS websites",
-    "link": "https://jessica.substack.com/p/hipaa-hss-deleted-trump"
+    "link": "https://jessica.substack.com/p/hipaa-hss-deleted-trump",
+    "tags": [
+      "HHS",
+      "Reproductive health"
+    ]
   },
   {
     "agency": "HHS",
@@ -1437,7 +2079,11 @@ export const data = [
     "page": 471,
     "progress": "Completed",
     "notes": "",
-    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/enforcing-the-hyde-amendment/"
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/enforcing-the-hyde-amendment/",
+    "tags": [
+      "HHS",
+      "Reproductive health"
+    ]
   },
   {
     "agency": "HHS",
@@ -1446,7 +2092,11 @@ export const data = [
     "page": 475,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "HHS",
+      "Reproductive health"
+    ]
   },
   {
     "agency": "HHS",
@@ -1455,7 +2105,11 @@ export const data = [
     "page": 471,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "HHS",
+      "Reproductive health"
+    ]
   },
   {
     "agency": "HHS",
@@ -1464,7 +2118,11 @@ export const data = [
     "page": 472,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "HHS",
+      "Reproductive health"
+    ]
   },
   {
     "agency": "HHS",
@@ -1473,7 +2131,11 @@ export const data = [
     "page": 473,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "HHS",
+      "Reproductive health"
+    ]
   },
   {
     "agency": "HHS",
@@ -1482,7 +2144,11 @@ export const data = [
     "page": 483,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "HHS",
+      "Reproductive health"
+    ]
   },
   {
     "agency": "HHS",
@@ -1491,7 +2157,11 @@ export const data = [
     "page": 485,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "HHS",
+      "Reproductive health"
+    ]
   },
   {
     "agency": "HHS",
@@ -1500,7 +2170,11 @@ export const data = [
     "page": 489,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "HHS",
+      "Reproductive health"
+    ]
   },
   {
     "agency": "HHS",
@@ -1509,7 +2183,11 @@ export const data = [
     "page": 491,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "HHS",
+      "Reproductive health"
+    ]
   },
   {
     "agency": "HHS",
@@ -1518,7 +2196,11 @@ export const data = [
     "page": 494,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "HHS",
+      "Reproductive health"
+    ]
   },
   {
     "agency": "HHS",
@@ -1527,7 +2209,12 @@ export const data = [
     "page": 478,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "HHS",
+      "Immigration",
+      "Reproductive health"
+    ]
   },
   {
     "agency": "HHS",
@@ -1536,7 +2223,11 @@ export const data = [
     "page": 476,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "HHS",
+      "Welfare"
+    ]
   },
   {
     "agency": "HUD",
@@ -1545,7 +2236,11 @@ export const data = [
     "page": 508,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Equality",
+      "HUD"
+    ]
   },
   {
     "agency": "HUD",
@@ -1554,7 +2249,11 @@ export const data = [
     "page": 509,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Equality",
+      "HUD"
+    ]
   },
   {
     "agency": "HUD",
@@ -1563,7 +2262,11 @@ export const data = [
     "page": 509,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Housing",
+      "HUD"
+    ]
   },
   {
     "agency": "HUD",
@@ -1572,7 +2275,11 @@ export const data = [
     "page": 509,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Housing",
+      "HUD"
+    ]
   },
   {
     "agency": "HUD",
@@ -1581,7 +2288,11 @@ export const data = [
     "page": 509,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Housing",
+      "HUD"
+    ]
   },
   {
     "agency": "HUD",
@@ -1590,7 +2301,12 @@ export const data = [
     "page": 509,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Housing",
+      "HUD",
+      "Immigration"
+    ]
   },
   {
     "agency": "IC",
@@ -1599,7 +2315,11 @@ export const data = [
     "page": 207,
     "progress": "Completed",
     "notes": "Trump ordered \"temporary\" clearances be given to chosen staffers",
-    "link": "https://www.cnn.com/2025/01/21/politics/trump-temporary-security-clearances/index.html"
+    "link": "https://www.cnn.com/2025/01/21/politics/trump-temporary-security-clearances/index.html",
+    "tags": [
+      "IC",
+      "Intel"
+    ]
   },
   {
     "agency": "IC",
@@ -1608,7 +2328,11 @@ export const data = [
     "page": 213,
     "progress": "Completed",
     "notes": "Trump revoked the security clearances of 50 former officials",
-    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/holding-former-government-officials-accountablefor-election-interference-and-improper-disclosure-of-sensitive-governmental-information/"
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/holding-former-government-officials-accountablefor-election-interference-and-improper-disclosure-of-sensitive-governmental-information/",
+    "tags": [
+      "IC",
+      "Intel"
+    ]
   },
   {
     "agency": "IC",
@@ -1617,7 +2341,11 @@ export const data = [
     "page": 216,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "IC",
+      "Intel"
+    ]
   },
   {
     "agency": "IC",
@@ -1626,7 +2354,11 @@ export const data = [
     "page": 225,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "IC",
+      "Intel"
+    ]
   },
   {
     "agency": "IC",
@@ -1635,7 +2367,11 @@ export const data = [
     "page": 224,
     "progress": "In Progress",
     "notes": "starting to be implemented in other departments: Musk's team wants an \"AI-first\" approach through all of government",
-    "link": "https://www.wired.com/story/elon-musk-lieutenant-gsa-ai-agency/"
+    "link": "https://www.wired.com/story/elon-musk-lieutenant-gsa-ai-agency/",
+    "tags": [
+      "Technology",
+      "IC"
+    ]
   },
   {
     "agency": "Interior",
@@ -1644,7 +2380,11 @@ export const data = [
     "page": 530,
     "progress": "In Progress",
     "notes": "Trump reinstated his first administration's impact reviews of the project, which were more favorable than Biden's",
-    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-alaskas-extraordinary-resource-potential/"
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-alaskas-extraordinary-resource-potential/",
+    "tags": [
+      "Environment",
+      "Interior"
+    ]
   },
   {
     "agency": "Interior",
@@ -1653,7 +2393,11 @@ export const data = [
     "page": 531,
     "progress": "Completed",
     "notes": "",
-    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-alaskas-extraordinary-resource-potential/"
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-alaskas-extraordinary-resource-potential/",
+    "tags": [
+      "Environment",
+      "Interior"
+    ]
   },
   {
     "agency": "Interior",
@@ -1662,7 +2406,11 @@ export const data = [
     "page": 532,
     "progress": "Completed",
     "notes": "Trump rescinded Executive order 14008",
-    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-american-energy/"
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-american-energy/",
+    "tags": [
+      "Environment",
+      "Interior"
+    ]
   },
   {
     "agency": "Interior",
@@ -1671,7 +2419,11 @@ export const data = [
     "page": 521,
     "progress": "Completed",
     "notes": "",
-    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-american-energy/"
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-american-energy/",
+    "tags": [
+      "Environment",
+      "Interior"
+    ]
   },
   {
     "agency": "Interior",
@@ -1680,7 +2432,11 @@ export const data = [
     "page": 542,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Environment",
+      "Interior"
+    ]
   },
   {
     "agency": "Interior",
@@ -1689,7 +2445,11 @@ export const data = [
     "page": 524,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Environment",
+      "Interior"
+    ]
   },
   {
     "agency": "Interior",
@@ -1698,7 +2458,11 @@ export const data = [
     "page": 532,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Environment",
+      "Interior"
+    ]
   },
   {
     "agency": "Interior",
@@ -1707,7 +2471,11 @@ export const data = [
     "page": 532,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Environment",
+      "Interior"
+    ]
   },
   {
     "agency": "Interior",
@@ -1716,7 +2484,11 @@ export const data = [
     "page": 534,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Environment",
+      "Interior"
+    ]
   },
   {
     "agency": "Interior",
@@ -1725,7 +2497,12 @@ export const data = [
     "page": 523,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Fossil fuels",
+      "Environment",
+      "Interior"
+    ]
   },
   {
     "agency": "Labor",
@@ -1734,7 +2511,11 @@ export const data = [
     "page": 584,
     "progress": "Completed",
     "notes": "",
-    "link": "https://www.dol.gov/newsroom/releases/osec/osec20250124"
+    "link": "https://www.dol.gov/newsroom/releases/osec/osec20250124",
+    "tags": [
+      "Civil rights",
+      "Labor"
+    ]
   },
   {
     "agency": "Labor",
@@ -1743,7 +2524,11 @@ export const data = [
     "page": 584,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Civil rights",
+      "Labor"
+    ]
   },
   {
     "agency": "Labor",
@@ -1752,7 +2537,13 @@ export const data = [
     "page": 586,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "LGBTQIA",
+      "Civil rights",
+      "Reproductive health",
+      "Labor"
+    ]
   },
   {
     "agency": "Labor",
@@ -1761,7 +2552,11 @@ export const data = [
     "page": 582,
     "progress": "Completed",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "DEIA",
+      "Labor"
+    ]
   },
   {
     "agency": "Labor",
@@ -1770,7 +2565,12 @@ export const data = [
     "page": 606,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "LGBTQIA",
+      "Environment",
+      "Labor"
+    ]
   },
   {
     "agency": "Labor",
@@ -1779,7 +2579,10 @@ export const data = [
     "page": 592,
     "progress": "Completed",
     "notes": "courts already struck down Biden expansion",
-    "link": "https://www.reuters.com/legal/litigation/another-judge-blocks-biden-rule-expanding-overtime-pay-2024-12-30/"
+    "link": "https://www.reuters.com/legal/litigation/another-judge-blocks-biden-rule-expanding-overtime-pay-2024-12-30/",
+    "tags": [
+      "Labor"
+    ]
   },
   {
     "agency": "Labor",
@@ -1788,7 +2591,10 @@ export const data = [
     "page": 0,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Labor"
+    ]
   },
   {
     "agency": "Labor",
@@ -1797,7 +2603,10 @@ export const data = [
     "page": 595,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Labor"
+    ]
   },
   {
     "agency": "Labor",
@@ -1806,7 +2615,10 @@ export const data = [
     "page": 599,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Labor"
+    ]
   },
   {
     "agency": "Labor",
@@ -1815,7 +2627,10 @@ export const data = [
     "page": 601,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Labor"
+    ]
   },
   {
     "agency": "Labor",
@@ -1824,7 +2639,10 @@ export const data = [
     "page": 602,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Labor"
+    ]
   },
   {
     "agency": "Labor",
@@ -1833,7 +2651,10 @@ export const data = [
     "page": 603,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Labor"
+    ]
   },
   {
     "agency": "Labor",
@@ -1842,7 +2663,10 @@ export const data = [
     "page": 603,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Labor"
+    ]
   },
   {
     "agency": "Labor",
@@ -1851,7 +2675,10 @@ export const data = [
     "page": 605,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Labor"
+    ]
   },
   {
     "agency": "Labor",
@@ -1860,7 +2687,12 @@ export const data = [
     "page": 615,
     "progress": "Completed",
     "notes": "Trump fired EEOC's Karla Gilbride and NLRB's Jennifer Abruzzo",
-    "link": "https://www.nlrb.gov/news-outreach/news-story/statement-from-departing-nlrb-general-counsel-jennifer-abruzzo"
+    "link": "https://www.nlrb.gov/news-outreach/news-story/statement-from-departing-nlrb-general-counsel-jennifer-abruzzo",
+    "tags": [
+      "Staffing",
+      "Reorganization",
+      "Labor"
+    ]
   },
   {
     "agency": "Labor",
@@ -1869,7 +2701,11 @@ export const data = [
     "page": 585,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Reproductive health",
+      "Labor"
+    ]
   },
   {
     "agency": "NIH",
@@ -1878,7 +2714,11 @@ export const data = [
     "page": 461,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "NIH",
+      "Health"
+    ]
   },
   {
     "agency": "Personnel",
@@ -1887,7 +2727,10 @@ export const data = [
     "page": 78,
     "progress": "Completed",
     "notes": "",
-    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/hiring-freeze/"
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/hiring-freeze/",
+    "tags": [
+      "Personnel"
+    ]
   },
   {
     "agency": "Personnel",
@@ -1896,7 +2739,10 @@ export const data = [
     "page": 80,
     "progress": "Completed",
     "notes": "",
-    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/restoring-accountability-to-policy-influencing-positions-within-the-federal-workforce/"
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/restoring-accountability-to-policy-influencing-positions-within-the-federal-workforce/",
+    "tags": [
+      "Personnel"
+    ]
   },
   {
     "agency": "Personnel",
@@ -1905,7 +2751,10 @@ export const data = [
     "page": 73,
     "progress": "Completed",
     "notes": "",
-    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/initial-rescissions-of-harmful-executive-orders-and-actions/"
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/initial-rescissions-of-harmful-executive-orders-and-actions/",
+    "tags": [
+      "Personnel"
+    ]
   },
   {
     "agency": "Personnel",
@@ -1914,7 +2763,10 @@ export const data = [
     "page": 74,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Personnel"
+    ]
   },
   {
     "agency": "Personnel",
@@ -1923,7 +2775,10 @@ export const data = [
     "page": 76,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Personnel"
+    ]
   },
   {
     "agency": "Personnel",
@@ -1932,7 +2787,11 @@ export const data = [
     "page": 81,
     "progress": "In Progress",
     "notes": "in part achieved by invalidating collective bargaining agreements made within 30 days of an incoming president's term",
-    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/limiting-lame-duck-collective-bargaining-agreements-that-improperly-attempt-to-constrain-the-new-president/"
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/limiting-lame-duck-collective-bargaining-agreements-that-improperly-attempt-to-constrain-the-new-president/",
+    "tags": [
+      "Personnel",
+      "Unions"
+    ]
   },
   {
     "agency": "SBA",
@@ -1941,7 +2800,11 @@ export const data = [
     "page": 750,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Economy",
+      "SBA"
+    ]
   },
   {
     "agency": "SBA",
@@ -1950,7 +2813,11 @@ export const data = [
     "page": 754,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Economy",
+      "SBA"
+    ]
   },
   {
     "agency": "State",
@@ -1959,7 +2826,11 @@ export const data = [
     "page": 174,
     "progress": "Completed",
     "notes": "",
-    "link": "https://www.cnn.com/2025/01/30/world/us-foreign-aid-freeze-intl-latam/index.html"
+    "link": "https://www.cnn.com/2025/01/30/world/us-foreign-aid-freeze-intl-latam/index.html",
+    "tags": [
+      "State",
+      "Aid"
+    ]
   },
   {
     "agency": "State",
@@ -1968,7 +2839,11 @@ export const data = [
     "page": 191,
     "progress": "Completed",
     "notes": "",
-    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/withdrawing-the-united-states-from-the-worldhealth-organization/"
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/withdrawing-the-united-states-from-the-worldhealth-organization/",
+    "tags": [
+      "State",
+      "Aid"
+    ]
   },
   {
     "agency": "State",
@@ -1977,7 +2852,11 @@ export const data = [
     "page": 191,
     "progress": "Completed",
     "notes": "",
-    "link": "https://www.politico.com/news/2025/02/03/us-withdraw-un-human-rights-council-trump-00202100"
+    "link": "https://www.politico.com/news/2025/02/03/us-withdraw-un-human-rights-council-trump-00202100",
+    "tags": [
+      "State",
+      "Aid"
+    ]
   },
   {
     "agency": "State",
@@ -1986,7 +2865,11 @@ export const data = [
     "page": 191,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "State",
+      "Aid"
+    ]
   },
   {
     "agency": "State",
@@ -1995,7 +2878,11 @@ export const data = [
     "page": 191,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "State",
+      "Aid"
+    ]
   },
   {
     "agency": "State",
@@ -2004,7 +2891,11 @@ export const data = [
     "page": 191,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "State",
+      "Aid"
+    ]
   },
   {
     "agency": "State",
@@ -2013,7 +2904,11 @@ export const data = [
     "page": 177,
     "progress": "Completed",
     "notes": "",
-    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/protecting-the-american-people-against-invasion/"
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/protecting-the-american-people-against-invasion/",
+    "tags": [
+      "State",
+      "Immigration"
+    ]
   },
   {
     "agency": "State",
@@ -2022,7 +2917,11 @@ export const data = [
     "page": 178,
     "progress": "Completed",
     "notes": "Trump went farther, suspending all refugee access",
-    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/realigning-the-united-states-refugee-admissions-program/"
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/realigning-the-united-states-refugee-admissions-program/",
+    "tags": [
+      "State",
+      "Immigration"
+    ]
   },
   {
     "agency": "State",
@@ -2031,7 +2930,12 @@ export const data = [
     "page": 261,
     "progress": "Completed",
     "notes": "",
-    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/memorandum-for-the-secretary-of-state-the-secretary-of-defense-the-secretary-of-health-and-human-services-the-administrator-of-the-united-states-for-international-development/"
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/memorandum-for-the-secretary-of-state-the-secretary-of-defense-the-secretary-of-health-and-human-services-the-administrator-of-the-united-states-for-international-development/",
+    "tags": [
+      "Reproductive rights",
+      "State",
+      "Aid"
+    ]
   },
   {
     "agency": "Transportation",
@@ -2040,7 +2944,11 @@ export const data = [
     "page": 628,
     "progress": "Completed",
     "notes": "Transportation Secretary ordered the department to reverse Biden-era fuel economy standards",
-    "link": "https://apnews.com/article/climate-trump-mpg-fuel-economy-standards-automakers-0ef9147a0c3874a50a194e439f604261"
+    "link": "https://apnews.com/article/climate-trump-mpg-fuel-economy-standards-automakers-0ef9147a0c3874a50a194e439f604261",
+    "tags": [
+      "Transportation",
+      "Environment"
+    ]
   },
   {
     "agency": "Transportation",
@@ -2049,7 +2957,11 @@ export const data = [
     "page": 633,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "FAA",
+      "Transportation"
+    ]
   },
   {
     "agency": "Transportation",
@@ -2058,7 +2970,11 @@ export const data = [
     "page": 632,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "FAA",
+      "Transportation"
+    ]
   },
   {
     "agency": "Transportation",
@@ -2067,7 +2983,10 @@ export const data = [
     "page": 621,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Transportation"
+    ]
   },
   {
     "agency": "Transportation",
@@ -2076,7 +2995,10 @@ export const data = [
     "page": 635,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Transportation"
+    ]
   },
   {
     "agency": "Transportation",
@@ -2085,7 +3007,10 @@ export const data = [
     "page": 637,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Transportation"
+    ]
   },
   {
     "agency": "Treasury",
@@ -2094,7 +3019,11 @@ export const data = [
     "page": 701,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Treasury",
+      "Aid"
+    ]
   },
   {
     "agency": "Treasury",
@@ -2103,7 +3032,11 @@ export const data = [
     "page": 701,
     "progress": "Completed",
     "notes": "",
-    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/the-organization-for-economic-co-operation-and-development-oecd-global-tax-deal-global-tax-deal/"
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/the-organization-for-economic-co-operation-and-development-oecd-global-tax-deal-global-tax-deal/",
+    "tags": [
+      "DEIA",
+      "Treasury"
+    ]
   },
   {
     "agency": "Treasury",
@@ -2112,7 +3045,11 @@ export const data = [
     "page": 698,
     "progress": "In Progress",
     "notes": "Trump withdrew from the OECD's global tax deal",
-    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/the-organization-for-economic-co-operation-and-development-oecd-global-tax-deal-global-tax-deal/"
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/the-organization-for-economic-co-operation-and-development-oecd-global-tax-deal-global-tax-deal/",
+    "tags": [
+      "Treasury",
+      "Economy"
+    ]
   },
   {
     "agency": "Treasury",
@@ -2121,7 +3058,11 @@ export const data = [
     "page": 705,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Treasury",
+      "Economy"
+    ]
   },
   {
     "agency": "Treasury",
@@ -2130,7 +3071,12 @@ export const data = [
     "page": 707,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Treasury",
+      "Accountability",
+      "Economy"
+    ]
   },
   {
     "agency": "Treasury",
@@ -2139,7 +3085,12 @@ export const data = [
     "page": 706,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Treasury",
+      "Housing",
+      "Economy"
+    ]
   },
   {
     "agency": "Treasury",
@@ -2148,7 +3099,11 @@ export const data = [
     "page": 709,
     "progress": "Completed",
     "notes": "",
-    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/putting-america-first-in-international-environmental-agreements/"
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/putting-america-first-in-international-environmental-agreements/",
+    "tags": [
+      "Treasury",
+      "Environment"
+    ]
   },
   {
     "agency": "Treasury",
@@ -2157,7 +3112,11 @@ export const data = [
     "page": 709,
     "progress": "Completed",
     "notes": "Trump rescinded a Biden order directing an evaluation of climate-related financial risk",
-    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-american-energy/"
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-american-energy/",
+    "tags": [
+      "Treasury",
+      "Environment"
+    ]
   },
   {
     "agency": "Treasury",
@@ -2166,7 +3125,11 @@ export const data = [
     "page": 710,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Treasury",
+      "Reorganization"
+    ]
   },
   {
     "agency": "Treasury",
@@ -2175,7 +3138,12 @@ export const data = [
     "page": 709,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Treasury",
+      "Environment",
+      "Reorganization"
+    ]
   },
   {
     "agency": "Treasury",
@@ -2184,7 +3152,11 @@ export const data = [
     "page": 696,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Taxes",
+      "Treasury"
+    ]
   },
   {
     "agency": "Treasury",
@@ -2193,7 +3165,11 @@ export const data = [
     "page": 696,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Taxes",
+      "Treasury"
+    ]
   },
   {
     "agency": "Treasury",
@@ -2202,7 +3178,11 @@ export const data = [
     "page": 697,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Taxes",
+      "Treasury"
+    ]
   },
   {
     "agency": "Treasury",
@@ -2211,7 +3191,12 @@ export const data = [
     "page": 697,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Taxes",
+      "Treasury",
+      "Labor"
+    ]
   },
   {
     "agency": "USAGM",
@@ -2220,7 +3205,11 @@ export const data = [
     "page": 242,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "USAGM",
+      "Media"
+    ]
   },
   {
     "agency": "USAGM",
@@ -2229,7 +3218,11 @@ export const data = [
     "page": 244,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "USAGM",
+      "Media"
+    ]
   },
   {
     "agency": "USAGM",
@@ -2238,7 +3231,12 @@ export const data = [
     "page": 242,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Technology",
+      "USAGM",
+      "Media"
+    ]
   },
   {
     "agency": "USAID",
@@ -2247,7 +3245,11 @@ export const data = [
     "page": 254,
     "progress": "Completed",
     "notes": "achieved by freezing all USAID funding and starting the process of shutting down the agency",
-    "link": "https://www.npr.org/2025/02/03/nx-s1-5285409/usaid-trump-state-department-rubio"
+    "link": "https://www.npr.org/2025/02/03/nx-s1-5285409/usaid-trump-state-department-rubio",
+    "tags": [
+      "USAID",
+      "Aid"
+    ]
   },
   {
     "agency": "USAID",
@@ -2256,7 +3258,11 @@ export const data = [
     "page": 257,
     "progress": "Completed",
     "notes": "achieved by freezing all USAID funding and starting the process of shutting down the agency",
-    "link": "https://www.npr.org/2025/02/03/nx-s1-5285409/usaid-trump-state-department-rubio"
+    "link": "https://www.npr.org/2025/02/03/nx-s1-5285409/usaid-trump-state-department-rubio",
+    "tags": [
+      "USAID",
+      "Aid"
+    ]
   },
   {
     "agency": "USAID",
@@ -2265,7 +3271,11 @@ export const data = [
     "page": 268,
     "progress": "Completed",
     "notes": "achieved by freezing all USAID funding and starting the process of shutting down the agency",
-    "link": "https://www.npr.org/2025/02/03/nx-s1-5285409/usaid-trump-state-department-rubio"
+    "link": "https://www.npr.org/2025/02/03/nx-s1-5285409/usaid-trump-state-department-rubio",
+    "tags": [
+      "USAID",
+      "Aid"
+    ]
   },
   {
     "agency": "USAID",
@@ -2274,7 +3284,11 @@ export const data = [
     "page": 265,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "USAID",
+      "Aid"
+    ]
   },
   {
     "agency": "USAID",
@@ -2283,7 +3297,11 @@ export const data = [
     "page": 258,
     "progress": "Completed",
     "notes": "",
-    "link": "https://www.devex.com/news/scoop-usaid-issues-staff-guidance-on-deia-foreign-aid-pause-orders-109162?skip_optional_steps=true"
+    "link": "https://www.devex.com/news/scoop-usaid-issues-staff-guidance-on-deia-foreign-aid-pause-orders-109162?skip_optional_steps=true",
+    "tags": [
+      "DEIA",
+      "USAID"
+    ]
   },
   {
     "agency": "USAID",
@@ -2292,7 +3310,12 @@ export const data = [
     "page": 259,
     "progress": "Completed",
     "notes": "achieved by freezing all USAID funding and starting the process of shutting down the agency",
-    "link": "https://www.npr.org/2025/02/03/nx-s1-5285409/usaid-trump-state-department-rubio"
+    "link": "https://www.npr.org/2025/02/03/nx-s1-5285409/usaid-trump-state-department-rubio",
+    "tags": [
+      "Reproductive rights",
+      "USAID",
+      "Aid"
+    ]
   },
   {
     "agency": "USDA",
@@ -2301,7 +3324,11 @@ export const data = [
     "page": 305,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Environment",
+      "USDA"
+    ]
   },
   {
     "agency": "USDA",
@@ -2310,7 +3337,11 @@ export const data = [
     "page": 302,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Food",
+      "USDA"
+    ]
   },
   {
     "agency": "USDA",
@@ -2319,7 +3350,11 @@ export const data = [
     "page": 307,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Food",
+      "USDA"
+    ]
   },
   {
     "agency": "USDA",
@@ -2328,7 +3363,11 @@ export const data = [
     "page": 309,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Food",
+      "USDA"
+    ]
   },
   {
     "agency": "USDA",
@@ -2337,7 +3376,11 @@ export const data = [
     "page": 296,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Food",
+      "USDA"
+    ]
   },
   {
     "agency": "USDA",
@@ -2346,7 +3389,11 @@ export const data = [
     "page": 297,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Food",
+      "USDA"
+    ]
   },
   {
     "agency": "USDA",
@@ -2355,7 +3402,12 @@ export const data = [
     "page": 293,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Food",
+      "Environment",
+      "USDA"
+    ]
   },
   {
     "agency": "USDA",
@@ -2364,7 +3416,11 @@ export const data = [
     "page": 308,
     "progress": "In Progress",
     "notes": "Trump rescinded a Biden-era executive order that prioritized conservation strategies in wildfire prevention",
-    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-american-energy/"
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-american-energy/",
+    "tags": [
+      "Forest Service",
+      "USDA"
+    ]
   },
   {
     "agency": "USDA",
@@ -2373,7 +3429,11 @@ export const data = [
     "page": 303,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Reorganization",
+      "USDA"
+    ]
   },
   {
     "agency": "USDA",
@@ -2382,7 +3442,11 @@ export const data = [
     "page": 304,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Reorganization",
+      "USDA"
+    ]
   },
   {
     "agency": "USDA",
@@ -2391,7 +3455,11 @@ export const data = [
     "page": 307,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Trade",
+      "USDA"
+    ]
   },
   {
     "agency": "USDA",
@@ -2400,7 +3468,11 @@ export const data = [
     "page": 298,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "USDA",
+      "Welfare"
+    ]
   },
   {
     "agency": "USDA",
@@ -2409,7 +3481,11 @@ export const data = [
     "page": 299,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "USDA",
+      "Welfare"
+    ]
   },
   {
     "agency": "USDA",
@@ -2418,7 +3494,11 @@ export const data = [
     "page": 300,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "USDA",
+      "Welfare"
+    ]
   },
   {
     "agency": "USDA",
@@ -2427,7 +3507,11 @@ export const data = [
     "page": 301,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "USDA",
+      "Welfare"
+    ]
   },
   {
     "agency": "USDA",
@@ -2436,7 +3520,11 @@ export const data = [
     "page": 303,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "USDA",
+      "Welfare"
+    ]
   },
   {
     "agency": "VA",
@@ -2445,7 +3533,11 @@ export const data = [
     "page": 653,
     "progress": "In Progress",
     "notes": "According to a leaked memo, the VA deactivated coursework on \"Whistleblower Rights and Protections\"",
-    "link": "https://x.com/kenklippenstein/status/1886483226564149676"
+    "link": "https://x.com/kenklippenstein/status/1886483226564149676",
+    "tags": [
+      "VA",
+      "Accountability"
+    ]
   },
   {
     "agency": "VA",
@@ -2454,7 +3546,11 @@ export const data = [
     "page": 644,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Reproductive health",
+      "VA"
+    ]
   },
   {
     "agency": "VA",
@@ -2463,7 +3559,11 @@ export const data = [
     "page": 648,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Veterans",
+      "VA"
+    ]
   },
   {
     "agency": "VA",
@@ -2472,7 +3572,11 @@ export const data = [
     "page": 649,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Veterans",
+      "VA"
+    ]
   },
   {
     "agency": "VA",
@@ -2481,7 +3585,11 @@ export const data = [
     "page": 649,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "Veterans",
+      "VA"
+    ]
   },
   {
     "agency": "WH office",
@@ -2490,7 +3598,11 @@ export const data = [
     "page": 60,
     "progress": "Completed",
     "notes": "Trump rescinded the 1977 order giving CEQ authority to issue these regulations, and instructs the chair of CEQ to, within 30 days, \u201cpropose rescinding\u201d all regulations the Council has issued to date",
-    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-american-energy/"
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-american-energy/",
+    "tags": [
+      "WH office",
+      "Environment"
+    ]
   },
   {
     "agency": "WH office",
@@ -2499,7 +3611,11 @@ export const data = [
     "page": 61,
     "progress": "Completed",
     "notes": "Trump rescinded the executive order that  created the Working Group",
-    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-american-energy/"
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-american-energy/",
+    "tags": [
+      "WH office",
+      "Environment"
+    ]
   },
   {
     "agency": "WH office",
@@ -2508,7 +3624,11 @@ export const data = [
     "page": 59,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "WH office",
+      "Environment"
+    ]
   },
   {
     "agency": "WH office",
@@ -2517,7 +3637,11 @@ export const data = [
     "page": 61,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "WH office",
+      "Environment"
+    ]
   },
   {
     "agency": "WH office",
@@ -2526,7 +3650,11 @@ export const data = [
     "page": 62,
     "progress": "Completed",
     "notes": "",
-    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/initial-rescissions-of-harmful-executive-orders-and-actions/"
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/initial-rescissions-of-harmful-executive-orders-and-actions/",
+    "tags": [
+      "LGBTQIA",
+      "WH office"
+    ]
   },
   {
     "agency": "WH office",
@@ -2535,7 +3663,12 @@ export const data = [
     "page": 48,
     "progress": "Completed",
     "notes": "",
-    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/ending-radical-and-wasteful-government-dei-programs-and-preferencing/"
+    "link": "https://www.whitehouse.gov/presidential-actions/2025/01/ending-radical-and-wasteful-government-dei-programs-and-preferencing/",
+    "tags": [
+      "LGBTQIA",
+      "WH office",
+      "DEIA"
+    ]
   },
   {
     "agency": "WH office",
@@ -2544,7 +3677,11 @@ export const data = [
     "page": 45,
     "progress": "Completed",
     "notes": "Elon Musk and his team are reportedly in control of a significant portion of federal funding",
-    "link": "https://www.msnbc.com/opinion/msnbc-opinion/musk-doge-treasury-payment-system-rcna190222"
+    "link": "https://www.msnbc.com/opinion/msnbc-opinion/musk-doge-treasury-payment-system-rcna190222",
+    "tags": [
+      "WH office",
+      "Presidential power"
+    ]
   },
   {
     "agency": "WH office",
@@ -2553,7 +3690,11 @@ export const data = [
     "page": 52,
     "progress": "Completed",
     "notes": "",
-    "link": "https://www.washingtonpost.com/national-security/2025/01/22/trump-waltz-national-security-council-officials/"
+    "link": "https://www.washingtonpost.com/national-security/2025/01/22/trump-waltz-national-security-council-officials/",
+    "tags": [
+      "WH office",
+      "Presidential power"
+    ]
   },
   {
     "agency": "WH office",
@@ -2562,7 +3703,11 @@ export const data = [
     "page": 50,
     "progress": "",
     "notes": "",
-    "link": ""
+    "link": "",
+    "tags": [
+      "WH office",
+      "Presidential power"
+    ]
   },
   {
     "agency": "White House",
@@ -2571,6 +3716,10 @@ export const data = [
     "page": 107,
     "progress": "Completed",
     "notes": "",
-    "link": "https://www.cnn.com/2025/01/21/politics/trump-temporary-security-clearances/index.html"
+    "link": "https://www.cnn.com/2025/01/21/politics/trump-temporary-security-clearances/index.html",
+    "tags": [
+      "Intel",
+      "White House"
+    ]
   }
 ]

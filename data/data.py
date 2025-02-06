@@ -23,7 +23,9 @@ with open('./data.csv', 'r') as file:
             "page": int(row[3]) if row[3].isdigit() else 0,
             "progress": convertRow4(row[4]),
             "notes": row[5],
-            "link": row[6]
+            "link": row[6],
+            "tags": list(set([s[0].upper() + s[1:]
+                for s in [row[0]] + row[1].split(", ")]))
         }
         for row in csvreader
     ]

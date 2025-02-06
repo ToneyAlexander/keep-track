@@ -47,7 +47,8 @@ interface InfoBoxProps {
   link: string,
   page: number,
   progress: string
-  notes: string
+  notes: string,
+  tags: string[]
 }
 
 function progressColor(progress: string): string {
@@ -63,20 +64,20 @@ function progressColor(progress: string): string {
 function badgeColor(badge: string): string {
   if (["CDC", "NIH", "Medicaid", "Health", "Reproductive health", "CMS", "Medicare", "HHS"].includes(badge)) {
     return "rgb(30, 0, 113)"
-  } else if (["Commerce", "Trade", "Taxes", "Economy", "CFPB", "CFTC", "Student loans", "HUD"].includes(badge)) {
+  } else if (["Commerce", "Trade", "Taxes", "Economy", "CFPB", "CFTC", "Student loans", "HUD", "Funding", "Federal Reserve", "FTC"].includes(badge)) {
     return "rgb(90, 78, 1)"
-  } else if (["Defense", "DHS", "Intel", "Police", "DOJ", "Tsa", "Criminal justice", "Cyber security", "VA", "Veterans"].includes(badge)) {
+  } else if (["Defense", "DHS", "Intel", "Police", "DOJ", "TSA", "Criminal justice", "Cyber security", "VA", "Veterans"].includes(badge)) {
     return "rgb(128, 2, 2)"
-  } else if (["Lgbtqia", "Deia", "Civil rights"].includes(badge)) {
+  } else if (["LGBTQIA", "DEIA", "Civil rights", "Equality"].includes(badge)) {
     return "rgb(115, 1, 130)"
-  } else if (["Environment", "Fema", "Energy", "Nuclear", "Renewables", "EPA", "USDA"].includes(badge)) {
+  } else if (["Environment", "FEMA", "Energy", "Nuclear", "Renewables", "EPA", "USDA"].includes(badge)) {
     return "rgb(17, 100, 0)"
   } else {
     return "rgb(69, 69, 69)"
   }
 }
 
-export const InfoBox = ({ title, agency, subject, link, page, progress, notes }: InfoBoxProps) => {
+export const InfoBox = ({ title, agency, subject, link, page, progress, notes, tags }: InfoBoxProps) => {
   return (<div style={{
     background: progressColor(progress),
     width: "90%",
@@ -89,7 +90,9 @@ export const InfoBox = ({ title, agency, subject, link, page, progress, notes }:
   }}>
     <p style={{ textAlign: "left", margin: 0 }}>{progress}</p>
     <h3 style={{ marginTop: 0, marginBottom: "4px" }}>{title}</h3>
-    <span className="badge" style={{ backgroundColor: badgeColor(agency) }}>{agency}</span><span className="badge" style={{ backgroundColor: badgeColor(subject) }}>{subject}</span>
+    {tags.map((tag, idx) => {
+      return <span key={idx} className="badge" style={{ backgroundColor: badgeColor(tag) }}>{tag}</span>
+    })}
     <p><a href={link}>{notes}</a></p>
     <p>Project 2025 Page <a href={"https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=" + page}>{page}</a></p>
   </div>);
