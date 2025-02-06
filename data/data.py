@@ -24,7 +24,7 @@ with open('./data.csv', 'r') as file:
             "progress": convertRow4(row[4]),
             "notes": row[5],
             "link": row[6],
-            "tags": list(set([s[0].upper() + s[1:]
+            "tags": list(dict.fromkeys([s[0].upper() + s[1:]
                 for s in [row[0]] + row[1].split(", ")]))
         }
         for row in csvreader

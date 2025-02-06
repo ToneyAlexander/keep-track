@@ -8,8 +8,8 @@ export const data = [
     "notes": "",
     "link": "",
     "tags": [
-      "Health",
-      "CDC"
+      "CDC",
+      "Health"
     ]
   },
   {
@@ -21,8 +21,8 @@ export const data = [
     "notes": "",
     "link": "",
     "tags": [
-      "Health",
-      "CDC"
+      "CDC",
+      "Health"
     ]
   },
   {
@@ -34,8 +34,8 @@ export const data = [
     "notes": "",
     "link": "",
     "tags": [
-      "LGBTQIA",
-      "CDC"
+      "CDC",
+      "LGBTQIA"
     ]
   },
   {
@@ -60,8 +60,8 @@ export const data = [
     "notes": "",
     "link": "",
     "tags": [
-      "Reproductive health",
-      "CDC"
+      "CDC",
+      "Reproductive health"
     ]
   },
   {
@@ -73,8 +73,8 @@ export const data = [
     "notes": "",
     "link": "",
     "tags": [
-      "Reproductive health",
-      "CDC"
+      "CDC",
+      "Reproductive health"
     ]
   },
   {
@@ -86,8 +86,8 @@ export const data = [
     "notes": "",
     "link": "",
     "tags": [
-      "Reproductive health",
-      "CDC"
+      "CDC",
+      "Reproductive health"
     ]
   },
   {
@@ -125,8 +125,8 @@ export const data = [
     "notes": "",
     "link": "",
     "tags": [
-      "Medicaid",
-      "CMS"
+      "CMS",
+      "Medicaid"
     ]
   },
   {
@@ -138,8 +138,8 @@ export const data = [
     "notes": "",
     "link": "",
     "tags": [
-      "Medicaid",
-      "CMS"
+      "CMS",
+      "Medicaid"
     ]
   },
   {
@@ -151,8 +151,8 @@ export const data = [
     "notes": "",
     "link": "",
     "tags": [
-      "Medicaid",
-      "CMS"
+      "CMS",
+      "Medicaid"
     ]
   },
   {
@@ -164,8 +164,8 @@ export const data = [
     "notes": "",
     "link": "",
     "tags": [
-      "Medicaid",
-      "CMS"
+      "CMS",
+      "Medicaid"
     ]
   },
   {
@@ -177,8 +177,8 @@ export const data = [
     "notes": "",
     "link": "",
     "tags": [
-      "Medicaid",
-      "CMS"
+      "CMS",
+      "Medicaid"
     ]
   },
   {
@@ -308,8 +308,8 @@ export const data = [
     "link": "",
     "tags": [
       "Commerce",
-      "Environment",
-      "Reorganization"
+      "Reorganization",
+      "Environment"
     ]
   },
   {
@@ -334,8 +334,8 @@ export const data = [
     "notes": "in progress: Trump's FCC ordered an investigation into the funding of NPR and PBS",
     "link": "https://www.npr.org/2025/01/30/nx-s1-5281162/fcc-npr-pbs-investigation",
     "tags": [
-      "Media",
-      "CPB"
+      "CPB",
+      "Media"
     ]
   },
   {
@@ -422,8 +422,8 @@ export const data = [
     "link": "",
     "tags": [
       "Defense",
-      "Technology",
-      "Elections"
+      "Elections",
+      "Technology"
     ]
   },
   {
@@ -866,8 +866,8 @@ export const data = [
     "link": "",
     "tags": [
       "DHS",
-      "Reorganization",
-      "Intel"
+      "Intel",
+      "Reorganization"
     ]
   },
   {
@@ -932,9 +932,9 @@ export const data = [
     "notes": "",
     "link": "",
     "tags": [
-      "Voting rights",
       "DOJ",
-      "Civil rights"
+      "Civil rights",
+      "Voting rights"
     ]
   },
   {
@@ -946,8 +946,8 @@ export const data = [
     "notes": "",
     "link": "https://www.whitehouse.gov/presidential-actions/2025/01/restoring-the-death-penalty-and-protecting-public-safety/",
     "tags": [
-      "Criminal justice",
-      "DOJ"
+      "DOJ",
+      "Criminal justice"
     ]
   },
   {
@@ -959,8 +959,8 @@ export const data = [
     "notes": "",
     "link": "",
     "tags": [
-      "Criminal justice",
-      "DOJ"
+      "DOJ",
+      "Criminal justice"
     ]
   },
   {
@@ -972,8 +972,8 @@ export const data = [
     "notes": "",
     "link": "",
     "tags": [
-      "Criminal justice",
-      "DOJ"
+      "DOJ",
+      "Criminal justice"
     ]
   },
   {
@@ -985,8 +985,8 @@ export const data = [
     "notes": "DOJ has frozen all consent decrees finalized within the last 90 days; paused all civil rights litigation",
     "link": "https://www.yahoo.com/news/trumps-doj-reportedly-moves-halt-143659620.html",
     "tags": [
-      "Criminal justice",
       "DOJ",
+      "Criminal justice",
       "Police"
     ]
   },
@@ -999,9 +999,9 @@ export const data = [
     "notes": "DOJ has directed federal prosecutors to limit enforcement of the FACE Act",
     "link": "https://www.cbsnews.com/news/trump-face-act-abortion-related-actions-justice-department/",
     "tags": [
-      "Reproductive health",
+      "DOJ",
       "Criminal justice",
-      "DOJ"
+      "Reproductive health"
     ]
   },
   {
@@ -1013,8 +1013,8 @@ export const data = [
     "notes": "",
     "link": "https://www.nbcnews.com/politics/justice-department/trump-reversing-justice-departments-civil-rights-policies-rcna189657",
     "tags": [
-      "DEIA",
-      "DOJ"
+      "DOJ",
+      "DEIA"
     ]
   },
   {
@@ -1026,8 +1026,8 @@ export const data = [
     "notes": "",
     "link": "https://news.bloomberglaw.com/us-law-week/trump-doj-orders-probes-into-state-local-immigration-resistors",
     "tags": [
-      "Funding",
       "DOJ",
+      "Funding",
       "Immigration"
     ]
   },
@@ -1105,8 +1105,8 @@ export const data = [
     "notes": "",
     "link": "",
     "tags": [
-      "Reproductive health",
-      "DOJ"
+      "DOJ",
+      "Reproductive health"
     ]
   },
   {
@@ -1118,8 +1118,8 @@ export const data = [
     "notes": "",
     "link": "https://www.whitehouse.gov/presidential-actions/2025/01/restoring-freedom-of-speech-and-ending-federal-censorship/",
     "tags": [
-      "Technology",
-      "DOJ"
+      "DOJ",
+      "Technology"
     ]
   },
   {
@@ -1157,9 +1157,9 @@ export const data = [
     "notes": "",
     "link": "https://thehill.com/homenews/education/5118925-trump-biden-title-ix-education-gender-lgbtq/",
     "tags": [
-      "LGBTQIA",
       "Education",
-      "Civil rights"
+      "Civil rights",
+      "LGBTQIA"
     ]
   },
   {
@@ -1171,9 +1171,9 @@ export const data = [
     "notes": "achieved by issuing an executive order declaring it is federal policy that there are only two genders: male and female",
     "link": "https://www.whitehouse.gov/presidential-actions/2025/01/defending-women-from-gender-ideology-extremism-and-restoring-biological-truth-to-the-federal-government/",
     "tags": [
-      "LGBTQIA",
       "Education",
-      "Civil rights"
+      "Civil rights",
+      "LGBTQIA"
     ]
   },
   {
@@ -1185,9 +1185,9 @@ export const data = [
     "notes": "",
     "link": "https://www.whitehouse.gov/presidential-actions/2025/01/defending-women-from-gender-ideology-extremism-and-restoring-biological-truth-to-the-federal-government/",
     "tags": [
-      "LGBTQIA",
       "Education",
-      "Civil rights"
+      "Civil rights",
+      "LGBTQIA"
     ]
   },
   {
@@ -1332,8 +1332,8 @@ export const data = [
     "notes": "",
     "link": "https://www.whitehouse.gov/presidential-actions/2025/01/defending-women-from-gender-ideology-extremism-and-restoring-biological-truth-to-the-federal-government/",
     "tags": [
-      "LGBTQIA",
       "Education",
+      "LGBTQIA",
       "Civil rights"
     ]
   },
@@ -1346,8 +1346,8 @@ export const data = [
     "notes": "",
     "link": "https://19thnews.org/2025/01/trump-transgender-education-curriculum/",
     "tags": [
-      "LGBTQIA",
       "Education",
+      "LGBTQIA",
       "Equality"
     ]
   },
@@ -1528,8 +1528,8 @@ export const data = [
     "link": "",
     "tags": [
       "Energy",
-      "Environment",
-      "Nuclear"
+      "Nuclear",
+      "Environment"
     ]
   },
   {
@@ -1541,8 +1541,8 @@ export const data = [
     "notes": "Trump signed an executive order indefinitely pausing the disbursement of funds",
     "link": "https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-american-energy/",
     "tags": [
-      "Renewables",
-      "Energy"
+      "Energy",
+      "Renewables"
     ]
   },
   {
@@ -1554,8 +1554,8 @@ export const data = [
     "notes": "Trump signed an executive order indefinitely pausing the disbursement of funds",
     "link": "https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-american-energy/",
     "tags": [
-      "Renewables",
-      "Energy"
+      "Energy",
+      "Renewables"
     ]
   },
   {
@@ -1658,8 +1658,8 @@ export const data = [
     "notes": "Trump signed an executive order to terminatate emissions waivers that function to limit sales of gasoline-powered automobiles",
     "link": "https://www.eenews.net/articles/trump-executive-order-targets-california-electric-vehicle-waiver/ ",
     "tags": [
-      "Environment",
-      "EPA"
+      "EPA",
+      "Environment"
     ]
   },
   {
@@ -1671,8 +1671,8 @@ export const data = [
     "notes": "",
     "link": "https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-american-energy/",
     "tags": [
-      "Environment",
-      "EPA"
+      "EPA",
+      "Environment"
     ]
   },
   {
@@ -1684,8 +1684,8 @@ export const data = [
     "notes": "",
     "link": "",
     "tags": [
-      "Environment",
-      "EPA"
+      "EPA",
+      "Environment"
     ]
   },
   {
@@ -1697,8 +1697,8 @@ export const data = [
     "notes": "",
     "link": "",
     "tags": [
-      "Environment",
-      "EPA"
+      "EPA",
+      "Environment"
     ]
   },
   {
@@ -1710,8 +1710,8 @@ export const data = [
     "notes": "in part achieved by freezing IRA/IIJA disbursements and by the overall federal funding freeze",
     "link": "https://www.reuters.com/world/us/senate-democrats-question-epa-blockage-committed-federal-grants-2025-01-31/",
     "tags": [
-      "Funding",
-      "EPA"
+      "EPA",
+      "Funding"
     ]
   },
   {
@@ -1723,8 +1723,8 @@ export const data = [
     "notes": "grants to programs like Climate Pollution Reduction Grants and ecycling Education and Outreach frozen",
     "link": "https://www.wastedive.com/news/federal-funding-pause-confusion-hits-environmental-program-funding/738993/",
     "tags": [
-      "Funding",
-      "EPA"
+      "EPA",
+      "Funding"
     ]
   },
   {
@@ -1736,8 +1736,8 @@ export const data = [
     "notes": "",
     "link": "",
     "tags": [
-      "Reorganization",
-      "EPA"
+      "EPA",
+      "Reorganization"
     ]
   },
   {
@@ -1749,8 +1749,8 @@ export const data = [
     "notes": "",
     "link": "",
     "tags": [
-      "Reorganization",
-      "EPA"
+      "EPA",
+      "Reorganization"
     ]
   },
   {
@@ -1762,8 +1762,8 @@ export const data = [
     "notes": "",
     "link": "",
     "tags": [
-      "Reorganization",
-      "EPA"
+      "EPA",
+      "Reorganization"
     ]
   },
   {
@@ -1775,8 +1775,8 @@ export const data = [
     "notes": "",
     "link": "",
     "tags": [
-      "Reorganization",
-      "EPA"
+      "EPA",
+      "Reorganization"
     ]
   },
   {
@@ -1788,8 +1788,8 @@ export const data = [
     "notes": "\"More than 1,000 EPA employees are told they could be dismissed immediately\"",
     "link": "https://www.nbcnews.com/science/science-news/epa-employees-told-dismissed-immediately-rcna190474",
     "tags": [
-      "Reorganization",
-      "EPA"
+      "EPA",
+      "Reorganization"
     ]
   },
   {
@@ -1801,8 +1801,8 @@ export const data = [
     "notes": "",
     "link": "",
     "tags": [
-      "Reorganization",
-      "EPA"
+      "EPA",
+      "Reorganization"
     ]
   },
   {
@@ -1827,8 +1827,8 @@ export const data = [
     "notes": "",
     "link": "",
     "tags": [
-      "Technology",
-      "FCC"
+      "FCC",
+      "Technology"
     ]
   },
   {
@@ -1840,8 +1840,8 @@ export const data = [
     "notes": "",
     "link": "",
     "tags": [
-      "Technology",
-      "FCC"
+      "FCC",
+      "Technology"
     ]
   },
   {
@@ -1853,8 +1853,8 @@ export const data = [
     "notes": "",
     "link": "",
     "tags": [
-      "Technology",
-      "FCC"
+      "FCC",
+      "Technology"
     ]
   },
   {
@@ -1866,8 +1866,8 @@ export const data = [
     "notes": "",
     "link": "",
     "tags": [
-      "Reproductive health",
-      "FDA"
+      "FDA",
+      "Reproductive health"
     ]
   },
   {
@@ -1905,8 +1905,8 @@ export const data = [
     "notes": "",
     "link": "",
     "tags": [
-      "Economy",
-      "Federal Reserve"
+      "Federal Reserve",
+      "Economy"
     ]
   },
   {
@@ -1918,8 +1918,8 @@ export const data = [
     "notes": "",
     "link": "",
     "tags": [
-      "Economy",
-      "Federal Reserve"
+      "Federal Reserve",
+      "Economy"
     ]
   },
   {
@@ -1931,9 +1931,9 @@ export const data = [
     "notes": "",
     "link": "",
     "tags": [
-      "Accountability",
+      "FTC",
       "Economy",
-      "FTC"
+      "Accountability"
     ]
   },
   {
@@ -1945,9 +1945,9 @@ export const data = [
     "notes": "",
     "link": "",
     "tags": [
-      "Accountability",
+      "FTC",
       "Economy",
-      "FTC"
+      "Accountability"
     ]
   },
   {
@@ -1959,9 +1959,9 @@ export const data = [
     "notes": "",
     "link": "https://apnews.com/article/trump-gender-ideology-sex-pronouns-order-transgender-2d7e54837f5d0651ed0cefa5ea0d6301",
     "tags": [
+      "General",
       "LGBTQIA",
-      "DEIA",
-      "General"
+      "DEIA"
     ]
   },
   {
@@ -2028,8 +2028,8 @@ export const data = [
     "link": "",
     "tags": [
       "HHS",
-      "Childcare",
-      "LGBTQIA"
+      "LGBTQIA",
+      "Childcare"
     ]
   },
   {
@@ -2042,8 +2042,8 @@ export const data = [
     "link": "",
     "tags": [
       "HHS",
-      "Medicare",
-      "LGBTQIA"
+      "LGBTQIA",
+      "Medicare"
     ]
   },
   {
@@ -2212,8 +2212,8 @@ export const data = [
     "link": "",
     "tags": [
       "HHS",
-      "Immigration",
-      "Reproductive health"
+      "Reproductive health",
+      "Immigration"
     ]
   },
   {
@@ -2238,8 +2238,8 @@ export const data = [
     "notes": "",
     "link": "",
     "tags": [
-      "Equality",
-      "HUD"
+      "HUD",
+      "Equality"
     ]
   },
   {
@@ -2251,8 +2251,8 @@ export const data = [
     "notes": "",
     "link": "",
     "tags": [
-      "Equality",
-      "HUD"
+      "HUD",
+      "Equality"
     ]
   },
   {
@@ -2264,8 +2264,8 @@ export const data = [
     "notes": "",
     "link": "",
     "tags": [
-      "Housing",
-      "HUD"
+      "HUD",
+      "Housing"
     ]
   },
   {
@@ -2277,8 +2277,8 @@ export const data = [
     "notes": "",
     "link": "",
     "tags": [
-      "Housing",
-      "HUD"
+      "HUD",
+      "Housing"
     ]
   },
   {
@@ -2290,8 +2290,8 @@ export const data = [
     "notes": "",
     "link": "",
     "tags": [
-      "Housing",
-      "HUD"
+      "HUD",
+      "Housing"
     ]
   },
   {
@@ -2303,8 +2303,8 @@ export const data = [
     "notes": "",
     "link": "",
     "tags": [
-      "Housing",
       "HUD",
+      "Housing",
       "Immigration"
     ]
   },
@@ -2369,8 +2369,8 @@ export const data = [
     "notes": "starting to be implemented in other departments: Musk's team wants an \"AI-first\" approach through all of government",
     "link": "https://www.wired.com/story/elon-musk-lieutenant-gsa-ai-agency/",
     "tags": [
-      "Technology",
-      "IC"
+      "IC",
+      "Technology"
     ]
   },
   {
@@ -2382,8 +2382,8 @@ export const data = [
     "notes": "Trump reinstated his first administration's impact reviews of the project, which were more favorable than Biden's",
     "link": "https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-alaskas-extraordinary-resource-potential/",
     "tags": [
-      "Environment",
-      "Interior"
+      "Interior",
+      "Environment"
     ]
   },
   {
@@ -2395,8 +2395,8 @@ export const data = [
     "notes": "",
     "link": "https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-alaskas-extraordinary-resource-potential/",
     "tags": [
-      "Environment",
-      "Interior"
+      "Interior",
+      "Environment"
     ]
   },
   {
@@ -2408,8 +2408,8 @@ export const data = [
     "notes": "Trump rescinded Executive order 14008",
     "link": "https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-american-energy/",
     "tags": [
-      "Environment",
-      "Interior"
+      "Interior",
+      "Environment"
     ]
   },
   {
@@ -2421,8 +2421,8 @@ export const data = [
     "notes": "",
     "link": "https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-american-energy/",
     "tags": [
-      "Environment",
-      "Interior"
+      "Interior",
+      "Environment"
     ]
   },
   {
@@ -2434,8 +2434,8 @@ export const data = [
     "notes": "",
     "link": "",
     "tags": [
-      "Environment",
-      "Interior"
+      "Interior",
+      "Environment"
     ]
   },
   {
@@ -2447,8 +2447,8 @@ export const data = [
     "notes": "",
     "link": "",
     "tags": [
-      "Environment",
-      "Interior"
+      "Interior",
+      "Environment"
     ]
   },
   {
@@ -2460,8 +2460,8 @@ export const data = [
     "notes": "",
     "link": "",
     "tags": [
-      "Environment",
-      "Interior"
+      "Interior",
+      "Environment"
     ]
   },
   {
@@ -2473,8 +2473,8 @@ export const data = [
     "notes": "",
     "link": "",
     "tags": [
-      "Environment",
-      "Interior"
+      "Interior",
+      "Environment"
     ]
   },
   {
@@ -2486,8 +2486,8 @@ export const data = [
     "notes": "",
     "link": "",
     "tags": [
-      "Environment",
-      "Interior"
+      "Interior",
+      "Environment"
     ]
   },
   {
@@ -2499,9 +2499,9 @@ export const data = [
     "notes": "",
     "link": "",
     "tags": [
-      "Fossil fuels",
+      "Interior",
       "Environment",
-      "Interior"
+      "Fossil fuels"
     ]
   },
   {
@@ -2513,8 +2513,8 @@ export const data = [
     "notes": "",
     "link": "https://www.dol.gov/newsroom/releases/osec/osec20250124",
     "tags": [
-      "Civil rights",
-      "Labor"
+      "Labor",
+      "Civil rights"
     ]
   },
   {
@@ -2526,8 +2526,8 @@ export const data = [
     "notes": "",
     "link": "",
     "tags": [
-      "Civil rights",
-      "Labor"
+      "Labor",
+      "Civil rights"
     ]
   },
   {
@@ -2539,10 +2539,10 @@ export const data = [
     "notes": "",
     "link": "",
     "tags": [
-      "LGBTQIA",
+      "Labor",
       "Civil rights",
-      "Reproductive health",
-      "Labor"
+      "LGBTQIA",
+      "Reproductive health"
     ]
   },
   {
@@ -2554,8 +2554,8 @@ export const data = [
     "notes": "",
     "link": "",
     "tags": [
-      "DEIA",
-      "Labor"
+      "Labor",
+      "DEIA"
     ]
   },
   {
@@ -2567,9 +2567,9 @@ export const data = [
     "notes": "",
     "link": "",
     "tags": [
-      "LGBTQIA",
+      "Labor",
       "Environment",
-      "Labor"
+      "LGBTQIA"
     ]
   },
   {
@@ -2689,9 +2689,9 @@ export const data = [
     "notes": "Trump fired EEOC's Karla Gilbride and NLRB's Jennifer Abruzzo",
     "link": "https://www.nlrb.gov/news-outreach/news-story/statement-from-departing-nlrb-general-counsel-jennifer-abruzzo",
     "tags": [
-      "Staffing",
+      "Labor",
       "Reorganization",
-      "Labor"
+      "Staffing"
     ]
   },
   {
@@ -2703,8 +2703,8 @@ export const data = [
     "notes": "",
     "link": "",
     "tags": [
-      "Reproductive health",
-      "Labor"
+      "Labor",
+      "Reproductive health"
     ]
   },
   {
@@ -2802,8 +2802,8 @@ export const data = [
     "notes": "",
     "link": "",
     "tags": [
-      "Economy",
-      "SBA"
+      "SBA",
+      "Economy"
     ]
   },
   {
@@ -2815,8 +2815,8 @@ export const data = [
     "notes": "",
     "link": "",
     "tags": [
-      "Economy",
-      "SBA"
+      "SBA",
+      "Economy"
     ]
   },
   {
@@ -2932,8 +2932,8 @@ export const data = [
     "notes": "",
     "link": "https://www.whitehouse.gov/presidential-actions/2025/01/memorandum-for-the-secretary-of-state-the-secretary-of-defense-the-secretary-of-health-and-human-services-the-administrator-of-the-united-states-for-international-development/",
     "tags": [
-      "Reproductive rights",
       "State",
+      "Reproductive rights",
       "Aid"
     ]
   },
@@ -2959,8 +2959,8 @@ export const data = [
     "notes": "",
     "link": "",
     "tags": [
-      "FAA",
-      "Transportation"
+      "Transportation",
+      "FAA"
     ]
   },
   {
@@ -2972,8 +2972,8 @@ export const data = [
     "notes": "",
     "link": "",
     "tags": [
-      "FAA",
-      "Transportation"
+      "Transportation",
+      "FAA"
     ]
   },
   {
@@ -3034,8 +3034,8 @@ export const data = [
     "notes": "",
     "link": "https://www.whitehouse.gov/presidential-actions/2025/01/the-organization-for-economic-co-operation-and-development-oecd-global-tax-deal-global-tax-deal/",
     "tags": [
-      "DEIA",
-      "Treasury"
+      "Treasury",
+      "DEIA"
     ]
   },
   {
@@ -3074,8 +3074,8 @@ export const data = [
     "link": "",
     "tags": [
       "Treasury",
-      "Accountability",
-      "Economy"
+      "Economy",
+      "Accountability"
     ]
   },
   {
@@ -3088,8 +3088,8 @@ export const data = [
     "link": "",
     "tags": [
       "Treasury",
-      "Housing",
-      "Economy"
+      "Economy",
+      "Housing"
     ]
   },
   {
@@ -3141,8 +3141,8 @@ export const data = [
     "link": "",
     "tags": [
       "Treasury",
-      "Environment",
-      "Reorganization"
+      "Reorganization",
+      "Environment"
     ]
   },
   {
@@ -3154,8 +3154,8 @@ export const data = [
     "notes": "",
     "link": "",
     "tags": [
-      "Taxes",
-      "Treasury"
+      "Treasury",
+      "Taxes"
     ]
   },
   {
@@ -3167,8 +3167,8 @@ export const data = [
     "notes": "",
     "link": "",
     "tags": [
-      "Taxes",
-      "Treasury"
+      "Treasury",
+      "Taxes"
     ]
   },
   {
@@ -3180,8 +3180,8 @@ export const data = [
     "notes": "",
     "link": "",
     "tags": [
-      "Taxes",
-      "Treasury"
+      "Treasury",
+      "Taxes"
     ]
   },
   {
@@ -3193,8 +3193,8 @@ export const data = [
     "notes": "",
     "link": "",
     "tags": [
-      "Taxes",
       "Treasury",
+      "Taxes",
       "Labor"
     ]
   },
@@ -3233,9 +3233,9 @@ export const data = [
     "notes": "",
     "link": "",
     "tags": [
-      "Technology",
       "USAGM",
-      "Media"
+      "Media",
+      "Technology"
     ]
   },
   {
@@ -3299,8 +3299,8 @@ export const data = [
     "notes": "",
     "link": "https://www.devex.com/news/scoop-usaid-issues-staff-guidance-on-deia-foreign-aid-pause-orders-109162?skip_optional_steps=true",
     "tags": [
-      "DEIA",
-      "USAID"
+      "USAID",
+      "DEIA"
     ]
   },
   {
@@ -3312,8 +3312,8 @@ export const data = [
     "notes": "achieved by freezing all USAID funding and starting the process of shutting down the agency",
     "link": "https://www.npr.org/2025/02/03/nx-s1-5285409/usaid-trump-state-department-rubio",
     "tags": [
-      "Reproductive rights",
       "USAID",
+      "Reproductive rights",
       "Aid"
     ]
   },
@@ -3326,8 +3326,8 @@ export const data = [
     "notes": "",
     "link": "",
     "tags": [
-      "Environment",
-      "USDA"
+      "USDA",
+      "Environment"
     ]
   },
   {
@@ -3339,8 +3339,8 @@ export const data = [
     "notes": "",
     "link": "",
     "tags": [
-      "Food",
-      "USDA"
+      "USDA",
+      "Food"
     ]
   },
   {
@@ -3352,8 +3352,8 @@ export const data = [
     "notes": "",
     "link": "",
     "tags": [
-      "Food",
-      "USDA"
+      "USDA",
+      "Food"
     ]
   },
   {
@@ -3365,8 +3365,8 @@ export const data = [
     "notes": "",
     "link": "",
     "tags": [
-      "Food",
-      "USDA"
+      "USDA",
+      "Food"
     ]
   },
   {
@@ -3378,8 +3378,8 @@ export const data = [
     "notes": "",
     "link": "",
     "tags": [
-      "Food",
-      "USDA"
+      "USDA",
+      "Food"
     ]
   },
   {
@@ -3391,8 +3391,8 @@ export const data = [
     "notes": "",
     "link": "",
     "tags": [
-      "Food",
-      "USDA"
+      "USDA",
+      "Food"
     ]
   },
   {
@@ -3404,9 +3404,9 @@ export const data = [
     "notes": "",
     "link": "",
     "tags": [
+      "USDA",
       "Food",
-      "Environment",
-      "USDA"
+      "Environment"
     ]
   },
   {
@@ -3418,8 +3418,8 @@ export const data = [
     "notes": "Trump rescinded a Biden-era executive order that prioritized conservation strategies in wildfire prevention",
     "link": "https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-american-energy/",
     "tags": [
-      "Forest Service",
-      "USDA"
+      "USDA",
+      "Forest Service"
     ]
   },
   {
@@ -3431,8 +3431,8 @@ export const data = [
     "notes": "",
     "link": "",
     "tags": [
-      "Reorganization",
-      "USDA"
+      "USDA",
+      "Reorganization"
     ]
   },
   {
@@ -3444,8 +3444,8 @@ export const data = [
     "notes": "",
     "link": "",
     "tags": [
-      "Reorganization",
-      "USDA"
+      "USDA",
+      "Reorganization"
     ]
   },
   {
@@ -3457,8 +3457,8 @@ export const data = [
     "notes": "",
     "link": "",
     "tags": [
-      "Trade",
-      "USDA"
+      "USDA",
+      "Trade"
     ]
   },
   {
@@ -3548,8 +3548,8 @@ export const data = [
     "notes": "",
     "link": "",
     "tags": [
-      "Reproductive health",
-      "VA"
+      "VA",
+      "Reproductive health"
     ]
   },
   {
@@ -3561,8 +3561,8 @@ export const data = [
     "notes": "",
     "link": "",
     "tags": [
-      "Veterans",
-      "VA"
+      "VA",
+      "Veterans"
     ]
   },
   {
@@ -3574,8 +3574,8 @@ export const data = [
     "notes": "",
     "link": "",
     "tags": [
-      "Veterans",
-      "VA"
+      "VA",
+      "Veterans"
     ]
   },
   {
@@ -3587,8 +3587,8 @@ export const data = [
     "notes": "",
     "link": "",
     "tags": [
-      "Veterans",
-      "VA"
+      "VA",
+      "Veterans"
     ]
   },
   {
@@ -3652,8 +3652,8 @@ export const data = [
     "notes": "",
     "link": "https://www.whitehouse.gov/presidential-actions/2025/01/initial-rescissions-of-harmful-executive-orders-and-actions/",
     "tags": [
-      "LGBTQIA",
-      "WH office"
+      "WH office",
+      "LGBTQIA"
     ]
   },
   {
@@ -3665,8 +3665,8 @@ export const data = [
     "notes": "",
     "link": "https://www.whitehouse.gov/presidential-actions/2025/01/ending-radical-and-wasteful-government-dei-programs-and-preferencing/",
     "tags": [
-      "LGBTQIA",
       "WH office",
+      "LGBTQIA",
       "DEIA"
     ]
   },
@@ -3718,8 +3718,8 @@ export const data = [
     "notes": "",
     "link": "https://www.cnn.com/2025/01/21/politics/trump-temporary-security-clearances/index.html",
     "tags": [
-      "Intel",
-      "White House"
+      "White House",
+      "Intel"
     ]
   }
 ]
