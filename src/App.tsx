@@ -20,19 +20,19 @@ function Home() {
       </header>
       <body>
         <div style={{
-            width: "80%",
-            marginLeft:"auto",
-            marginRight:"auto",
-            padding: "16px"
-          }}>
-            {data.map((datum, index) => {
-              return (
+          width: "90%",
+          marginLeft: "auto",
+          marginRight: "auto",
+          padding: "16px"
+        }}>
+          {data.map((datum, index) => {
+            return (
               <InfoBox
-              {...datum}
-              key={index}
+                {...datum}
+                key={index}
               ></InfoBox>
-              )
-            })}
+            )
+          })}
         </div>
 
       </body>
@@ -45,38 +45,54 @@ interface InfoBoxProps {
   agency: string,
   subject: string,
   link: string,
-  page: number, 
+  page: number,
   progress: string
   notes: string
 }
 
 function progressColor(progress: string): string {
-  if(progress==="In Progress"){
+  if (progress === "In Progress") {
     return "LemonChiffon"
-  }else if(progress==="Completed"){
+  } else if (progress === "Completed") {
     return "#d7ffd7"
-  }else{
+  } else {
     return "White"
   }
 }
 
-export const InfoBox = ({title, agency,subject,link,page, progress, notes}: InfoBoxProps) => {
+function badgeColor(badge: string): string {
+  if (["CDC", "NIH", "Medicaid", "Health", "Reproductive health", "CMS", "Medicare", "HHS"].includes(badge)) {
+    return "rgb(30, 0, 113)"
+  } else if (["Commerce", "Trade", "Taxes", "Economy", "CFPB", "CFTC", "Student loans", "HUD"].includes(badge)) {
+    return "rgb(90, 78, 1)"
+  } else if (["Defense", "DHS", "Intel", "Police", "DOJ", "Tsa", "Criminal justice", "Cyber security", "VA", "Veterans"].includes(badge)) {
+    return "rgb(128, 2, 2)"
+  } else if (["Lgbtqia", "Deia", "Civil rights"].includes(badge)) {
+    return "rgb(115, 1, 130)"
+  } else if (["Environment", "Fema", "Energy", "Nuclear", "Renewables", "EPA", "USDA"].includes(badge)) {
+    return "rgb(17, 100, 0)"
+  } else {
+    return "rgb(69, 69, 69)"
+  }
+}
+
+export const InfoBox = ({ title, agency, subject, link, page, progress, notes }: InfoBoxProps) => {
   return (<div style={{
-      background:progressColor(progress),
-      width: "80%",
-      marginLeft:"auto",
-      marginRight:"auto",
-      padding: "8px",
-      boxShadow: "6px 6px 6px lightgray",
-      borderRadius: "4px",
-      marginTop: "10px",
-    }}>
-      <p style={{textAlign:"left", margin:0}}>{progress}</p>
-      <h3 style={{marginTop:0, marginBottom:"4px"}}>{title}</h3>
-      <span className="badge">{agency}</span><span className="badge">{subject}</span>
-      <p><a href={link}>{notes}</a></p>
-      <p>Project 2025 Page <a href={"https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=" + page}>{page}</a></p>
-    </div>);
+    background: progressColor(progress),
+    width: "90%",
+    marginLeft: "auto",
+    marginRight: "auto",
+    padding: "8px",
+    boxShadow: "6px 6px 6px lightgray",
+    borderRadius: "4px",
+    marginTop: "10px",
+  }}>
+    <p style={{ textAlign: "left", margin: 0 }}>{progress}</p>
+    <h3 style={{ marginTop: 0, marginBottom: "4px" }}>{title}</h3>
+    <span className="badge" style={{ backgroundColor: badgeColor(agency) }}>{agency}</span><span className="badge" style={{ backgroundColor: badgeColor(subject) }}>{subject}</span>
+    <p><a href={link}>{notes}</a></p>
+    <p>Project 2025 Page <a href={"https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=" + page}>{page}</a></p>
+  </div>);
 }
 
 export default App;

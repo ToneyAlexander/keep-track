@@ -3,7 +3,7 @@ body {
   font-family: -apple-system, BlinkMacSystemFont, 'Helvetica', 'Arial', 'sans-serif';
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  --color-background: #fafafa;
+  --color-background: #f6f6f6;
   --color-foreground: #202020;
   --color-link: #61dafb;
 }
