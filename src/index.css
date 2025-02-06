@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Helvetica', 'Arial', 'sans-serif';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  --color-background: #fafafa;
+  --color-foreground: #202020;
+  --color-link: #61dafb;
+}
+
+html, body {
+  background-color: var(--color-background);
+  color: var(--color-foreground);
+  margin:0;
+  padding:0;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
